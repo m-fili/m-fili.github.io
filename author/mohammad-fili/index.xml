@@ -5,12 +5,28 @@
     <link>https://academic-demo.netlify.app/author/mohammad-fili/</link>
       <atom:link href="https://academic-demo.netlify.app/author/mohammad-fili/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad Fili</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/author/mohammad-fili/avatar_hu5ac66745f8b2d49a3b9d02f51bb39c88_200493_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Mohammad Fili</title>
       <link>https://academic-demo.netlify.app/author/mohammad-fili/</link>
     </image>
+    
+    <item>
+      <title>A Stacking-Based Classification Approach (Case Study in Volatility Prediction of HIV-1)</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/hiv1_stacking/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/hiv1_stacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covid-19 Intervention Policy Optimization Using a Multi-population Evolutionary Algorithm</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/covid19_evolutionary/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/covid19_evolutionary/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
@@ -152,25 +168,6 @@ date: 2019-09-01
       <link>https://academic-demo.netlify.app/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
