@@ -5,12 +5,20 @@
     <link>https://academic-demo.netlify.app/publication/</link>
       <atom:link href="https://academic-demo.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://academic-demo.netlify.app/publication/</link>
     </image>
+    
+    <item>
+      <title>Limited Variation between SARS-CoV-2-Infected Individuals in Domain Specificity and Relative Potency of the Antibody Response against the Spike Glycoprotein</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/covid19_antibodyresponse/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/covid19_antibodyresponse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Stacking-Based Classification Approach (Case Study in Volatility Prediction of HIV-1)</title>
@@ -25,6 +33,14 @@
       <link>https://academic-demo.netlify.app/publication/conference-paper/covid19_evolutionary/</link>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/publication/conference-paper/covid19_evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Town trip forecasting based on data mining techniques</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/nyc_yellowtaxi/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/nyc_yellowtaxi/</guid>
       <description></description>
     </item>
     
@@ -44,9 +60,9 @@
     
     <item>
       <title>An example journal article</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/</link>
+      <link>https://academic-demo.netlify.app/publication/journal-article/example/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/</guid>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
