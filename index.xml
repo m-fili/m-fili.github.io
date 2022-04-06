@@ -128,6 +128,14 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Limited Variation between SARS-CoV-2-Infected Individuals in Domain Specificity and Relative Potency of the Antibody Response against the Spike Glycoprotein</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/covid19_antibodyresponse/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/covid19_antibodyresponse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Stacking-Based Classification Approach (Case Study in Volatility Prediction of HIV-1)</title>
       <link>https://academic-demo.netlify.app/publication/conference-paper/hiv1_stacking/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -252,6 +260,14 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
+      <title>Town trip forecasting based on data mining techniques</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/nyc_yellowtaxi/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/nyc_yellowtaxi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>https://academic-demo.netlify.app/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -279,7 +295,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-385917642&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-284139576&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -289,7 +305,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-385917642&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-284139576&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -745,9 +761,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/</link>
+      <link>https://academic-demo.netlify.app/publication/journal-article/example/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/</guid>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
