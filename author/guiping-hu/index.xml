@@ -5,12 +5,20 @@
     <link>https://academic-demo.netlify.app/author/guiping-hu/</link>
       <atom:link href="https://academic-demo.netlify.app/author/guiping-hu/index.xml" rel="self" type="application/rss+xml" />
     <description>Guiping Hu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Guiping Hu</title>
       <link>https://academic-demo.netlify.app/author/guiping-hu/</link>
     </image>
+    
+    <item>
+      <title>Limited Variation between SARS-CoV-2-Infected Individuals in Domain Specificity and Relative Potency of the Antibody Response against the Spike Glycoprotein</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/covid19_antibodyresponse/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/covid19_antibodyresponse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Stacking-Based Classification Approach (Case Study in Volatility Prediction of HIV-1)</title>
