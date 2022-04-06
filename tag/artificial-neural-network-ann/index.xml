@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Neural Network (ANN) | Academic</title>
+    <link>https://academic-demo.netlify.app/tag/artificial-neural-network-ann/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/artificial-neural-network-ann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artificial Neural Network (ANN)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Artificial Neural Network (ANN)</title>
+      <link>https://academic-demo.netlify.app/tag/artificial-neural-network-ann/</link>
+    </image>
+    
+    <item>
+      <title>Town trip forecasting based on data mining techniques</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/nyc_yellowtaxi/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/nyc_yellowtaxi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
