@@ -4,17 +4,33 @@
   
   
   <url>
-    <loc>https://academic-demo.netlify.app/courses/example/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
+    <loc>https://academic-demo.netlify.app/courses/supervised-learning/model-tuning/grid-search/</loc><lastmod>2022-06-30T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/courses/example/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
+    <loc>https://academic-demo.netlify.app/courses/supervised-learning/preprocessing/</loc><lastmod>2021-06-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/courses/example/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
+    <loc>https://academic-demo.netlify.app/courses/supervised-learning/model-tuning/bayesian-optimization/</loc><lastmod>2022-06-30T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/courses/supervised-learning/regression-models/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/courses/supervised-learning/classification-models/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/courses/supervised-learning/hyperparameter-tuning/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/courses/supervised-learning/model-evaluation/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/courses/</loc><lastmod>2022-06-30T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/courses/supervised-learning/model-tuning/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/courses/deep-learning/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/courses/supervised-learning/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/publication-type/2/</loc><lastmod>2022-01-26T00:00:00+00:00</lastmod></url>
   <url>
@@ -103,10 +119,6 @@
     <loc>https://academic-demo.netlify.app/tag/multi-population-evolutionary-algorithm/</loc><lastmod>2021-11-12T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/tag/policy-prescription/</loc><lastmod>2021-11-12T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/courses/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/courses/example/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
