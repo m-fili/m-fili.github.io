@@ -5,7 +5,7 @@
     <link>https://academic-demo.netlify.app/</link>
       <atom:link href="https://academic-demo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad Fili</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Mohammad Fili</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
       <title>Mohammad Fili</title>
@@ -261,6 +261,22 @@ fig.show()
     </item>
     
     <item>
+      <title>Experiences</title>
+      <link>https://academic-demo.netlify.app/experience/teaching/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/experience/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching Experiences</title>
+      <link>https://academic-demo.netlify.app/experience/research/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/experience/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Limited Variation between SARS-CoV-2-Infected Individuals in Domain Specificity and Relative Potency of the Antibody Response against the Spike Glycoprotein</title>
       <link>https://academic-demo.netlify.app/publication/journal-article/covid19_antibodyresponse/</link>
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
@@ -428,7 +444,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-295864371&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-129643758&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -438,7 +454,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-295864371&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-129643758&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
