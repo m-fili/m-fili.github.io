@@ -5,7 +5,7 @@
     <link>https://academic-demo.netlify.app/</link>
       <atom:link href="https://academic-demo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad Fili</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Mohammad Fili</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Mohammad Fili</copyright><lastBuildDate>Sun, 16 Oct 2022 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
       <title>Mohammad Fili</title>
@@ -231,10 +231,10 @@ fig.show()
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://academic-demo.netlify.app/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/example-talk/</guid>
+      <title>A Hybrid Machine Learning-Optimization Framework to Distinguish between Positive-agers and Cognitive-decliners using Resting-state Functional MRI Data</title>
+      <link>https://academic-demo.netlify.app/talk/a-hybrid-machine-learning-optimization-framework-to-distinguish-between-positive-agers-and-cognitive-decliners-using-resting-state-functional-mri-data/</link>
+      <pubDate>Sun, 16 Oct 2022 13:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/a-hybrid-machine-learning-optimization-framework-to-distinguish-between-positive-agers-and-cognitive-decliners-using-resting-state-functional-mri-data/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -248,6 +248,14 @@ fig.show()
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Prediction of New COVID-19 Cases Considering Mitigation Policies and Weather Data for European Countries.</title>
+      <link>https://academic-demo.netlify.app/talk/prediction-of-new-covid-19-cases-considering-mitigation-policies-and-weather-data-for-european-countries./</link>
+      <pubDate>Sat, 02 Jul 2022 13:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/prediction-of-new-covid-19-cases-considering-mitigation-policies-and-weather-data-for-european-countries./</guid>
+      <description></description>
     </item>
     
     <item>
@@ -434,7 +442,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-675894231&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-768952431&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -444,7 +452,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-675894231&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-768952431&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
