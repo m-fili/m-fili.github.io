@@ -333,7 +333,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="6a9b68ac524b11d74bd5122bd07e6617" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="c43e64004e2e7232b1baeb51b11befe1" >
 
   
   
@@ -876,7 +876,11 @@
         <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
       </ul>
 
-      
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#bayesian-optimization">Bayesian Optimization</a></li>
+  </ul>
+</nav>
 
       
     </div>
@@ -952,14 +956,10 @@
           <h1>Bayesian Optimization</h1>
 
           <div class="article-style">
-            
-<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
-
-
-<div id="bayesian-optimization" class="section level2">
-<h2>Bayesian Optimization</h2>
-<pre class="r"><code>str(mtcars)</code></pre>
-<pre><code>## &#39;data.frame&#39;:    32 obs. of  11 variables:
+            <h2 id="bayesian-optimization">Bayesian Optimization</h2>
+<pre><code class="language-r">str(mtcars)
+</code></pre>
+<pre><code>## 'data.frame':	32 obs. of  11 variables:
 ##  $ mpg : num  21 21 22.8 21.4 18.7 18.1 14.3 24.4 22.8 19.2 ...
 ##  $ cyl : num  6 6 4 6 8 6 8 4 4 6 ...
 ##  $ disp: num  160 160 108 258 360 ...
@@ -970,8 +970,8 @@
 ##  $ vs  : num  0 0 1 1 0 1 0 1 1 1 ...
 ##  $ am  : num  1 1 1 0 0 0 0 0 0 0 ...
 ##  $ gear: num  4 4 4 3 3 3 3 4 4 4 ...
-##  $ carb: num  4 4 1 1 2 1 4 2 2 4 ...</code></pre>
-</div>
+##  $ carb: num  4 4 1 1 2 1 4 2 2 4 ...
+</code></pre>
 
           </div>
 
