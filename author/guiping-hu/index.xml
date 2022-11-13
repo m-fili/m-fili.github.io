@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>A Hybrid Machine Learning Optimization Framework to Distinguish between Positive agers and Cognitive decliners using Resting state Functional MRI Data</title>
-      <link>https://academic-demo.netlify.app/talk/a-hybrid-machine-learning-optimization-framework-to-distinguish-between-positive-agers-and-cognitive-decliners-using-resting-state-functional-mri-data/</link>
+      <title>Super-Agers vs Cognitive Decliners</title>
+      <link>https://academic-demo.netlify.app/talk/super-agers-vs-cognitive-decliners/</link>
       <pubDate>Sun, 16 Oct 2022 13:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/a-hybrid-machine-learning-optimization-framework-to-distinguish-between-positive-agers-and-cognitive-decliners-using-resting-state-functional-mri-data/</guid>
+      <guid>https://academic-demo.netlify.app/talk/super-agers-vs-cognitive-decliners/</guid>
       <description>&lt;p&gt;#Slides can be added in a few ways:&lt;/p&gt;
 &lt;p&gt;#- &lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link #using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file
 #- &lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file
@@ -26,10 +26,10 @@
     </item>
     
     <item>
-      <title>Prediction of New COVID-19 Cases Considering Mitigation Policies and Weather Data for European Countries.</title>
-      <link>https://academic-demo.netlify.app/talk/prediction-of-new-covid-19-cases-considering-mitigation-policies-and-weather-data-for-european-countries./</link>
+      <title>COVID-19 Prediction for European Countries</title>
+      <link>https://academic-demo.netlify.app/talk/covid-19-prediction-for-european-countries/</link>
       <pubDate>Sat, 02 Jul 2022 13:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/prediction-of-new-covid-19-cases-considering-mitigation-policies-and-weather-data-for-european-countries./</guid>
+      <guid>https://academic-demo.netlify.app/talk/covid-19-prediction-for-european-countries/</guid>
       <description></description>
     </item>
     
