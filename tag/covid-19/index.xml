@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Covid-19 | Mohammad Fili</title>
+    <title>COVID-19 | Mohammad Fili</title>
     <link>https://academic-demo.netlify.app/tag/covid-19/</link>
       <atom:link href="https://academic-demo.netlify.app/tag/covid-19/index.xml" rel="self" type="application/rss+xml" />
-    <description>Covid-19</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Mohammad Fili</copyright><lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <description>COVID-19</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Mohammad Fili</copyright><lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
-      <title>Covid-19</title>
+      <title>COVID-19</title>
       <link>https://academic-demo.netlify.app/tag/covid-19/</link>
     </image>
+    
+    <item>
+      <title>Prediction of New COVID-19 Cases Considering Mitigation Policies and Weather Data for European Countries</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/covid19_prediction_europe/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/covid19_prediction_europe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Limited Variation between SARS-CoV-2-Infected Individuals in Domain Specificity and Relative Potency of the Antibody Response against the Spike Glycoprotein</title>
