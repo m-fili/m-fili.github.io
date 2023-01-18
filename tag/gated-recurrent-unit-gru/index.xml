@@ -5,12 +5,20 @@
     <link>https://academic-demo.netlify.app/tag/gated-recurrent-unit-gru/</link>
       <atom:link href="https://academic-demo.netlify.app/tag/gated-recurrent-unit-gru/index.xml" rel="self" type="application/rss+xml" />
     <description>Gated recurrent unit (GRU)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Mohammad Fili</copyright><lastBuildDate>Fri, 12 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Mohammad Fili</copyright><lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
       <title>Gated recurrent unit (GRU)</title>
       <link>https://academic-demo.netlify.app/tag/gated-recurrent-unit-gru/</link>
     </image>
+    
+    <item>
+      <title>COVID-19 forecasting and intervention planning using gated recurrent unit and evolutionary algorithm</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/mitigationpolicies_gru/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/mitigationpolicies_gru/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Covid-19 Intervention Policy Optimization Using a Multi-population Evolutionary Algorithm</title>
