@@ -5,7 +5,7 @@
     <link>https://academic-demo.netlify.app/</link>
       <atom:link href="https://academic-demo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad Fili</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Mohammad Fili</copyright><lastBuildDate>Sun, 16 Oct 2022 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Mohammad Fili</copyright><lastBuildDate>Wed, 30 Nov 2022 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
       <title>Mohammad Fili</title>
@@ -231,6 +231,14 @@ fig.show()
     </item>
     
     <item>
+      <title>Machine Learning Solutions for Healthcare Problems</title>
+      <link>https://academic-demo.netlify.app/talk/machine-learning-solutions-for-healthcare-problems/</link>
+      <pubDate>Wed, 30 Nov 2022 13:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/machine-learning-solutions-for-healthcare-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Super-Agers vs Cognitive Decliners</title>
       <link>https://academic-demo.netlify.app/talk/super-agers-vs-cognitive-decliners/</link>
       <pubDate>Sun, 16 Oct 2022 13:00:00 +0000</pubDate>
@@ -438,7 +446,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-147865329&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-498317256&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -448,7 +456,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-147865329&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-498317256&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
