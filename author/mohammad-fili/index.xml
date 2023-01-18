@@ -5,12 +5,20 @@
     <link>https://academic-demo.netlify.app/author/mohammad-fili/</link>
       <atom:link href="https://academic-demo.netlify.app/author/mohammad-fili/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad Fili</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Mohammad Fili</copyright><lastBuildDate>Wed, 30 Nov 2022 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Mohammad Fili</copyright><lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/author/mohammad-fili/avatar_hu5ac66745f8b2d49a3b9d02f51bb39c88_200493_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Mohammad Fili</title>
       <link>https://academic-demo.netlify.app/author/mohammad-fili/</link>
     </image>
+    
+    <item>
+      <title>Prediction of New COVID-19 Cases Considering Mitigation Policies and Weather Data for European Countries</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/covid19_prediction_europe/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/covid19_prediction_europe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine Learning Solutions for Healthcare Problems</title>
@@ -41,6 +49,14 @@
       <link>https://academic-demo.netlify.app/talk/covid-19-prediction-for-european-countries/</link>
       <pubDate>Sat, 02 Jul 2022 13:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/talk/covid-19-prediction-for-european-countries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 forecasting and intervention planning using gated recurrent unit and evolutionary algorithm</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/mitigationpolicies_gru/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/mitigationpolicies_gru/</guid>
       <description></description>
     </item>
     
@@ -208,25 +224,6 @@ date: 2019-09-01
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/example/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
