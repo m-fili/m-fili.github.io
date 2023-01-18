@@ -5,12 +5,20 @@
     <link>https://academic-demo.netlify.app/author/mohammad-fili/</link>
       <atom:link href="https://academic-demo.netlify.app/author/mohammad-fili/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad Fili</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Mohammad Fili</copyright><lastBuildDate>Sun, 16 Oct 2022 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Mohammad Fili</copyright><lastBuildDate>Wed, 30 Nov 2022 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/author/mohammad-fili/avatar_hu5ac66745f8b2d49a3b9d02f51bb39c88_200493_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Mohammad Fili</title>
       <link>https://academic-demo.netlify.app/author/mohammad-fili/</link>
     </image>
+    
+    <item>
+      <title>Machine Learning Solutions for Healthcare Problems</title>
+      <link>https://academic-demo.netlify.app/talk/machine-learning-solutions-for-healthcare-problems/</link>
+      <pubDate>Wed, 30 Nov 2022 13:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/machine-learning-solutions-for-healthcare-problems/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Super-Agers vs Cognitive Decliners</title>
