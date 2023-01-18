@@ -5,12 +5,20 @@
     <link>https://academic-demo.netlify.app/publication-type/1/</link>
       <atom:link href="https://academic-demo.netlify.app/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Mohammad Fili</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Mohammad Fili</copyright><lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://academic-demo.netlify.app/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Prediction of New COVID-19 Cases Considering Mitigation Policies and Weather Data for European Countries</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/covid19_prediction_europe/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/covid19_prediction_europe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Stacking-Based Classification Approach (Case Study in Volatility Prediction of HIV-1)</title>
