@@ -5,7 +5,7 @@
     <link>https://academic-demo.netlify.app/</link>
       <atom:link href="https://academic-demo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad Fili</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Mohammad Fili</copyright><lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Mohammad Fili</copyright><lastBuildDate>Sun, 21 May 2023 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
       <title>Mohammad Fili</title>
@@ -231,6 +231,22 @@ fig.show()
     </item>
     
     <item>
+      <title>A Machine Learning Approach to Estimate the Effectiveness of COVID-19 Policies</title>
+      <link>https://academic-demo.netlify.app/talk/a-machine-learning-approach-to-estimate-the-effectiveness-of-covid-19-policies/</link>
+      <pubDate>Sun, 21 May 2023 13:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/a-machine-learning-approach-to-estimate-the-effectiveness-of-covid-19-policies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional Demand Forecasting using Clearance Deals Data: A Case Study on an Online Retailer Company.</title>
+      <link>https://academic-demo.netlify.app/talk/regional-demand-forecasting-using-clearance-deals-data-a-case-study-on-an-online-retailer-company./</link>
+      <pubDate>Sun, 21 May 2023 13:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/regional-demand-forecasting-using-clearance-deals-data-a-case-study-on-an-online-retailer-company./</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prediction of New COVID-19 Cases Considering Mitigation Policies and Weather Data for European Countries</title>
       <link>https://academic-demo.netlify.app/publication/conference-paper/covid19_prediction_europe/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
@@ -255,18 +271,10 @@ fig.show()
     </item>
     
     <item>
-      <title>COVID-19 Policy Prescription for US</title>
-      <link>https://academic-demo.netlify.app/talk/covid-19-policy-prescription-for-us/</link>
-      <pubDate>Sat, 08 Oct 2022 13:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/covid-19-policy-prescription-for-us/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>COVID-19 Prediction for European Countries</title>
-      <link>https://academic-demo.netlify.app/talk/covid-19-prediction-for-european-countries/</link>
+      <title>AN LSTM Model to predict the COVID-19 New Cases for European Countries</title>
+      <link>https://academic-demo.netlify.app/talk/an-lstm-model-to-predict-the-covid-19-new-cases-for-european-countries/</link>
       <pubDate>Sat, 02 Jul 2022 13:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/covid-19-prediction-for-european-countries/</guid>
+      <guid>https://academic-demo.netlify.app/talk/an-lstm-model-to-predict-the-covid-19-new-cases-for-european-countries/</guid>
       <description></description>
     </item>
     
@@ -315,6 +323,14 @@ fig.show()
       <link>https://academic-demo.netlify.app/publication/conference-paper/covid19_evolutionary/</link>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/publication/conference-paper/covid19_evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Policy Prescription for US</title>
+      <link>https://academic-demo.netlify.app/talk/covid-19-policy-prescription-for-us/</link>
+      <pubDate>Fri, 08 Oct 2021 13:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/covid-19-policy-prescription-for-us/</guid>
       <description></description>
     </item>
     
@@ -462,7 +478,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-516479328&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-961234578&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -472,7 +488,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-516479328&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-961234578&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
