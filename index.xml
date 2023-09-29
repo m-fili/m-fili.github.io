@@ -231,10 +231,10 @@ fig.show()
     </item>
     
     <item>
-      <title>A hybrid algorithm of machine learning and optimization to identify Super-Agers using rsfMRI data</title>
-      <link>https://academic-demo.netlify.app/talk/a-hybrid-algorithm-of-machine-learning-and-optimization-to-identify-super-agers-using-rsfmri-data/</link>
+      <title>Super-Agers identification using rsfMRI data</title>
+      <link>https://academic-demo.netlify.app/talk/super-agers-identification-using-rsfmri-data/</link>
       <pubDate>Sun, 16 Jul 2023 13:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/a-hybrid-algorithm-of-machine-learning-and-optimization-to-identify-super-agers-using-rsfmri-data/</guid>
+      <guid>https://academic-demo.netlify.app/talk/super-agers-identification-using-rsfmri-data/</guid>
       <description></description>
     </item>
     
@@ -247,10 +247,10 @@ fig.show()
     </item>
     
     <item>
-      <title>Regional Demand Forecasting using Clearance Deals Data: A Case Study on an Online Retailer Company.</title>
-      <link>https://academic-demo.netlify.app/talk/regional-demand-forecasting-using-clearance-deals-data-a-case-study-on-an-online-retailer-company./</link>
+      <title>Regional Demand Forecasting using Clearance Deals Data</title>
+      <link>https://academic-demo.netlify.app/talk/regional-demand-forecasting-using-clearance-deals-data/</link>
       <pubDate>Sun, 21 May 2023 13:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/regional-demand-forecasting-using-clearance-deals-data-a-case-study-on-an-online-retailer-company./</guid>
+      <guid>https://academic-demo.netlify.app/talk/regional-demand-forecasting-using-clearance-deals-data/</guid>
       <description></description>
     </item>
     
@@ -486,7 +486,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-385791264&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-682531749&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -496,7 +496,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-385791264&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-682531749&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
