@@ -224,4 +224,6 @@
   <url>
     <loc>https://academic-demo.netlify.app/admin/</loc></url>
   <url>
-    <loc>https://academic-demo.netlify.app/author/mf/</loc></url></urlset>
+    <loc>https://academic-demo.netlify.app/author/mf/</loc></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/team/</loc></url></urlset>
