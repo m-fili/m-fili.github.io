@@ -5,7 +5,7 @@
     <link>https://academic-demo.netlify.app/</link>
       <atom:link href="https://academic-demo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad Fili</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Jul 2023 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Oct 2023 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
       <title>Mohammad Fili</title>
@@ -228,6 +228,14 @@ fig.show()
   &lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
   &lt;p&gt;Yes&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cognitive Grouping using Diffusion MRI and Cognitive Assessments.</title>
+      <link>https://academic-demo.netlify.app/talk/cognitive-grouping-using-diffusion-mri-and-cognitive-assessments./</link>
+      <pubDate>Mon, 16 Oct 2023 13:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/cognitive-grouping-using-diffusion-mri-and-cognitive-assessments./</guid>
+      <description></description>
     </item>
     
     <item>
@@ -486,7 +494,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-187432956&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-925746831&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -496,7 +504,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-187432956&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-925746831&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
