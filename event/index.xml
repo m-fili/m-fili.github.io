@@ -5,12 +5,20 @@
     <link>https://academic-demo.netlify.app/event/</link>
       <atom:link href="https://academic-demo.netlify.app/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Jul 2023 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Oct 2023 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://academic-demo.netlify.app/event/</link>
     </image>
+    
+    <item>
+      <title>Cognitive Grouping using Diffusion MRI and Cognitive Assessments.</title>
+      <link>https://academic-demo.netlify.app/talk/cognitive-grouping-using-diffusion-mri-and-cognitive-assessments./</link>
+      <pubDate>Mon, 16 Oct 2023 13:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/cognitive-grouping-using-diffusion-mri-and-cognitive-assessments./</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Super-Agers identification using rsfMRI data</title>
