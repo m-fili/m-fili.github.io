@@ -5,12 +5,20 @@
     <link>https://academic-demo.netlify.app/author/mohammad-fili/</link>
       <atom:link href="https://academic-demo.netlify.app/author/mohammad-fili/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad Fili</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Jul 2023 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Oct 2023 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/author/mohammad-fili/avatar_hu5ac66745f8b2d49a3b9d02f51bb39c88_200493_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://academic-demo.netlify.app/author/mohammad-fili/avatar_hu56a2489be6b7db4aa4fa33a7ef71ea0a_1524185_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Mohammad Fili</title>
       <link>https://academic-demo.netlify.app/author/mohammad-fili/</link>
     </image>
+    
+    <item>
+      <title>Cognitive Grouping using Diffusion MRI and Cognitive Assessments.</title>
+      <link>https://academic-demo.netlify.app/talk/cognitive-grouping-using-diffusion-mri-and-cognitive-assessments./</link>
+      <pubDate>Mon, 16 Oct 2023 13:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/cognitive-grouping-using-diffusion-mri-and-cognitive-assessments./</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Super-Agers identification using rsfMRI data</title>
