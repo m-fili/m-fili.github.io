@@ -5,12 +5,28 @@
     <link>https://academic-demo.netlify.app/author/hillel-haim/</link>
       <atom:link href="https://academic-demo.netlify.app/author/hillel-haim/index.xml" rel="self" type="application/rss+xml" />
     <description>Hillel Haim</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
       <title>Hillel Haim</title>
       <link>https://academic-demo.netlify.app/author/hillel-haim/</link>
     </image>
+    
+    <item>
+      <title>Mapping the evolutionary space of SARS-CoV-2 variants to anticipate emergence of subvariants resistant to COVID-19 therapeutics</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/sarscov2_evolutionaryspace_2024/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/sarscov2_evolutionaryspace_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A classification algorithm based on dynamic ensemble selection to predict mutational patterns of the envelope protein in HIV-infected patients</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/hiv_dynamicensemble_2023/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/hiv_dynamicensemble_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Limited Variation between SARS-CoV-2-Infected Individuals in Domain Specificity and Relative Potency of the Antibody Response against the Spike Glycoprotein</title>

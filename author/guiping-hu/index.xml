@@ -45,14 +45,6 @@
     </item>
     
     <item>
-      <title>Prediction of New COVID-19 Cases Considering Mitigation Policies and Weather Data for European Countries</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/covid19_prediction_europe/</link>
-      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/covid19_prediction_europe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Super-Agers vs Cognitive Decliners</title>
       <link>https://academic-demo.netlify.app/talk/super-agers-vs-cognitive-decliners/</link>
       <pubDate>Sun, 16 Oct 2022 13:00:00 +0000</pubDate>
@@ -65,38 +57,6 @@
       <link>https://academic-demo.netlify.app/talk/an-lstm-model-to-predict-the-covid-19-new-cases-for-european-countries/</link>
       <pubDate>Sat, 02 Jul 2022 13:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/talk/an-lstm-model-to-predict-the-covid-19-new-cases-for-european-countries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>COVID-19 forecasting and intervention planning using gated recurrent unit and evolutionary algorithm</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/mitigationpolicies_gru/</link>
-      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/mitigationpolicies_gru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Limited Variation between SARS-CoV-2-Infected Individuals in Domain Specificity and Relative Potency of the Antibody Response against the Spike Glycoprotein</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/covid19_antibodyresponse/</link>
-      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/covid19_antibodyresponse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Stacking-Based Classification Approach (Case Study in Volatility Prediction of HIV-1)</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/hiv1_stacking/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/hiv1_stacking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Covid-19 Intervention Policy Optimization Using a Multi-population Evolutionary Algorithm</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/covid19_evolutionary/</link>
-      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/covid19_evolutionary/</guid>
       <description></description>
     </item>
     

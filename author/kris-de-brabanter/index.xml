@@ -5,20 +5,12 @@
     <link>https://academic-demo.netlify.app/author/kris-de-brabanter/</link>
       <atom:link href="https://academic-demo.netlify.app/author/kris-de-brabanter/index.xml" rel="self" type="application/rss+xml" />
     <description>Kris De Brabanter</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jul 2022 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
       <title>Kris De Brabanter</title>
       <link>https://academic-demo.netlify.app/author/kris-de-brabanter/</link>
     </image>
-    
-    <item>
-      <title>Prediction of New COVID-19 Cases Considering Mitigation Policies and Weather Data for European Countries</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/covid19_prediction_europe/</link>
-      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/covid19_prediction_europe/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>AN LSTM Model to predict the COVID-19 New Cases for European Countries</title>
