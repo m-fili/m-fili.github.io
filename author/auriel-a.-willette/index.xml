@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Auriel A. Willette | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/author/auriel-a.-willette/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/auriel-a.-willette/index.xml" rel="self" type="application/rss+xml" />
+    <description>Auriel A. Willette</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
+      <title>Auriel A. Willette</title>
+      <link>https://academic-demo.netlify.app/author/auriel-a.-willette/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of changes in grey-white matter contrast in healthy older adults</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/greywhitematter_icss_2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/greywhitematter_icss_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between subcortical volume changes and longitudinal cognitive measures in older adults</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/subcorticalvolume_iise_2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/subcorticalvolume_iise_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the association between changes in neural connectivity and cognitive function in older adults: A UK Biobank study</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/neuralconnectivity_iise_2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/neuralconnectivity_iise_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding cognitive aging: how white matter tracts and demographics distinguish potential Super-Agers</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/superagers_whitematter_2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/superagers_whitematter_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obesity and Insulin Resistance Alter Neural Processing of Unpleasant, but Not Pleasant, Visual Stimuli in Young Adults</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/obesity_neuralprocessing_2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/obesity_neuralprocessing_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Associations of coffee and tea consumption on neural network connectivity: Unveiling the role of genetic factors in Alzheimer&#39;s disease risk</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/coffeetea_neuralconnectivity_2024/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/coffeetea_neuralconnectivity_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid feature selection method to improve classification of Super-Ager and Cognitive Decliner using structural brain MRI data - A UK Biobank study</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/superagers_featureselection_2024/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/superagers_featureselection_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A machine learning approach for potential Super-Agers identification using neuronal functional connectivity networks</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/superagers_functionalconnectivity_2024/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/superagers_functionalconnectivity_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive classification using MRI and blood biomarkers</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/cognitiveclassification_iise_2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/cognitiveclassification_iise_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adiposity and insulin resistance moderate the links between neuroelectrophysiology and working and episodic memory functions in young adult males but not females</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/adiposity_memory_2023/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/adiposity_memory_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alzheimer&#39;s Disease Genetic Influences Impact the Associations between Diet and Resting-State Functional Connectivity: A Study from the UK Biobank</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/ad_genetic_diet_2023/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/ad_genetic_diet_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the secrets of super-aging: a UK Biobank study on brain health and cognitive function</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/superaging_secrets_2023/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/superaging_secrets_2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

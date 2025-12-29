@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Han | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/author/c.-han/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/c.-han/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Han</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
+      <title>C. Han</title>
+      <link>https://academic-demo.netlify.app/author/c.-han/</link>
+    </image>
+    
+    <item>
+      <title>Mapping the evolutionary space of SARS-CoV-2 variants to anticipate emergence of subvariants resistant to COVID-19 therapeutics</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/sarscov2_evolutionaryspace_2024/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/sarscov2_evolutionaryspace_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A classification algorithm based on dynamic ensemble selection to predict mutational patterns of the envelope protein in HIV-infected patients</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/hiv_dynamicensemble_2023/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/hiv_dynamicensemble_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limited Variation between SARS-CoV-2-Infected Individuals in Domain Specificity and Relative Potency of the Antibody Response against the Spike Glycoprotein</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/covid19_antibodyresponse/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/covid19_antibodyresponse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Stacking-Based Classification Approach (Case Study in Volatility Prediction of HIV-1)</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/hiv1_stacking/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/hiv1_stacking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
