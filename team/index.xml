@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mohammad Fili</title>
+    <title>Research Team | Mohammad Fili</title>
     <link>https://academic-demo.netlify.app/team/</link>
       <atom:link href="https://academic-demo.netlify.app/team/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mohammad Fili</description>
+    <description>Research Team</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
-      <title>Mohammad Fili</title>
+      <title>Research Team</title>
       <link>https://academic-demo.netlify.app/team/</link>
     </image>
     
