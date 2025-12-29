@@ -5,12 +5,108 @@
     <link>https://academic-demo.netlify.app/publication-type/1/</link>
       <atom:link href="https://academic-demo.netlify.app/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://academic-demo.netlify.app/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Analysis of changes in grey-white matter contrast in healthy older adults</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/greywhitematter_icss_2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/greywhitematter_icss_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between subcortical volume changes and longitudinal cognitive measures in older adults</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/subcorticalvolume_iise_2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/subcorticalvolume_iise_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering analysis of cecal microbiota dynamics in Eimeria maxima-infected chickens</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/cecalmicrobiota_icss_2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/cecalmicrobiota_icss_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comorbidity patterns before and after juvenile idiopathic arthritis diagnosis</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/jia_comorbidity_icss_2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/jia_comorbidity_icss_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of mixed-integer linear programming models for delivery problem with transshipments and battery swapping</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/deliveryproblem_iise_2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/deliveryproblem_iise_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the association between changes in neural connectivity and cognitive function in older adults: A UK Biobank study</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/neuralconnectivity_iise_2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/neuralconnectivity_iise_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mathematical model for an efficient two-tiered delivery system with truck-robot combination</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/truckrobot_soli_2024/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/truckrobot_soli_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Exploration of demographic and psychosocial indicators of centenarian survivorship</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/centenarian_soli_2024/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/centenarian_soli_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive classification using MRI and blood biomarkers</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/cognitiveclassification_iise_2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/cognitiveclassification_iise_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry superstars: Unmasking key features that drive firm-level performance in Chinese markets using ensemble learning with genetic algorithm</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/industrysuperstars_iise_2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/industrysuperstars_iise_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A machine learning approach to estimate the effectiveness of COVID-19 policies</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/covidpolicies_iise_2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/covidpolicies_iise_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional demand forecasting using clearance deals data for an online retailer company</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/demandforecasting_iise_2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/demandforecasting_iise_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Prediction of New COVID-19 Cases Considering Mitigation Policies and Weather Data for European Countries</title>
