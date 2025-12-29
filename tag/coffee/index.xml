@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coffee | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/tag/coffee/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/coffee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Coffee</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
+      <title>Coffee</title>
+      <link>https://academic-demo.netlify.app/tag/coffee/</link>
+    </image>
+    
+    <item>
+      <title>Associations of coffee and tea consumption on neural network connectivity: Unveiling the role of genetic factors in Alzheimer&#39;s disease risk</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/coffeetea_neuralconnectivity_2024/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/coffeetea_neuralconnectivity_2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

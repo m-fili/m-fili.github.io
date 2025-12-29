@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cognitive Decline | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/tag/cognitive-decline/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/cognitive-decline/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cognitive Decline</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
+      <title>Cognitive Decline</title>
+      <link>https://academic-demo.netlify.app/tag/cognitive-decline/</link>
+    </image>
+    
+    <item>
+      <title>A hybrid feature selection method to improve classification of Super-Ager and Cognitive Decliner using structural brain MRI data - A UK Biobank study</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/superagers_featureselection_2024/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/superagers_featureselection_2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

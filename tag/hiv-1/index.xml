@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HIV-1 | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/tag/hiv-1/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/hiv-1/index.xml" rel="self" type="application/rss+xml" />
+    <description>HIV-1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
+      <title>HIV-1</title>
+      <link>https://academic-demo.netlify.app/tag/hiv-1/</link>
+    </image>
+    
+    <item>
+      <title>A classification algorithm based on dynamic ensemble selection to predict mutational patterns of the envelope protein in HIV-infected patients</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/hiv_dynamicensemble_2023/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/hiv_dynamicensemble_2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

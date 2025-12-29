@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>APOE4 | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/tag/apoe4/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/apoe4/index.xml" rel="self" type="application/rss+xml" />
+    <description>APOE4</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
+      <title>APOE4</title>
+      <link>https://academic-demo.netlify.app/tag/apoe4/</link>
+    </image>
+    
+    <item>
+      <title>Alzheimer&#39;s Disease Genetic Influences Impact the Associations between Diet and Resting-State Functional Connectivity: A Study from the UK Biobank</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/ad_genetic_diet_2023/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/ad_genetic_diet_2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
