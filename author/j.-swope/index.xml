@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Swope | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/author/j.-swope/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/j.-swope/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Swope</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
+      <title>J. Swope</title>
+      <link>https://academic-demo.netlify.app/author/j.-swope/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of changes in grey-white matter contrast in healthy older adults</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/greywhitematter_icss_2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/greywhitematter_icss_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between subcortical volume changes and longitudinal cognitive measures in older adults</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/subcorticalvolume_iise_2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/subcorticalvolume_iise_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry superstars: Unmasking key features that drive firm-level performance in Chinese markets using ensemble learning with genetic algorithm</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/industrysuperstars_iise_2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/industrysuperstars_iise_2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

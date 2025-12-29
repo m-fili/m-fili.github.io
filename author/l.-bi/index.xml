@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Bi | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/author/l.-bi/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/l.-bi/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Bi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
+      <title>L. Bi</title>
+      <link>https://academic-demo.netlify.app/author/l.-bi/</link>
+    </image>
+    
+    <item>
+      <title>Prediction of New COVID-19 Cases Considering Mitigation Policies and Weather Data for European Countries</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/covid19_prediction_europe/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/covid19_prediction_europe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 forecasting and intervention planning using gated recurrent unit and evolutionary algorithm</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/mitigationpolicies_gru/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/mitigationpolicies_gru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covid-19 Intervention Policy Optimization Using a Multi-population Evolutionary Algorithm</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/covid19_evolutionary/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/covid19_evolutionary/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
