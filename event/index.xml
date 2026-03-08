@@ -5,12 +5,140 @@
     <link>https://academic-demo.netlify.app/event/</link>
       <atom:link href="https://academic-demo.netlify.app/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Oct 2023 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://academic-demo.netlify.app/event/</link>
     </image>
+    
+    <item>
+      <title>Decoding Alzheimer&#39;s: Using Algorithms To Predict Cognitive Decline</title>
+      <link>https://academic-demo.netlify.app/talk/decoding-alzheimers-using-algorithms-to-predict-cognitive-decline/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/decoding-alzheimers-using-algorithms-to-predict-cognitive-decline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding Cognitive Aging with Diffusion MRI</title>
+      <link>https://academic-demo.netlify.app/talk/decoding-cognitive-aging-with-diffusion-mri/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/decoding-cognitive-aging-with-diffusion-mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Solutions for Healthcare Problem</title>
+      <link>https://academic-demo.netlify.app/talk/machine-learning-solutions-for-healthcare-problem/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/machine-learning-solutions-for-healthcare-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of changes in grey-white matter contrast in healthy older adults</title>
+      <link>https://academic-demo.netlify.app/talk/analysis-of-changes-in-grey-white-matter-contrast-in-healthy-older-adults/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/analysis-of-changes-in-grey-white-matter-contrast-in-healthy-older-adults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between subcortical volume changes and longitudinal cognitive measures in older adults</title>
+      <link>https://academic-demo.netlify.app/talk/association-between-subcortical-volume-changes-and-longitudinal-cognitive-measures-in-older-adults/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/association-between-subcortical-volume-changes-and-longitudinal-cognitive-measures-in-older-adults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering analysis of cecal microbiota dynamics in Eimeria maxima-infected chickens</title>
+      <link>https://academic-demo.netlify.app/talk/clustering-analysis-of-cecal-microbiota-dynamics-in-eimeria-maxima-infected-chickens/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/clustering-analysis-of-cecal-microbiota-dynamics-in-eimeria-maxima-infected-chickens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comorbidity patterns before and after juvenile idiopathic arthritis diagnosis</title>
+      <link>https://academic-demo.netlify.app/talk/comorbidity-patterns-before-and-after-juvenile-idiopathic-arthritis-diagnosis/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/comorbidity-patterns-before-and-after-juvenile-idiopathic-arthritis-diagnosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of mixed-integer linear programming models for delivery problem with transshipments and battery swapping</title>
+      <link>https://academic-demo.netlify.app/talk/comparison-of-mixed-integer-linear-programming-models-for-delivery-problem-with-transshipments-and-battery-swapping/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/comparison-of-mixed-integer-linear-programming-models-for-delivery-problem-with-transshipments-and-battery-swapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the association between changes in neural connectivity and cognitive function in older adults: A UK Biobank study</title>
+      <link>https://academic-demo.netlify.app/talk/exploring-the-association-between-changes-in-neural-connectivity-and-cognitive-function-in-older-adults-a-uk-biobank-study/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/exploring-the-association-between-changes-in-neural-connectivity-and-cognitive-function-in-older-adults-a-uk-biobank-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mathematical Model for an Efficient Two-tiered Delivery System with Truck-Robot Combination</title>
+      <link>https://academic-demo.netlify.app/talk/a-mathematical-model-for-an-efficient-two-tiered-delivery-system-with-truck-robot-combination/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/a-mathematical-model-for-an-efficient-two-tiered-delivery-system-with-truck-robot-combination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tempered Fractional Stable Noise Perturbed Gradient Descent Optimization Algorithm</title>
+      <link>https://academic-demo.netlify.app/talk/a-tempered-fractional-stable-noise-perturbed-gradient-descent-optimization-algorithm/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/a-tempered-fractional-stable-noise-perturbed-gradient-descent-optimization-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Exploration of Demographic and Psychosocial Indicators of Centenarian Survivorship</title>
+      <link>https://academic-demo.netlify.app/talk/an-exploration-of-demographic-and-psychosocial-indicators-of-centenarian-survivorship/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/an-exploration-of-demographic-and-psychosocial-indicators-of-centenarian-survivorship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Cognitive Decliners using resting-state functional MRI</title>
+      <link>https://academic-demo.netlify.app/talk/identification-of-cognitive-decliners-using-resting-state-functional-mri/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/identification-of-cognitive-decliners-using-resting-state-functional-mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Sub-communities in Chicken’s Gut Microbiome</title>
+      <link>https://academic-demo.netlify.app/talk/identification-of-sub-communities-in-chickens-gut-microbiome/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/identification-of-sub-communities-in-chickens-gut-microbiome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive Classification using MRI and Blood Biomarkers</title>
+      <link>https://academic-demo.netlify.app/talk/cognitive-classification-using-mri-and-blood-biomarkers/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/cognitive-classification-using-mri-and-blood-biomarkers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry Superstars: Unmasking Key Features that Drive Firm-Level Performance in Chinese Markets using Ensemble Learning with Genetic Algorithm</title>
+      <link>https://academic-demo.netlify.app/talk/industry-superstars-unmasking-key-features-that-drive-firm-level-performance-in-chinese-markets-using-ensemble-learning-with-genetic-algorithm/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/industry-superstars-unmasking-key-features-that-drive-firm-level-performance-in-chinese-markets-using-ensemble-learning-with-genetic-algorithm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cognitive Grouping using Diffusion MRI and Cognitive Assessments.</title>
