@@ -5,12 +5,52 @@
     <link>https://academic-demo.netlify.app/author/auriel-willette/</link>
       <atom:link href="https://academic-demo.netlify.app/author/auriel-willette/index.xml" rel="self" type="application/rss+xml" />
     <description>Auriel Willette</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Oct 2023 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
       <title>Auriel Willette</title>
       <link>https://academic-demo.netlify.app/author/auriel-willette/</link>
     </image>
+    
+    <item>
+      <title>Analysis of changes in grey-white matter contrast in healthy older adults</title>
+      <link>https://academic-demo.netlify.app/talk/analysis-of-changes-in-grey-white-matter-contrast-in-healthy-older-adults/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/analysis-of-changes-in-grey-white-matter-contrast-in-healthy-older-adults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between subcortical volume changes and longitudinal cognitive measures in older adults</title>
+      <link>https://academic-demo.netlify.app/talk/association-between-subcortical-volume-changes-and-longitudinal-cognitive-measures-in-older-adults/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/association-between-subcortical-volume-changes-and-longitudinal-cognitive-measures-in-older-adults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the association between changes in neural connectivity and cognitive function in older adults: A UK Biobank study</title>
+      <link>https://academic-demo.netlify.app/talk/exploring-the-association-between-changes-in-neural-connectivity-and-cognitive-function-in-older-adults-a-uk-biobank-study/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/exploring-the-association-between-changes-in-neural-connectivity-and-cognitive-function-in-older-adults-a-uk-biobank-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Cognitive Decliners using resting-state functional MRI</title>
+      <link>https://academic-demo.netlify.app/talk/identification-of-cognitive-decliners-using-resting-state-functional-mri/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/identification-of-cognitive-decliners-using-resting-state-functional-mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive Classification using MRI and Blood Biomarkers</title>
+      <link>https://academic-demo.netlify.app/talk/cognitive-classification-using-mri-and-blood-biomarkers/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/cognitive-classification-using-mri-and-blood-biomarkers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cognitive Grouping using Diffusion MRI and Cognitive Assessments.</title>

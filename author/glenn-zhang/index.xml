@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glenn Zhang | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/author/glenn-zhang/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/glenn-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Glenn Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
+      <title>Glenn Zhang</title>
+      <link>https://academic-demo.netlify.app/author/glenn-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Clustering analysis of cecal microbiota dynamics in Eimeria maxima-infected chickens</title>
+      <link>https://academic-demo.netlify.app/talk/clustering-analysis-of-cecal-microbiota-dynamics-in-eimeria-maxima-infected-chickens/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/clustering-analysis-of-cecal-microbiota-dynamics-in-eimeria-maxima-infected-chickens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Sub-communities in Chicken’s Gut Microbiome</title>
+      <link>https://academic-demo.netlify.app/talk/identification-of-sub-communities-in-chickens-gut-microbiome/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/identification-of-sub-communities-in-chickens-gut-microbiome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

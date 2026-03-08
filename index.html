@@ -343,7 +343,7 @@
     <meta property="twitter:image" content="https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2025-05-01T00:00:00&#43;00:00" />
+      <meta property="og:updated_time" content="2026-01-01T00:00:00&#43;00:00" />
     
   
 
@@ -794,6 +794,394 @@
 
 
 
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+    
+    
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="hero" class="home-section wg-blank  fullscreen" style="padding: 0 0 0 0;" >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  justify-content-center">
+      
+    
+
+      
+
+
+
+  <div class="col-12">
+    <!-- 1. Load the Spline viewer script -->
+<script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.5/build/spline-viewer.js"></script>
+<!-- 2. Set up the Spline Viewer component & Overlays -->
+<div class="spline-full-bleed">
+  <!-- Subtle dark gradient overlay to ensure text contrast while keeping Spline visible -->
+  <div class="hero-bg-overlay"></div>
+  <div class="data-mesh-overlay"></div>
+  <!-- Left-aligned modern text content -->
+  <div class="hero-text-content">
+    <div class="hero-badge">
+      <span class="badge-dot"></span>
+      Research Portfolio
+    </div>
+    <h1 class="hero-title">Healthcare Data Analytics Lab</h1>
+    <div class="hero-typing-container">
+      <span class="hero-typed-wrapper"><span class="hero-typed-text" id="typed-text"></span><span class="typing-cursor">|</span></span>
+    </div>
+    <div class="hero-buttons">
+      <a href="#publications" class="hero-btn primary-btn">View Research</a>
+      <a href="#contact" class="hero-btn secondary-btn">Get in Touch</a>
+    </div>
+  </div>
+  <!-- Spline Background -->
+  <div class="spline-wrapper">
+    <spline-viewer url="https://prod.spline.design/mI9BavfhbMCEnLtG/scene.splinecode"></spline-viewer>
+  </div>
+</div>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap');
+
+/* Main Container Breakout */
+.spline-full-bleed {
+  width: 100vw !important;
+  height: calc(100vh - 70px) !important;
+  position: relative !important;
+  left: 50% !important;
+  right: 50% !important;
+  margin-left: -50vw !important;
+  margin-right: -50vw !important;
+  margin-bottom: -20px !important;
+  overflow: hidden;
+  display: block;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif !important;
+}
+
+spline-viewer {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.spline-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%; 
+  height: 100%;
+  z-index: 1;
+}
+
+/* Background Overlays */
+.hero-bg-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(8, 20, 100, 0.95) 0%, rgba(13, 27, 200, 0.5) 40%, rgba(13, 27, 200, 0) 100%);
+  z-index: 2;
+  pointer-events: none;
+}
+
+.data-mesh-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 70%;
+  height: 100%;
+  background-image: 
+    linear-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.1) 1px, transparent 1px);
+  background-size: 40px 40px;
+  background-position: center center;
+  z-index: 5;
+  pointer-events: none;
+  mask-image: linear-gradient(90deg, black 0%, black 50%, transparent 100%);
+  -webkit-mask-image: linear-gradient(90deg, black 0%, black 50%, transparent 100%);
+  animation: meshPan 20s linear infinite;
+}
+
+@keyframes meshPan {
+  from { background-position: 0 0; }
+  to { background-position: 30px 30px; }
+}
+
+/* Text Container */
+.hero-text-content {
+  position: absolute;
+  top: 32%;
+  left: 10%;
+  z-index: 10;
+  max-width: 650px;
+  pointer-events: auto;
+}
+
+/* Status Badge */
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 14px;
+  background: rgba(56, 189, 248, 0.15);
+  border: 1px solid rgba(56, 189, 248, 0.4);
+  border-radius: 50px;
+  color: #38bdf8;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 24px;
+  box-shadow: 0 0 15px rgba(56, 189, 248, 0.2);
+}
+
+.badge-dot {
+  width: 6px;
+  height: 6px;
+  background-color: #38bdf8;
+  border-radius: 50%;
+  box-shadow: 0 0 8px #38bdf8;
+  animation: pulse-dot 2s infinite;
+}
+
+@keyframes pulse-dot {
+  0% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(1.2); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+.hero-title {
+  color: #ffffff;
+  font-size: 3.5rem;
+  font-weight: 800;
+  line-height: 1.1;
+  margin-bottom: 12px;
+  letter-spacing: -1.5px;
+  text-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif !important;
+}
+
+/* Typing Effect Typography */
+.hero-typing-container {
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: #e2e8f0;
+  margin-bottom: 35px;
+  line-height: 1.4;
+  text-shadow: 0 2px 5px rgba(0,0,0,0.4);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif !important;
+  min-height: 2.2rem;
+}
+
+.hero-static-text {
+  opacity: 0.9;
+}
+
+.hero-typed-wrapper {
+  display: inline-block;
+  font-weight: 600;
+  color: #38bdf8; /* Modern blue */
+}
+
+.typing-cursor {
+  font-weight: 300;
+  color: #38bdf8;
+  animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+/* Buttons */
+.hero-buttons {
+  display: flex;
+  gap: 16px;
+}
+
+.hero-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 14px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  letter-spacing: 0.3px;
+  backdrop-filter: blur(10px);
+}
+
+.primary-btn {
+  background: linear-gradient(135deg, #0ea5e9, #2563eb); /* Modern Blue */
+  color: white !important;
+  border: 1px solid rgba(255,255,255,0.1);
+  box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.3), 0 2px 4px -1px rgba(37, 99, 235, 0.2);
+}
+
+.primary-btn:hover {
+  transform: translateY(-2px);
+  background: linear-gradient(135deg, #38bdf8, #3b82f6); /* Brighter Blue */
+  box-shadow: 0 10px 15px -3px rgba(37, 99, 235, 0.4), 0 4px 6px -2px rgba(37, 99, 235, 0.2);
+  border-color: rgba(56, 189, 248, 0.6);
+}
+
+.secondary-btn {
+  background-color: rgba(255, 255, 255, 0.05);
+  color: #f1f5f9 !important;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.secondary-btn:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+  transform: translateY(-2px);
+  border-color: rgba(255, 255, 255, 0.7);
+  color: #ffffff !important;
+}
+
+/* Scroll Prompt */
+.scroll-prompt {
+  display: none;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+  40% {transform: translateY(-10px);}
+  60% {transform: translateY(-5px);}
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  .hero-title { font-size: 2.5rem; }
+  .hero-typing-container { font-size: 1.3rem; }
+  .hero-text-content { 
+    left: 5%; 
+    top: 25%;
+    width: 90%;
+  }
+  .hero-buttons { flex-direction: column; gap: 15px; }
+  .hero-bg-overlay {
+    background: linear-gradient(180deg, rgba(15, 23, 42, 0.8) 0%, rgba(15, 23, 42, 0.4) 40%, rgba(15, 23, 42, 0) 100%);
+  }
+}
+</style>
+<!-- Typing Animation Script -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const textElement = document.getElementById('typed-text');
+    if (!textElement) return;
+
+    const phrases = [
+      "Personalized Medicine",
+      "Cognitive Aging",
+      "Alzheimer's Disease",
+      "HIV-1",
+      "SARS-CoV-2",
+      "Metabolomics",
+      "Electronic Health Records",
+      "Diet & Nutrition",
+      "Rheumatoid Arthritis"
+    ];
+    
+    let currentPhraseIndex = 0;
+    let currentCharIndex = 0;
+    let isDeleting = false;
+    let typingSpeed = 100;
+    
+    function typeEffect() {
+      const currentPhrase = phrases[currentPhraseIndex];
+      
+      if (isDeleting) {
+        textElement.textContent = currentPhrase.substring(0, currentCharIndex - 1);
+        currentCharIndex--;
+        typingSpeed = 50; // faster deletion
+      } else {
+        textElement.textContent = currentPhrase.substring(0, currentCharIndex + 1);
+        currentCharIndex++;
+        typingSpeed = 100; // normal typing
+      }
+      
+      if (!isDeleting && currentCharIndex === currentPhrase.length) {
+        isDeleting = true;
+        typingSpeed = 2000; // pause at end of word
+      } else if (isDeleting && currentCharIndex === 0) {
+        isDeleting = false;
+        currentPhraseIndex = (currentPhraseIndex + 1) % phrases.length;
+        typingSpeed = 500; // pause before typing new word
+      }
+      
+      setTimeout(typeEffect, typingSpeed);
+    }
+    
+    // Start typing
+    setTimeout(typeEffect, 1000);
+  });
+</script>
+
+  </div>
+
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
 
   
   
@@ -1768,16 +2156,16 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
 <div class="view-list view-list-item">
   <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
-  <a href="/talk/cognitive-grouping-using-diffusion-mri-and-cognitive-assessments./" >Cognitive Grouping using Diffusion MRI and Cognitive Assessments.</a>
+  <a href="/talk/decoding-alzheimers-using-algorithms-to-predict-cognitive-decline/" >Decoding Alzheimer&#39;s: Using Algorithms To Predict Cognitive Decline</a>
 
   
   <div class="article-metadata">
     <span>
-      Oct 16, 2023 &mdash; Oct 19, 2023
+      Jan 1, 2026
     </span>
     
     <span class="middot-divider"></span>
-    <span>Phoenix, Arizona</span>
+    <span>Podcast</span>
     
   </div>
   
@@ -1806,16 +2194,13 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
 <div class="view-list view-list-item">
   <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
-  <a href="/talk/super-agers-identification-using-rsfmri-data/" >Super-Agers identification using rsfMRI data</a>
+  <a href="/talk/decoding-cognitive-aging-with-diffusion-mri/" >Decoding Cognitive Aging with Diffusion MRI</a>
 
   
   <div class="article-metadata">
     <span>
-      Jul 16, 2023 &mdash; Jul 19, 2023
+      Jan 1, 2026
     </span>
-    
-    <span class="middot-divider"></span>
-    <span>Amsterdam, Netherlands</span>
     
   </div>
   
@@ -1844,16 +2229,16 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
 <div class="view-list view-list-item">
   <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
-  <a href="/talk/a-machine-learning-approach-to-estimate-the-effectiveness-of-covid-19-policies/" >A Machine Learning Approach to Estimate the Effectiveness of COVID-19 Policies</a>
+  <a href="/talk/machine-learning-solutions-for-healthcare-problem/" >Machine Learning Solutions for Healthcare Problem</a>
 
   
   <div class="article-metadata">
     <span>
-      May 21, 2023 &mdash; May 22, 2023
+      Jan 1, 2026
     </span>
     
     <span class="middot-divider"></span>
-    <span>New Orleans, Louisiana</span>
+    <span>Iowa State University</span>
     
   </div>
   
@@ -1887,6 +2272,458 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
     <div class="see-all">
       <a href="/event/">
         See all events
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="publications" class="home-section wg-pages  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  justify-content-center">
+      
+        
+          <div class="section-heading col-12 mb-3 text-center">
+            <h1 class="mb-0">Publications</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="col-12 ">
+
+  <div class="alert alert-note">
+  <div>
+    Quickly discover relevant content by <a href="./publication/">filtering publications</a>.
+  </div>
+</div>
+
+
+  
+    
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/j.-swope/">J. Swope</a></span>, <span class="author-highlighted">
+      <a href="/author/mohammad-fili/">Mohammad Fili</a></span>, <span >
+      <a href="/author/g.-hu/">G. Hu</a></span>, <span >
+      <a href="/author/a.-a.-willette/">A. A. Willette</a></span>
+  </span>
+  (2025).
+  <a href="/publication/conference-paper/greywhitematter_icss_2025/">Analysis of changes in grey-white matter contrast in healthy older adults</a>.
+  <em>INFORMS Conference on Service Science (ICSS)</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+  
+    
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span class="author-highlighted">
+      <a href="/author/mohammad-fili/">Mohammad Fili</a></span>, <span >
+      <a href="/author/j.-swope/">J. Swope</a></span>, <span >
+      <a href="/author/s.-rezaeimanesh/">S. Rezaeimanesh</a></span>, <span >
+      <a href="/author/p.-mohammadiarvejeh/">P. Mohammadiarvejeh</a></span>, <span >
+      <a href="/author/g.-hu/">G. Hu</a></span>, <span >
+      <a href="/author/a.-a.-willette/">A. A. Willette</a></span>
+  </span>
+  (2025).
+  <a href="/publication/conference-paper/subcorticalvolume_iise_2025/">Association between subcortical volume changes and longitudinal cognitive measures in older adults</a>.
+  <em>IISE Annual Conference</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+  
+    
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/s.-aghakhani/">S. Aghakhani</a></span>, <span class="author-highlighted">
+      <a href="/author/mohammad-fili/">Mohammad Fili</a></span>, <span >
+      <a href="/author/g.-hu/">G. Hu</a></span>, <span >
+      <a href="/author/g.-zhang/">G. Zhang</a></span>, <span >
+      <a href="/author/l.-wang/">L. Wang</a></span>
+  </span>
+  (2025).
+  <a href="/publication/conference-paper/cecalmicrobiota_icss_2025/">Clustering analysis of cecal microbiota dynamics in Eimeria maxima-infected chickens</a>.
+  <em>INFORMS Conference on Service Science (ICSS)</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+  
+    
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/k.-a.-ahmed/">K. A. Ahmed</a></span>, <span >
+      <a href="/author/h.-hadidi/">H. Hadidi</a></span>, <span class="author-highlighted">
+      <a href="/author/mohammad-fili/">Mohammad Fili</a></span>, <span >
+      <a href="/author/d.-delen/">D. Delen</a></span>, <span >
+      <a href="/author/g.-hu/">G. Hu</a></span>, <span >
+      <a href="/author/l.-wang/">L. Wang</a></span>
+  </span>
+  (2025).
+  <a href="/publication/conference-paper/jia_comorbidity_icss_2025/">Comorbidity patterns before and after juvenile idiopathic arthritis diagnosis</a>.
+  <em>INFORMS Conference on Service Science (ICSS)</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+  
+    
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/s.-aghakhani/">S. Aghakhani</a></span>, <span class="author-highlighted">
+      <a href="/author/mohammad-fili/">Mohammad Fili</a></span>, <span >
+      <a href="/author/g.-hu/">G. Hu</a></span>
+  </span>
+  (2025).
+  <a href="/publication/conference-paper/deliveryproblem_iise_2025/">Comparison of mixed-integer linear programming models for delivery problem with transshipments and battery swapping</a>.
+  <em>IISE Annual Conference</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+  
+
+  
+  
+  
+
+    
+    
+      
+    
+
+    
+    
+    
+    
+      
+    
+
+    
+
+    <div class="see-all">
+      <a href="/publication/">
+        See all publications
         <i class="fas fa-angle-right"></i>
       </a>
     </div>
@@ -2005,7 +2842,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
         
         
         
-        <a href="/tag/cognitive-aging/" style="font-size:0.7rem">Cognitive Aging</a>
+        <a href="/tag/cognitive-aging/" style="font-size:1.221059870997966rem">Cognitive Aging</a>
       
         
         
@@ -2015,17 +2852,17 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
         
         
         
-        <a href="/tag/machine-learning/" style="font-size:1.1185065233535711rem">Machine Learning</a>
+        <a href="/tag/machine-learning/" style="font-size:1.8775176729130878rem">Machine Learning</a>
       
         
         
         
-        <a href="/tag/super-agers/" style="font-size:0.7rem">Super-Agers</a>
+        <a href="/tag/neuroimaging/" style="font-size:1.4191576400509147rem">Neuroimaging</a>
       
         
         
         
-        <a href="/tag/uk-biobank/" style="font-size:1.7495613986748855rem">UK Biobank</a>
+        <a href="/tag/uk-biobank/" style="font-size:1.5907577329411553rem">UK Biobank</a>
       
     </div>
   
@@ -2140,7 +2977,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
     
 
     <div class="mb-3">
-      <form name="contact" method="POST" action="https://formspree.io/f/test"  data-netlify-recaptcha="true" >
+      <form name="contact" method="POST" action="https://formspree.io/f/mojkvlae"  data-netlify-recaptcha="true" >
         <div class="form-group form-inline">
           <label class="sr-only" for="inputName">Name</label>
           <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
@@ -2168,15 +3005,10 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
     
     <li>
       <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
-      <span id="person-email"><a href="mailto:mohammad.fili@okstate.edu">mohammad.fili@okstate.edu</a></span>
+      <span id="person-email"><a href="mailto:mfili@gmu.edu">mfili@gmu.edu</a></span>
     </li>
     
 
-    
-    <li>
-      <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
-      <span id="person-telephone"><a href="tel:%28405%29%20744-9348">(405) 744-9348</a></span>
-    </li>
     
 
     
@@ -2184,7 +3016,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
       
       <li>
         <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address">334 Engineering North, Oklahoma State Univeristy, Stillwater, OK 74078</span>
+        <span id="person-address">SEOR department, George Mason University, Fairfax, VA </span>
       </li>
     
 
@@ -2201,31 +3033,15 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
     
     
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <i class="fa-li fas fa-video fa-2x" aria-hidden="true"></i>
-      <a href="https://us02web.zoom.us/j/6469511639?pwd=RXZMZUd4SlRFSjMyNVI5WHQ2K3NmUT09" target="_blank" rel="noopener">Zoom</a>
-    </li>
-    
 
   </ul>
 
   
   <div class="d-none">
     <input id="map-provider" value="mapnik">
-    <input id="map-lat" value="36.124232">
-    <input id="map-lng" value="-97.069072">
-    <input id="map-dir" value="334 Engineering North, Oklahoma State Univeristy, Stillwater, OK 74078">
+    <input id="map-lat" value="38.8313">
+    <input id="map-lng" value="-77.3112">
+    <input id="map-dir" value="SEOR department, George Mason University, Fairfax, VA ">
     <input id="map-zoom" value="15">
     <input id="map-api-key" value="">
   </div>

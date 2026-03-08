@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>O. Rostami | Mohammad Fili</title>
-    <link>https://academic-demo.netlify.app/author/o.-rostami/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/o.-rostami/index.xml" rel="self" type="application/rss+xml" />
-    <description>O. Rostami</description>
+    <title>Wei Zhang | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/author/wei-zhang/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/wei-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Zhang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
-      <title>O. Rostami</title>
-      <link>https://academic-demo.netlify.app/author/o.-rostami/</link>
+      <title>Wei Zhang</title>
+      <link>https://academic-demo.netlify.app/author/wei-zhang/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://academic-demo.netlify.app/talk/industry-superstars-unmasking-key-features-that-drive-firm-level-performance-in-chinese-markets-using-ensemble-learning-with-genetic-algorithm/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/talk/industry-superstars-unmasking-key-features-that-drive-firm-level-performance-in-chinese-markets-using-ensemble-learning-with-genetic-algorithm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Industry superstars: Unmasking key features that drive firm-level performance in Chinese markets using ensemble learning with genetic algorithm</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/industrysuperstars_iise_2024/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/industrysuperstars_iise_2024/</guid>
       <description></description>
     </item>
     
