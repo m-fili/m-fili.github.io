@@ -5,7 +5,7 @@
     <link>https://academic-demo.netlify.app/tag/cognitive-decline/</link>
       <atom:link href="https://academic-demo.netlify.app/tag/cognitive-decline/index.xml" rel="self" type="application/rss+xml" />
     <description>Cognitive Decline</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
       <title>Cognitive Decline</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Decoding Alzheimer&#39;s: Using Algorithms To Predict Cognitive Decline</title>
+      <link>https://academic-demo.netlify.app/talk/decoding-alzheimers-using-algorithms-to-predict-cognitive-decline/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/decoding-alzheimers-using-algorithms-to-predict-cognitive-decline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A hybrid feature selection method to improve classification of Super-Ager and Cognitive Decliner using structural brain MRI data - A UK Biobank study</title>
       <link>https://academic-demo.netlify.app/publication/journal-article/superagers_featureselection_2024/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/publication/journal-article/superagers_featureselection_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Cognitive Decliners using resting-state functional MRI</title>
+      <link>https://academic-demo.netlify.app/talk/identification-of-cognitive-decliners-using-resting-state-functional-mri/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/identification-of-cognitive-decliners-using-resting-state-functional-mri/</guid>
       <description></description>
     </item>
     
