@@ -100,7 +100,7 @@
   }
 }
 
-.project-card {
+.research-card {
   background: #FFFFFF;
   border-radius: 18px;
   padding: 30px 28px 26px;
@@ -125,13 +125,13 @@
   transition: opacity 0.4s ease;
 }
 
-.project-card:hover {
+.research-card:hover {
   transform: translateY(-4px);
   box-shadow: 0 12px 40px rgba(0,0,0,0.08), 0 2px 8px rgba(0,0,0,0.04);
   border-color: rgba(0,0,0,0.08);
 }
 
-.project-card:hover .card-accent-border {
+.research-card:hover .card-accent-border {
   opacity: 1;
 }
 
@@ -171,7 +171,7 @@
   flex-grow: 1;
 }
 
-.project-card:hover .card-title {
+.research-card:hover .card-title {
   color: var(--card-accent);
 }
 
@@ -274,7 +274,7 @@
   color: var(--card-accent);
 }
 
-.project-card:hover .card-view-more {
+.research-card:hover .card-view-more {
   opacity: 1;
   transform: translateX(0);
 }
