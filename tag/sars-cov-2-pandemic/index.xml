@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sars-cov-2-pandemic | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/tag/sars-cov-2-pandemic/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/sars-cov-2-pandemic/index.xml" rel="self" type="application/rss+xml" />
+    <description>sars-cov-2-pandemic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
+      <title>sars-cov-2-pandemic</title>
+      <link>https://academic-demo.netlify.app/tag/sars-cov-2-pandemic/</link>
+    </image>
+    
+    <item>
+      <title>6. Body-Focused Repetitive Behaviors</title>
+      <link>https://academic-demo.netlify.app/project/body-focused-repetitive-behaviors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/body-focused-repetitive-behaviors/</guid>
+      <description>&lt;p&gt;Body-focused repetitive behaviors (BFRBs) â€” including hair-pulling (trichotillomania), skin-picking (excoriation disorder), and nail-biting â€” are surprisingly common, affecting an estimated 2â€“5% of the population. Despite their prevalence, BFRBs are among the least well-monitored conditions in behavioral health. The primary reason is measurement: BFRBs are episodic, often automatic, and frequently occur outside of clinical settings. Self-report is unreliable (many patients are unaware of their behaviors in real time), and observational assessment is impractical for continuous monitoring. The result is that clinicians have almost no objective data on when, where, and how often these behaviors occur in daily life.&lt;/p&gt;
+&lt;p&gt;Wearable sensor technologies offer a potential solution. Modern wristbands and smartwatches contain accelerometers, gyroscopes, and physiological sensors (heart rate, electrodermal activity) that can capture the hand movements and autonomic signatures associated with BFRBs. The challenge is computational: extracting a reliable behavioral signal from noisy, multimodal sensor data in uncontrolled environments, where the target behaviors must be distinguished from the thousands of ordinary hand movements a person makes each day.&lt;/p&gt;
+&lt;p&gt;This project develops methods for automated BFRB detection using multimodal sensor fusion from wearable devices. The approach combines accelerometer, gyroscope, and physiological signals using multimodal learning techniques to identify BFRB episodes in naturalistic settings.&lt;/p&gt;
+&lt;p&gt;[Additional details on the specific sensor suite, dataset characteristics, and classification architecture to be added.]&lt;/p&gt;
+&lt;p&gt;The manuscript is in preparation for &lt;em&gt;IEEE Journal of Biomedical and Health Informatics&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Intervention Planning</title>
+      <link>https://academic-demo.netlify.app/project/sars-cov-2-pandemic/covid-19-intervention-planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/sars-cov-2-pandemic/covid-19-intervention-planning/</guid>
+      <description>&lt;p&gt;During the COVID-19 pandemic, every government faced the same impossible optimization problem: how to reduce viral transmission without destroying the economy. Closures, gathering restrictions, transportation limits, and healthcare mandates all reduce case counts â€” but each comes with economic costs, and the most stringent measures are often the most expensive. Simply applying maximum restrictions everywhere is unrealistic. Decision-makers need to know the optimal stringency level for each policy type, given their specific budget and resource constraints.&lt;/p&gt;
+&lt;p&gt;This is a multi-objective optimization problem, and we treated it as one. We developed a computational framework that combines Gated Recurrent Units (GRU) for case forecasting with an evolutionary-based meta-heuristic method for intervention prescription. The GRU model predicts the number of new cases given a set of intervention policies at specified stringency levels, and the evolutionary algorithm searches the policy space for configurations that are Pareto-optimal â€” meaning that no policy mix can reduce cases without increasing cost, or reduce cost without increasing cases. The result is not a single recommendation but a set of trade-off solutions, allowing decision-makers to choose the balance that fits their context.&lt;/p&gt;
+&lt;p&gt;This framework was published in &lt;em&gt;Neural Computing and Applications&lt;/em&gt; (2022) and demonstrated the ability to identify policy configurations that outperform single-objective approaches. Our team was also selected as a finalist in the XPRIZE Pandemic Response Challenge, a global competition for pandemic intervention strategies.&lt;/p&gt;
+&lt;p&gt;Additional studies in this line analyzed the impact of various intervention policies across European countries, incorporating weather data and policy stringency levels. A related project, mentored with an undergraduate student, resulted in a conference paper at the IISE Annual Conference and earned the third-best undergraduate poster award at the IMSE Research Symposium.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 Molecular Studies</title>
+      <link>https://academic-demo.netlify.app/project/sars-cov-2-pandemic/sars-cov-2-molecular-studies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/sars-cov-2-pandemic/sars-cov-2-molecular-studies/</guid>
+      <description>&lt;p&gt;When new SARS-CoV-2 variants emerged during the pandemic, the public health response was almost always reactive â€” a variant would be detected, sequenced, characterized, and only then would its implications for therapeutics and vaccines be assessed. The question that motivated this research was whether it is possible to reverse that sequence: Can we predict the mutational profiles of emerging subvariants before they reach clinical significance, based on the evolutionary patterns visible in the viral genome?&lt;/p&gt;
+&lt;p&gt;Our approach was to analyze amino acid variability across the entire spike protein â€” the primary target for antibodies and vaccines â€” using phylogeny-indexed baseline sequences. The first step was to establish that the variability was not random. I designed a statistical procedure using permutation tests to test whether spatial clustering of volatility exists on the spike protein, ruling out the possibility that high-variability positions are arbitrarily distributed. Having confirmed that spatial structure exists, we built a machine learning framework to predict the emergence of lineage-defining mutations â€” the specific changes that characterize new named variants â€” by leveraging the volatility patterns observed in circulating sequences.&lt;/p&gt;
+&lt;p&gt;This systematic approach was published in &lt;em&gt;PLOS Computational Biology&lt;/em&gt; (2024) and demonstrated the ability to map the evolutionary space of SARS-CoV-2 variants in a way that anticipates the emergence of subvariants resistant to COVID-19 therapeutics. The method is general: while applied here to SARS-CoV-2, the same framework for volatility mapping and mutation forecasting could be applied to any rapidly evolving pathogen with sufficient sequence data.&lt;/p&gt;
+&lt;p&gt;In a related study, we characterized the antibody response in COVID-19 convalescent individuals, analyzing the variability in antibody responses against different regions of the spike protein. The finding â€” that domain specificity and relative potency showed limited variation between individuals â€” provided insight into the consistency of the population-level immune response and was published in &lt;em&gt;Microbiology Spectrum&lt;/em&gt; (2022).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

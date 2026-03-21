@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hiv-1-dynamics | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/tag/hiv-1-dynamics/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/hiv-1-dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <description>hiv-1-dynamics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
+      <title>hiv-1-dynamics</title>
+      <link>https://academic-demo.netlify.app/tag/hiv-1-dynamics/</link>
+    </image>
+    
+    <item>
+      <title>HIV-1 Mutational Patterns</title>
+      <link>https://academic-demo.netlify.app/project/hiv-1-dynamics/hiv-1-mutational-patterns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/hiv-1-dynamics/hiv-1-mutational-patterns/</guid>
+      <description>&lt;p&gt;HIV-1 is one of the most rapidly evolving pathogens known, and its survival strategy is built on mutation. Changes in the envelope glycoproteins (Envs) â€” the proteins that stud the viral surface and mediate entry into host cells â€” drive immune evasion and resistance to therapeutics. The CD4-binding site and the high-mannose patch on the Env are among the most critical targets for broadly neutralizing antibodies and other treatments. When mutations accumulate at these sites, therapeutics lose efficacy. The question is whether these mutational patterns can be predicted â€” and if so, whether therapeutic design can get ahead of the virus rather than perpetually chasing it.&lt;/p&gt;
+&lt;p&gt;This research program, conducted in collaboration with Dr. Hillel Haim at the University of Iowa and with ViiV Healthcare, has pursued that predictive goal across several studies. The foundational hypothesis was that variance at a given Env position could be predicted from the variance at adjacent positions â€” that mutational change has spatial structure rather than being random. To test this, I developed a novel classification model using dynamic ensemble selection techniques, which we applied to the CD4-binding site and high-mannose patch. The model demonstrated superior performance in predicting variance patterns compared to existing approaches, confirming that spatial mutational structure exists and can be exploited computationally. This work was published in &lt;em&gt;Algorithms for Molecular Biology&lt;/em&gt; (2023).&lt;/p&gt;
+&lt;p&gt;Building on this foundation, we developed a broader framework for comprehensive profiling of the escape paths by which HIV-1 evolves resistance to specific therapeutics. Focusing on the antiretroviral Temsavir, I designed a statistical procedure to rank rare but potentially high-impact positions on the molecule and developed an AI-based predictive framework to estimate the Half-maximal Inhibitory Concentration (IC50) â€” a key measure of drug efficacy. The study identified the set of positions contributing toward Temsavir resistance in treated patients, providing a roadmap of the virus&amp;rsquo;s most likely evolutionary escape routes. This manuscript is under review at &lt;em&gt;Cell Reports&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The earliest study in this line used a stacking-based classification approach to predict HIV-1 Env volatility, presented at the INFORMS International Conference on Service Science (2020).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SePTeR: Therapeutic Resistance Prediction Software</title>
+      <link>https://academic-demo.netlify.app/project/hiv-1-dynamics/septer-therapeutic-resistance-prediction-software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/hiv-1-dynamics/septer-therapeutic-resistance-prediction-software/</guid>
+      <description>&lt;p&gt;A predictive model is only as useful as its accessibility. The most accurate resistance prediction algorithm in the world is worthless if it lives exclusively in a researcher&amp;rsquo;s Python notebook and cannot be applied routinely by virologists, clinicians, or pharmaceutical scientists working with new patient samples. Translating computational models into deployable tools is a bottleneck that the field recognizes but rarely addresses.&lt;/p&gt;
+&lt;p&gt;SePTeR (Sequence-based Prediction of Temsavir Resistance) was designed to close this gap. It is a software tool that automates the entire resistance estimation process from viral sequences: a user inputs a sequence, and the tool returns a resistance estimate along with statistical analysis, visualization, and comparative analysis against reference sequences. The goal is to make the predictive power of our AI-based resistance models available to anyone working with HIV-1 sequence data, without requiring expertise in machine learning or bioinformatics programming.&lt;/p&gt;
+&lt;p&gt;The first version of SePTeR is functional and in active use within our collaboration with ViiV Healthcare. A planned second version will incorporate additional functionality including sequence alignment, sensitivity analysis, and individualized analysis through SHAP (SHapley Additive exPlanations) values â€” enabling users to understand not just whether a given sequence predicts resistance, but which specific positions and mutations are driving the prediction for that particular patient&amp;rsquo;s virus. This level of interpretability is essential for clinical translation, where treatment decisions must be explainable.&lt;/p&gt;
+&lt;p&gt;We plan to extend the SePTeR framework to the N6 broadly neutralizing antibody, with a proposal to ViiV Healthcare in development.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
