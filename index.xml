@@ -798,7 +798,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-865924371&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-967284513&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -808,7 +808,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-865924371&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-967284513&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1242,32 +1242,36 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://academic-demo.netlify.app/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>https://academic-demo.netlify.app/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://academic-demo.netlify.app/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>6. Body-Focused Repetitive Behaviors</title>
+      <link>https://academic-demo.netlify.app/project/body-focused-repetitive-behaviors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/body-focused-repetitive-behaviors/</guid>
+      <description>&lt;p&gt;Body-focused repetitive behaviors (BFRBs) â€” including hair-pulling (trichotillomania), skin-picking (excoriation disorder), and nail-biting â€” are surprisingly common, affecting an estimated 2â€“5% of the population. Despite their prevalence, BFRBs are among the least well-monitored conditions in behavioral health. The primary reason is measurement: BFRBs are episodic, often automatic, and frequently occur outside of clinical settings. Self-report is unreliable (many patients are unaware of their behaviors in real time), and observational assessment is impractical for continuous monitoring. The result is that clinicians have almost no objective data on when, where, and how often these behaviors occur in daily life.&lt;/p&gt;
+&lt;p&gt;Wearable sensor technologies offer a potential solution. Modern wristbands and smartwatches contain accelerometers, gyroscopes, and physiological sensors (heart rate, electrodermal activity) that can capture the hand movements and autonomic signatures associated with BFRBs. The challenge is computational: extracting a reliable behavioral signal from noisy, multimodal sensor data in uncontrolled environments, where the target behaviors must be distinguished from the thousands of ordinary hand movements a person makes each day.&lt;/p&gt;
+&lt;p&gt;This project develops methods for automated BFRB detection using multimodal sensor fusion from wearable devices. The approach combines accelerometer, gyroscope, and physiological signals using multimodal learning techniques to identify BFRB episodes in naturalistic settings.&lt;/p&gt;
+&lt;p&gt;[Additional details on the specific sensor suite, dataset characteristics, and classification architecture to be added.]&lt;/p&gt;
+&lt;p&gt;The manuscript is in preparation for &lt;em&gt;IEEE Journal of Biomedical and Health Informatics&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brain Changes: Volume, Connectivity, and Gray-White Matter Contrast</title>
+      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/brain-changes-volume-connectivity-and-gray-white-matter-contrast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/brain-changes-volume-connectivity-and-gray-white-matter-contrast/</guid>
+      <description>&lt;p&gt;The aging brain undergoes a cascade of structural changes â€” subcortical volumes shrink, functional connectivity networks reorganize, and the boundary between gray and white matter becomes less distinct. These changes are measurable on MRI and are often assumed to track with cognitive decline, but the relationship is more complex than it appears. Not all structural changes predict functional impairment equally, and some individuals show substantial anatomical change with little cognitive consequence, while others decline cognitively with relatively preserved structure. Understanding which specific brain changes are most predictive of future cognitive outcomes â€” and in whom â€” is essential for developing neuroimaging-based screening tools.&lt;/p&gt;
+&lt;p&gt;This project focuses on three complementary dimensions of brain structure in healthy older adults, using longitudinal data from the UK Biobank. First, we examined the association between changes in subcortical volume and longitudinal cognitive measures, asking whether volume loss in specific subcortical structures (hippocampus, amygdala, thalamus, caudate) predicts cognitive trajectories more reliably than global atrophy measures. Second, we investigated how changes in functional connectivity relate to cognitive function over time, testing whether network-level reorganization carries prognostic information beyond what structural measures provide.&lt;/p&gt;
+&lt;p&gt;Third, and perhaps most novel, we are analyzing gray-white matter contrast (GWC) â€” a metric that captures the sharpness of the boundary between cortical gray matter and underlying white matter. GWC is sensitive to subtle changes in myelination and cortical microstructure that volumetric measures may miss entirely. We are characterizing GWC changes in healthy adults over time, identifying predictors and patterns that differentiate individuals whose GWC increases (potentially reflecting compensatory myelination) from those in whom it declines (potentially reflecting early degeneration). This study is in preparation for &lt;em&gt;GeroScience&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Together, these studies aim to build a multi-dimensional picture of how the aging brain changes and which dimensions of change matter most for predicting who will remain cognitively healthy and who will not.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1279,6 +1283,65 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Chicken Gut Microbiome under *Eimeria maxima* Infection</title>
+      <link>https://academic-demo.netlify.app/project/animal-science/chicken-gut-microbiome-under-eimeria-maxima-infection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/animal-science/chicken-gut-microbiome-under-eimeria-maxima-infection/</guid>
+      <description>&lt;p&gt;The gut microbiome of poultry is a complex ecosystem that directly influences health, disease resistance, nutrient absorption, and production performance. When chickens are infected with &lt;em&gt;Eimeria maxima&lt;/em&gt; â€” one of the most economically damaging parasites in poultry production, causing coccidiosis â€” the microbial community in the gut is profoundly disrupted. But disruption is not uniform: some microbial groups collapse, others expand, and some form new co-occurrence patterns that are absent in healthy animals. Understanding which sub-communities of microbes coexist under infection â€” and how these communities differ between gut compartments â€” can reveal the microbial interaction networks that either promote resilience or vulnerability to parasitic challenge.&lt;/p&gt;
+&lt;p&gt;This project, conducted in collaboration with Dr. Glenn Zhang from the Animal and Food Science department at OSU, examines microbiome sub-community structure in the chicken gut under &lt;em&gt;Eimeria maxima&lt;/em&gt; infection. The analytical approach uses abundance trajectories of Amplicon Sequence Variants (ASVs) across ileum and cecum â€” two gut compartments with distinct microbial environments â€” and applies network optimization and unsupervised learning techniques to identify co-occurring sub-communities.&lt;/p&gt;
+&lt;p&gt;The goal is twofold: to characterize how infection reorganizes microbial community structure in a compartment-specific manner, and to identify microbial consortia that could serve as biomarkers of disease status or targets for probiotic intervention. The findings were presented at the INFORMS Conference on Service Science (ICSS, 2025).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cognitive Trajectory Modeling</title>
+      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/cognitive-trajectory-modeling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/cognitive-trajectory-modeling/</guid>
+      <description>&lt;p&gt;Most research on cognitive aging relies on either cross-sectional comparisons â€” snapshots of cognition at a single time point â€” or pre-defined clinical categories such as mild cognitive impairment (MCI) and Alzheimer&amp;rsquo;s disease. Both approaches have limitations. Cross-sectional designs cannot capture within-person change, and clinical categories impose hard boundaries on what is fundamentally a continuous process. An alternative is to let the data reveal the natural trajectories of cognitive change over time, without presupposing how many distinct trajectories exist or where the boundaries between them fall.&lt;/p&gt;
+&lt;p&gt;This project takes that data-driven approach. Using longitudinal cognitive assessments from cognitively normal older adults, we developed a methodology to identify natural cognitive trajectories â€” groupings that emerge from the temporal patterns of change themselves rather than from diagnostic labels applied after the fact. The analysis distinguishes Cognitive Decliners, Positive-Agers, and Normal-Agers as distinct trajectory classes, each with characteristic rates and patterns of change.&lt;/p&gt;
+&lt;p&gt;A particularly notable outcome of this work is a proposed procedure that, despite the study&amp;rsquo;s longitudinal design, can identify individuals likely to experience severe future cognitive decline based on baseline assessments alone. This is clinically significant because it means the trajectory model could function as a practical screening tool: a single assessment session could flag individuals who are on a declining path years before their cognition crosses a clinical threshold. If validated in independent cohorts, this approach could be integrated into routine health evaluations for older adults, enabling targeted monitoring and early intervention for those at highest risk.&lt;/p&gt;
+&lt;p&gt;The manuscript describing this methodology and its findings is currently in review at &lt;em&gt;IISE Transactions on Healthcare Systems Engineering&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Intervention Planning</title>
+      <link>https://academic-demo.netlify.app/project/sars-cov-2-pandemic/covid-19-intervention-planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/sars-cov-2-pandemic/covid-19-intervention-planning/</guid>
+      <description>&lt;p&gt;During the COVID-19 pandemic, every government faced the same impossible optimization problem: how to reduce viral transmission without destroying the economy. Closures, gathering restrictions, transportation limits, and healthcare mandates all reduce case counts â€” but each comes with economic costs, and the most stringent measures are often the most expensive. Simply applying maximum restrictions everywhere is unrealistic. Decision-makers need to know the optimal stringency level for each policy type, given their specific budget and resource constraints.&lt;/p&gt;
+&lt;p&gt;This is a multi-objective optimization problem, and we treated it as one. We developed a computational framework that combines Gated Recurrent Units (GRU) for case forecasting with an evolutionary-based meta-heuristic method for intervention prescription. The GRU model predicts the number of new cases given a set of intervention policies at specified stringency levels, and the evolutionary algorithm searches the policy space for configurations that are Pareto-optimal â€” meaning that no policy mix can reduce cases without increasing cost, or reduce cost without increasing cases. The result is not a single recommendation but a set of trade-off solutions, allowing decision-makers to choose the balance that fits their context.&lt;/p&gt;
+&lt;p&gt;This framework was published in &lt;em&gt;Neural Computing and Applications&lt;/em&gt; (2022) and demonstrated the ability to identify policy configurations that outperform single-objective approaches. Our team was also selected as a finalist in the XPRIZE Pandemic Response Challenge, a global competition for pandemic intervention strategies.&lt;/p&gt;
+&lt;p&gt;Additional studies in this line analyzed the impact of various intervention policies across European countries, incorporating weather data and policy stringency levels. A related project, mentored with an undergraduate student, resulted in a conference paper at the IISE Annual Conference and earned the third-best undergraduate poster award at the IMSE Research Symposium.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diet and Brain Health</title>
+      <link>https://academic-demo.netlify.app/project/diet-brain-health/diet-and-brain-health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/diet-brain-health/diet-and-brain-health/</guid>
+      <description>&lt;p&gt;What we eat shapes not only our metabolic health but, increasingly, appears to influence brain structure and function across the lifespan. Dietary patterns and specific nutritional exposures are among the most readily modifiable risk factors for cognitive decline, yet the neural mechanisms through which diet affects the brain remain incompletely understood. A further complication is that genetic risk for Alzheimer&amp;rsquo;s disease may modify these relationships: the same dietary pattern might be neuroprotective in one genetic background and neutral in another. Disentangling these interactions requires large-scale datasets that combine dietary data, neuroimaging, genetic information, and longitudinal cognitive outcomes.&lt;/p&gt;
+&lt;p&gt;Using UK Biobank data, this research program investigates the relationships between dietary factors and brain health through multiple complementary studies. Two published studies focused on the associations between specific dietary exposures and neural connectivity. The first examined coffee and tea consumption and found that their associations with neural network connectivity patterns were modulated by genetic risk factors for Alzheimer&amp;rsquo;s disease â€” suggesting that the neuroprotective or neutral effects of these common beverages depend in part on an individual&amp;rsquo;s genetic background (&lt;em&gt;Nutrients&lt;/em&gt;, 2024). The second study took a broader view, examining how overall dietary patterns associate with resting-state functional connectivity and demonstrating that AD genetic influences significantly impact these dietâ€“brain relationships (&lt;em&gt;Nutrients&lt;/em&gt;, 2023).&lt;/p&gt;
+&lt;p&gt;An ongoing study extends this work from functional connectivity to structural outcomes, exploring the relationship between nutrition and brain volumetrics, cortical thickness, and gray-white matter contrast. A methodological innovation in this study is the use of large language model (LLM)-based embeddings to learn a representative space that captures dietary pattern structure from high-dimensional nutritional data. Traditional approaches to dietary pattern analysis (principal components, clustering on nutrient intakes) impose strong assumptions about how foods relate to one another. LLM-based embeddings offer a more flexible alternative, learning dietary representations directly from the data in a way that can capture complex, nonlinear relationships between foods and eating behaviors. This approach has the potential to reveal dietary patterns that conventional methods miss, and to link them more precisely to neuroimaging outcomes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Twins for Personalized Cognitive Intervention</title>
+      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/digital-twins-for-personalized-cognitive-intervention/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/digital-twins-for-personalized-cognitive-intervention/</guid>
+      <description>&lt;p&gt;Identifying individuals at risk of cognitive decline is only half the problem. The other half â€” and arguably the harder half â€” is determining what to do about it. Cognitive training programs exist, but they are overwhelmingly designed as one-size-fits-all protocols: every participant receives the same type of training, at the same intensity and frequency, regardless of their individual cognitive profile, risk factors, or response trajectory. This is analogous to prescribing the same medication at the same dose to every patient, and it is almost certainly suboptimal.&lt;/p&gt;
+&lt;p&gt;This project aims to change that by developing a mathematical &amp;ldquo;digital twin&amp;rdquo; framework for personalized cognitive intervention. The concept is borrowed from engineering, where digital twins â€” computational replicas of physical systems â€” are used to simulate and optimize performance before making changes to the real system. Applied to cognitive health, a digital twin of a patient&amp;rsquo;s cognitive trajectory would allow researchers and clinicians to simulate the expected impact of different intervention strategies in silico: What happens if we increase training frequency? Switch modalities? Adjust intensity as the patient responds? The answers to these questions, explored computationally rather than through trial-and-error on real patients, could dramatically improve intervention design.&lt;/p&gt;
+&lt;p&gt;The framework couples a dynamical systems model of cognitive trajectory with reinforcement-learning-based optimization of intervention parameters â€” including training intensity, frequency, and modality. The reinforcement learning agent learns to select intervention configurations that maximize projected cognitive outcomes for a given individual, adapting as new data on the patient&amp;rsquo;s response becomes available. The project also includes developing novel approaches for estimating cognitive function that integrate behavioral and neuropsychological measures, providing the outcome signal that the optimization system requires.&lt;/p&gt;
+&lt;p&gt;This work is funded by the CEAT Engineering Research and Seed Funding Program ($25,000; Co-PI) and represents the first stage of what I envision as a multi-phase program. The current stage produces the mathematical framework and proof-of-concept results needed for a larger NIH/NIA proposal, which would integrate real-world sensor data and robot-assisted training platforms to close the loop between simulation and physical intervention.&lt;/p&gt;
+&lt;p&gt;The manuscript is in preparation for &lt;em&gt;PLOS Computational Biology&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Elanor Mehen</title>
       <link>https://academic-demo.netlify.app/team/elanor-mehen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1287,11 +1350,45 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Ensemble Learning with Dynamic Weight Adjustment</title>
+      <link>https://academic-demo.netlify.app/project/methodology/ensemble-learning-with-dynamic-weight-adjustment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/methodology/ensemble-learning-with-dynamic-weight-adjustment/</guid>
+      <description>&lt;p&gt;Ensemble methods â€” combining the predictions of multiple models â€” are among the most reliable techniques in machine learning. But standard approaches to ensemble aggregation assume that the relative performance of individual models is constant across the entire input space. This assumption is almost always false: a model that excels in one region of the feature space may perform poorly in another. A linear regression model might outperform a neural network for certain patient profiles while the reverse is true for others. If we knew where each model was strong, we could weight their contributions accordingly â€” giving more influence to the models that are locally most accurate.&lt;/p&gt;
+&lt;p&gt;This project develops exactly that capability. I designed a dynamic weighting procedure for ensemble models that links aggregation weights to each observation&amp;rsquo;s location within the feature space. Rather than assigning fixed global weights, the algorithm optimizes a linking function that adjusts the weights based on feature-space position. The premise is simple but powerful: by recognizing that models have local strengths, we can construct ensembles that outperform any individual member and any fixed-weight combination.&lt;/p&gt;
+&lt;p&gt;The algorithm has been implemented, benchmarked against leading methods, and is under review at &lt;em&gt;Pattern Recognition&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Farzana Sultana</title>
       <link>https://academic-demo.netlify.app/team/farzana-sultana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/team/farzana-sultana/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>HIV-1 Mutational Patterns</title>
+      <link>https://academic-demo.netlify.app/project/hiv-1-dynamics/hiv-1-mutational-patterns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/hiv-1-dynamics/hiv-1-mutational-patterns/</guid>
+      <description>&lt;p&gt;HIV-1 is one of the most rapidly evolving pathogens known, and its survival strategy is built on mutation. Changes in the envelope glycoproteins (Envs) â€” the proteins that stud the viral surface and mediate entry into host cells â€” drive immune evasion and resistance to therapeutics. The CD4-binding site and the high-mannose patch on the Env are among the most critical targets for broadly neutralizing antibodies and other treatments. When mutations accumulate at these sites, therapeutics lose efficacy. The question is whether these mutational patterns can be predicted â€” and if so, whether therapeutic design can get ahead of the virus rather than perpetually chasing it.&lt;/p&gt;
+&lt;p&gt;This research program, conducted in collaboration with Dr. Hillel Haim at the University of Iowa and with ViiV Healthcare, has pursued that predictive goal across several studies. The foundational hypothesis was that variance at a given Env position could be predicted from the variance at adjacent positions â€” that mutational change has spatial structure rather than being random. To test this, I developed a novel classification model using dynamic ensemble selection techniques, which we applied to the CD4-binding site and high-mannose patch. The model demonstrated superior performance in predicting variance patterns compared to existing approaches, confirming that spatial mutational structure exists and can be exploited computationally. This work was published in &lt;em&gt;Algorithms for Molecular Biology&lt;/em&gt; (2023).&lt;/p&gt;
+&lt;p&gt;Building on this foundation, we developed a broader framework for comprehensive profiling of the escape paths by which HIV-1 evolves resistance to specific therapeutics. Focusing on the antiretroviral Temsavir, I designed a statistical procedure to rank rare but potentially high-impact positions on the molecule and developed an AI-based predictive framework to estimate the Half-maximal Inhibitory Concentration (IC50) â€” a key measure of drug efficacy. The study identified the set of positions contributing toward Temsavir resistance in treated patients, providing a roadmap of the virus&amp;rsquo;s most likely evolutionary escape routes. This manuscript is under review at &lt;em&gt;Cell Reports&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The earliest study in this line used a stacking-based classification approach to predict HIV-1 Env volatility, presented at the INFORMS International Conference on Service Science (2020).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impact of Physical Load on Cognitive Performance</title>
+      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/impact-of-physical-load-on-cognitive-performance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/impact-of-physical-load-on-cognitive-performance/</guid>
+      <description>&lt;p&gt;Physical activity is widely recognized as one of the most robust modifiable protective factors against cognitive decline. But the relationship between physical load and cognition is more nuanced than &amp;ldquo;more exercise is better.&amp;rdquo; Occupational physical demands differ from recreational exercise in intensity, duration, voluntariness, and physiological stress profile. Whether different types and magnitudes of physical load â€” particularly sustained occupational load â€” interact with neurodegeneration markers in the same way as structured exercise remains an open question.&lt;/p&gt;
+&lt;p&gt;This project examines how physical load â€” broadly defined to include both occupational and recreational demands â€” relates to cognitive performance and its neural substrates over time.&lt;/p&gt;
+&lt;p&gt;[Additional details on study design, data source, and specific hypotheses to be added.]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1319,6 +1416,16 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Juvenile Idiopathic Arthritis</title>
+      <link>https://academic-demo.netlify.app/project/rheumatoid-arthritis/juvenile-idiopathic-arthritis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/rheumatoid-arthritis/juvenile-idiopathic-arthritis/</guid>
+      <description>&lt;p&gt;Juvenile idiopathic arthritis (JIA) is the most common chronic rheumatic disease in children, affecting roughly 1 in 1,000 children worldwide. Beyond the joint inflammation that defines the disease, JIA patients face an elevated risk of developing a range of comorbid conditions â€” from uveitis to growth disturbances to cardiovascular complications. However, the temporal patterns of comorbidity development are not well characterized in large populations. Do certain comorbidities emerge predominantly before diagnosis (suggesting shared etiology or early systemic effects), or do they accumulate primarily after diagnosis (suggesting consequences of the disease or its treatment)? Do patterns differ between systemic and non-systemic subtypes?&lt;/p&gt;
+&lt;p&gt;This project used electronic health record data to analyze comorbidity patterns before and after diagnosis in children with non-systemic RF-negative JIA â€” the most common subtype. By examining the timing and frequency of comorbid conditions relative to the date of JIA diagnosis, we can identify which conditions warrant heightened clinical surveillance at different stages of the disease course. The findings were presented at the IISE Annual Conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kazi Arman Ahmad</title>
       <link>https://academic-demo.netlify.app/team/kazi-arman-ahmad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1335,6 +1442,29 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Lithium Level and AD/MCI Onset</title>
+      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/lithium-level-and-ad-mci-onset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/lithium-level-and-ad-mci-onset/</guid>
+      <description>&lt;p&gt;Lithium has been used for decades as a mood stabilizer in bipolar disorder, but a growing body of epidemiological evidence suggests it may also confer neuroprotection â€” with some studies linking lithium exposure to reduced risk of dementia. The therapeutic implications are significant: lithium is inexpensive, widely available, and well-characterized pharmacologically. If a neuroprotective dose range could be established, it could be repurposed for cognitive protection in at-risk populations.&lt;/p&gt;
+&lt;p&gt;However, the existing evidence is far from conclusive. Most studies use binary exposure classifications (lithium yes/no), ignore doseâ€“response dynamics, and fail to account for a critical confounder: reverse causation. Patients in the prodromal phase of cognitive decline may have their medications adjusted â€” including lithium dose changes â€” creating spurious associations between lithium levels and subsequent dementia diagnosis. Without accounting for this, any observed lithiumâ€“dementia relationship may be an artifact of clinical practice rather than a biological effect.&lt;/p&gt;
+&lt;p&gt;This study, conducted at Harvard Medical School and Brigham and Women&amp;rsquo;s Hospital, was designed to address these limitations head-on. Using the Mass General Brigham (MGB) Biobank&amp;rsquo;s longitudinal electronic health records, we built a complete analytical pipeline â€” from cohort construction (~15,000â€“20,000 patients) through data linkage, preprocessing, and survival modeling â€” with rigorous attention to the methodological pitfalls that have plagued earlier work. We modeled lithium as a time-varying continuous exposure rather than a binary variable, applied landmark analysis to mitigate reverse causation bias, and included appropriate confounders (age, sex, bipolar disorder status) from the start of the modeling process rather than deferring them to later stages. The pipeline also addressed multiple data quality challenges including EMPI missingness, post-diagnosis flag leakage, same-day test filtering, and appropriate gender column selection.&lt;/p&gt;
+&lt;p&gt;Preliminary findings reveal a U-shaped lithiumâ€“hazard relationship â€” suggesting that both very low and very high lithium levels may be associated with elevated risk, with an intermediate range conferring the greatest protection. The detailed results and their clinical implications are being prepared for publication.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Longevity and Centenarian Survivorship</title>
+      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/longevity-and-centenarian-survivorship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/longevity-and-centenarian-survivorship/</guid>
+      <description>&lt;p&gt;Centenarians are statistical outliers â€” individuals who have survived to the extreme tail of the human lifespan. While genetics undoubtedly plays a role, it cannot explain the full picture: the heritability of longevity is estimated at roughly 25%, leaving substantial room for environmental, behavioral, and psychosocial contributions. Understanding what distinguishes centenarians from the general population â€” particularly factors that are potentially modifiable â€” can inform strategies for promoting healthy longevity at the population level.&lt;/p&gt;
+&lt;p&gt;This project, conducted in collaboration with Dr. Alex Bishop from the Human Development and Family Science department at Oklahoma State University, focused on Oklahoma centenarians as a study population. The goal was to investigate the demographic and psychosocial identifiers of extreme longevity â€” factors such as social engagement, personality traits, coping strategies, and life satisfaction â€” that may contribute to survivorship beyond 100 years.&lt;/p&gt;
+&lt;p&gt;The study identified demographic and psychosocial indicators associated with centenarian survivorship, with findings presented at the IEEE Conference on Service Operations and Logistics and Informatics (SOLI) / INFORMS Conference on Service Science (ICSS), where it received the Best Paper Award, First Place. The results contribute to a growing literature suggesting that psychosocial resilience â€” not merely the absence of disease â€” is a meaningful predictor of extreme longevity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Luke Dyer</title>
       <link>https://academic-demo.netlify.app/team/luke-dyer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1343,11 +1473,60 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Metabolomic Signatures of AD in Type-2 Diabetes</title>
+      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/metabolomic-signatures-of-ad-in-type-2-diabetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/metabolomic-signatures-of-ad-in-type-2-diabetes/</guid>
+      <description>&lt;p&gt;Type-2 diabetes approximately doubles the risk of Alzheimer&amp;rsquo;s disease. This association is well established epidemiologically, but the specific metabolic pathways that mediate the link â€” the molecular &amp;ldquo;why&amp;rdquo; â€” remain poorly characterized. Insulin resistance, chronic inflammation, lipid dysregulation, and altered amino acid metabolism have all been proposed as candidate mechanisms, but disentangling their individual contributions in observational data is challenging, particularly when the patients in question are taking medications (metformin, statins) that directly alter the very metabolites under investigation.&lt;/p&gt;
+&lt;p&gt;This study, conducted at Harvard Medical School and Brigham and Women&amp;rsquo;s Hospital, takes advantage of the MGB Biobank&amp;rsquo;s Nightingale Health NMR metabolomics platform â€” which quantifies approximately 249 biomarkers from a single blood sample â€” to identify the metabolomic signatures that differentiate T2D patients who go on to develop AD from those who do not. The study employs a 2Ã—3 factorial observational design that separates the contributions of diabetes status and cognitive outcome, with careful covariate adjustment for age, sex, BMI, and critically, for metformin and statin use. This pharmacological adjustment is essential: without it, any observed metabolomic differences could reflect medication effects rather than disease biology.&lt;/p&gt;
+&lt;p&gt;The analytical pipeline uses a multi-stage approach. Differential analysis (limma) identifies individual metabolites that differ between groups. Multivariate discrimination (PLS-DA) assesses whether the overall metabolomic profile can separate the groups, and pathway analysis maps significant metabolites onto known biological pathways to generate mechanistic hypotheses.&lt;/p&gt;
+&lt;p&gt;The ultimate goal is twofold: to generate mechanistic insight into the T2Dâ€“AD biological axis, and to identify metabolomic features that could serve as biomarkers for risk stratification â€” measurable from a routine blood draw and actionable in a clinical setting. If specific metabolomic signatures reliably flag T2D patients at elevated AD risk, this would enable targeted monitoring and preventive intervention in a large, identifiable population.&lt;/p&gt;
+&lt;p&gt;This study is in progress.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mohsen Behradfar</title>
       <link>https://academic-demo.netlify.app/team/mohsen-behradfar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/team/mohsen-behradfar/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Fractional Brownian Motion and SGD</title>
+      <link>https://academic-demo.netlify.app/project/optimization/multi-fractional-brownian-motion-and-sgd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/optimization/multi-fractional-brownian-motion-and-sgd/</guid>
+      <description>&lt;p&gt;Understanding why deep learning optimization works â€” not just that it works â€” is one of the fundamental open questions in machine learning theory. A promising theoretical approach models Stochastic Gradient Descent not as a deterministic algorithm with random perturbations, but as the discretization of a continuous stochastic process. Previous work proposed that SGD can be viewed as a stochastic differential equation driven by fractional Brownian motion (FBM), a process characterized by a single Hurst parameter that governs its memory structure â€” how strongly past behavior influences the future.&lt;/p&gt;
+&lt;p&gt;Our investigation revealed that this model is incomplete. When we fit FBM to SGD trajectories, the Hurst parameter is not constant â€” it changes over the course of training. Early in optimization, the dynamics exhibit one type of memory structure; later, as the algorithm approaches a solution, the structure shifts. This means that FBM, which assumes a fixed Hurst parameter, is an inadequate model for the full training process.&lt;/p&gt;
+&lt;p&gt;The natural generalization is multi-fractional Brownian motion (mFBM), in which the Hurst parameter is itself a function of time. Our finding â€” that the Hurst parameter is time-dependent in SGD â€” suggests that mFBM may serve as a more suitable theoretical framework for understanding the dynamics of deep learning optimization. This has implications for algorithm design: if we understand how the memory structure of optimization evolves during training, we can potentially design algorithms that adapt their exploration strategy to match.&lt;/p&gt;
+&lt;p&gt;We plan to prepare a proposal to investigate this line of research in depth.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Modal Delivery Planning</title>
+      <link>https://academic-demo.netlify.app/project/optimization/multi-modal-delivery-planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/optimization/multi-modal-delivery-planning/</guid>
+      <description>&lt;p&gt;Last-mile delivery â€” the final leg of a package&amp;rsquo;s journey from warehouse to doorstep â€” accounts for a disproportionate share of logistics costs and environmental impact. Emerging technologies are reshaping this landscape: autonomous delivery robots can handle short-range deliveries at low cost, crowdsourced delivery networks offer flexible capacity, and traditional trucks provide reliable backbone coverage. The optimization challenge is to combine these heterogeneous resources â€” each with different range, capacity, speed, cost, and energy constraints â€” into an integrated system that minimizes cost while meeting service requirements.&lt;/p&gt;
+&lt;p&gt;This project develops mixed-integer linear programming (MILP) models for multi-modal delivery planning using combinations of trucks, robots, and crowdsourced delivery. A particular focus is the practical constraints that make these problems hard: battery limitations for robots (including the logistics of battery swapping), transshipment points where packages transfer between vehicle types, and the multi-objective nature of the problem (minimizing cost, time, and environmental impact simultaneously).&lt;/p&gt;
+&lt;p&gt;We developed a mathematical model for an efficient two-tiered truck-robot delivery system, presented at the IEEE Conference on Service Operations and Logistics and Informatics (SOLI, 2024). A follow-up study compared different MILP formulations for handling transshipments and battery swapping, presented at the IISE Annual Conference (2025). While the primary application domain is commercial logistics, the modeling framework has potential applications in healthcare delivery â€” medication distribution, sample transport, and equipment logistics â€” where similar multi-modal coordination challenges arise.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Obesity, Insulin Resistance, and Neural Processing</title>
+      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/obesity-insulin-resistance-and-neural-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/obesity-insulin-resistance-and-neural-processing/</guid>
+      <description>&lt;p&gt;The relationship between metabolic health and brain function is typically studied in older adults, often after cognitive decline has already begun. But what if metabolic dysfunction â€” obesity, insulin resistance â€” is already altering how the brain processes information in young, otherwise healthy adults? If so, the neural consequences of metabolic risk may begin decades before dementia onset, and metabolic interventions in young adulthood could have neuroprotective benefits that compound over a lifetime.&lt;/p&gt;
+&lt;p&gt;This project investigated exactly that question, using neuroelectrophysiology and neuroimaging to examine how metabolic factors modulate neural processing and memory function in young adults. Two studies explored complementary aspects of this relationship.&lt;/p&gt;
+&lt;p&gt;The first study examined how obesity and insulin resistance affect the neural processing of emotional visual stimuli. The key finding was that metabolic dysfunction altered neural responses to unpleasant stimuli â€” but not pleasant ones â€” suggesting a valence-specific effect. This means that metabolic risk does not globally impair neural processing; rather, it selectively disrupts how the brain handles negatively valenced information, which has implications for emotional regulation and decision-making. This work was published in &lt;em&gt;Brain Sciences&lt;/em&gt; (2026).&lt;/p&gt;
+&lt;p&gt;The second study asked whether adiposity and insulin resistance moderate the link between neuroelectrophysiology and working and episodic memory. The answer was yes â€” but only in males. In young adult males, metabolic risk factors significantly moderated the associations between neural electrical activity and memory performance, while no such moderation was observed in females. This sex-specific vulnerability suggests that the neural consequences of metabolic dysfunction may follow different pathways in men and women, with implications for personalized risk assessment. This study appeared in &lt;em&gt;Physiology &amp;amp; Behavior&lt;/em&gt; (2023).&lt;/p&gt;
+&lt;p&gt;Together, these findings establish that the neural impact of metabolic dysfunction is not a late-life phenomenon â€” it is already measurable in young adults, it is selective in its effects, and it differs by sex. This reframes the timeline for prevention and opens new questions about whether early metabolic intervention could preserve neural function decades before dementia risk becomes clinically apparent.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1367,6 +1546,17 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Predicting Rheumatoid Arthritis Onset from EHR Data</title>
+      <link>https://academic-demo.netlify.app/project/rheumatoid-arthritis/predicting-rheumatoid-arthritis-onset-from-ehr-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/rheumatoid-arthritis/predicting-rheumatoid-arthritis-onset-from-ehr-data/</guid>
+      <description>&lt;p&gt;Rheumatoid arthritis (RA) affects approximately 1% of the global population and causes progressive, irreversible joint destruction if not treated early. The challenge is that early RA can be difficult to diagnose â€” symptoms are nonspecific, serological markers are not always present, and patients may cycle through primary care visits for months or years before receiving a definitive diagnosis. By the time treatment begins, significant joint damage may have already occurred.&lt;/p&gt;
+&lt;p&gt;An EHR-based predictive model for RA onset would address this problem by identifying high-risk individuals from the pattern of their clinical encounters â€” laboratory values, visit frequencies, prescribed medications, diagnostic codes â€” before a rheumatologist makes the diagnosis. Such a model could function as a scalable, low-cost screening tool integrated into existing clinical workflows, flagging patients for targeted evaluation and potentially accelerating the time to treatment.&lt;/p&gt;
+&lt;p&gt;[Additional details on study design, dataset, features, and modeling approach to be added.]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Rafat Rahman</title>
       <link>https://academic-demo.netlify.app/team/rafat-rahman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1383,11 +1573,61 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>SARS-CoV-2 Molecular Studies</title>
+      <link>https://academic-demo.netlify.app/project/sars-cov-2-pandemic/sars-cov-2-molecular-studies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/sars-cov-2-pandemic/sars-cov-2-molecular-studies/</guid>
+      <description>&lt;p&gt;When new SARS-CoV-2 variants emerged during the pandemic, the public health response was almost always reactive â€” a variant would be detected, sequenced, characterized, and only then would its implications for therapeutics and vaccines be assessed. The question that motivated this research was whether it is possible to reverse that sequence: Can we predict the mutational profiles of emerging subvariants before they reach clinical significance, based on the evolutionary patterns visible in the viral genome?&lt;/p&gt;
+&lt;p&gt;Our approach was to analyze amino acid variability across the entire spike protein â€” the primary target for antibodies and vaccines â€” using phylogeny-indexed baseline sequences. The first step was to establish that the variability was not random. I designed a statistical procedure using permutation tests to test whether spatial clustering of volatility exists on the spike protein, ruling out the possibility that high-variability positions are arbitrarily distributed. Having confirmed that spatial structure exists, we built a machine learning framework to predict the emergence of lineage-defining mutations â€” the specific changes that characterize new named variants â€” by leveraging the volatility patterns observed in circulating sequences.&lt;/p&gt;
+&lt;p&gt;This systematic approach was published in &lt;em&gt;PLOS Computational Biology&lt;/em&gt; (2024) and demonstrated the ability to map the evolutionary space of SARS-CoV-2 variants in a way that anticipates the emergence of subvariants resistant to COVID-19 therapeutics. The method is general: while applied here to SARS-CoV-2, the same framework for volatility mapping and mutation forecasting could be applied to any rapidly evolving pathogen with sufficient sequence data.&lt;/p&gt;
+&lt;p&gt;In a related study, we characterized the antibody response in COVID-19 convalescent individuals, analyzing the variability in antibody responses against different regions of the spike protein. The finding â€” that domain specificity and relative potency showed limited variation between individuals â€” provided insight into the consistency of the population-level immune response and was published in &lt;em&gt;Microbiology Spectrum&lt;/em&gt; (2022).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SePTeR: Therapeutic Resistance Prediction Software</title>
+      <link>https://academic-demo.netlify.app/project/hiv-1-dynamics/septer-therapeutic-resistance-prediction-software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/hiv-1-dynamics/septer-therapeutic-resistance-prediction-software/</guid>
+      <description>&lt;p&gt;A predictive model is only as useful as its accessibility. The most accurate resistance prediction algorithm in the world is worthless if it lives exclusively in a researcher&amp;rsquo;s Python notebook and cannot be applied routinely by virologists, clinicians, or pharmaceutical scientists working with new patient samples. Translating computational models into deployable tools is a bottleneck that the field recognizes but rarely addresses.&lt;/p&gt;
+&lt;p&gt;SePTeR (Sequence-based Prediction of Temsavir Resistance) was designed to close this gap. It is a software tool that automates the entire resistance estimation process from viral sequences: a user inputs a sequence, and the tool returns a resistance estimate along with statistical analysis, visualization, and comparative analysis against reference sequences. The goal is to make the predictive power of our AI-based resistance models available to anyone working with HIV-1 sequence data, without requiring expertise in machine learning or bioinformatics programming.&lt;/p&gt;
+&lt;p&gt;The first version of SePTeR is functional and in active use within our collaboration with ViiV Healthcare. A planned second version will incorporate additional functionality including sequence alignment, sensitivity analysis, and individualized analysis through SHAP (SHapley Additive exPlanations) values â€” enabling users to understand not just whether a given sequence predicts resistance, but which specific positions and mutations are driving the prediction for that particular patient&amp;rsquo;s virus. This level of interpretability is essential for clinical translation, where treatment decisions must be explainable.&lt;/p&gt;
+&lt;p&gt;We plan to extend the SePTeR framework to the N6 broadly neutralizing antibody, with a proposal to ViiV Healthcare in development.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Sina Aghakhani</title>
       <link>https://academic-demo.netlify.app/team/sina-aghakhani/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/team/sina-aghakhani/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Optimization</title>
+      <link>https://academic-demo.netlify.app/project/optimization/stochastic-optimization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/optimization/stochastic-optimization/</guid>
+      <description>&lt;p&gt;At the heart of nearly every modern AI system is an optimization algorithm trying to find the best parameters in a vast, complex landscape full of ridges, valleys, and deceptive local minima. Stochastic Gradient Descent (SGD) and its variants have become the workhorses of deep learning, but they remain fundamentally limited: in high-dimensional, non-convex loss landscapes, these algorithms frequently converge to local minima that are far from the global optimum. Escaping these traps requires some form of perturbation â€” but not all perturbations are created equal.&lt;/p&gt;
+&lt;p&gt;This project, conducted in collaboration with Dr. Farzad Sabzikar from the Statistics department at Iowa State University, introduces a noise-injection optimization framework based on correlated heavy-tailed tempered fractional noise. The key insight is that the statistical properties of the injected noise â€” its heaviness of tail, its temporal correlation structure, and its tempering â€” should be matched to the structure of the optimization landscape. Heavy tails allow occasional large jumps that can escape deep local minima. Temporal correlation ensures that the perturbations are not simply random shocks but have directional persistence. Tempering controls the tail behavior to maintain mathematical tractability.&lt;/p&gt;
+&lt;p&gt;Preliminary experiments demonstrate that this framework effectively escapes local minima in cases where other advanced algorithms â€” including fractional perturbed gradient descent â€” become trapped. We have submitted a proposal to NSF&amp;rsquo;s Mathematical Foundations of Artificial Intelligence (MFAI) program to pursue this work, and the manuscript is in preparation for &lt;em&gt;JMLR&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Any improvement in optimization convergence that yields better solutions with fewer computational resources has implications far beyond the specific application: it benefits the entire community of researchers and practitioners working in deep learning, machine learning, generative AI, and any field that relies on efficient and scalable optimization.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Super-Agers and Positive-Agers</title>
+      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/super-agers-and-positive-agers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/super-agers-and-positive-agers/</guid>
+      <description>&lt;p&gt;Not everyone ages the same way. While cognitive decline is common in older adults, a remarkable subset â€” often called &amp;ldquo;Super-Agers&amp;rdquo; or &amp;ldquo;Positive-Agers&amp;rdquo; â€” maintains cognitive performance well above age-matched norms, sometimes rivaling individuals decades younger. At the other extreme, &amp;ldquo;Cognitive Decliners&amp;rdquo; show accelerated loss of function that may herald progression toward mild cognitive impairment or Alzheimer&amp;rsquo;s disease. Understanding what separates these groups at the level of the brain is one of the most consequential questions in aging research: if we can identify the neural signatures of exceptional cognitive resilience, we gain both a screening tool to flag at-risk individuals and a set of biological targets that interventions could aim to preserve.&lt;/p&gt;
+&lt;p&gt;This line of research, supported by an Alzheimer&amp;rsquo;s Association Research Grant ($148,300), has been a sustained focus of my program. Using multimodal neuroimaging data from the UK Biobank and ADNI cohorts, we have systematically investigated how different imaging modalities capture the distinction between Positive-Agers, Normal-Agers, and Cognitive Decliners.&lt;/p&gt;
+&lt;p&gt;Our first major contribution was the development of OLBO (Optimal Labeling using Bayesian Optimization), a hybrid machine learning and optimization algorithm designed to classify extreme cognitive phenotypes from resting-state functional MRI (rsfMRI) data. OLBO addresses a fundamental challenge in this field: because cognitive aging exists on a continuum, the boundaries between groups are not given by nature â€” they must be learned. OLBO jointly optimizes the labeling of individuals into cognitive classes and the classification model itself, producing more robust and interpretable phenotype assignments than conventional thresholding approaches. Applied to rsfMRI functional connectivity networks from the UK Biobank, OLBO successfully differentiated Positive-Agers from Cognitive Decliners and identified the key neural functional connectivity networks contributing to these differences. This work was published in &lt;em&gt;Alzheimer&amp;rsquo;s &amp;amp; Dementia: Diagnosis, Assessment &amp;amp; Disease Monitoring&lt;/em&gt; (2024).&lt;/p&gt;
+&lt;p&gt;We then extended this investigation to structural MRI and diffusion-weighted MRI, asking whether the same cognitive phenotypes could be distinguished using different aspects of brain anatomy. Using structural MRI, a hybrid feature selection method improved classification accuracy and identified structural brain signatures â€” patterns of cortical thickness, subcortical volumes, and morphological features â€” associated with cognitive resilience. This study was published in &lt;em&gt;GeroScience&lt;/em&gt; (2024). Using diffusion MRI, we examined white-matter tract integrity and found that specific tracts and demographic factors distinguish potential Super-Agers, with diffusion metrics providing complementary information to what functional connectivity alone can capture. This work appeared in &lt;em&gt;GeroScience&lt;/em&gt; (2025). An earlier exploratory study characterized the broader biomarker and neuroimaging profile of super-aging in the UK Biobank (&lt;em&gt;GeroScience&lt;/em&gt;, 2023).&lt;/p&gt;
+&lt;p&gt;An ongoing study brings these threads together by comparing the discriminative power of all three modalities â€” rsfMRI, sMRI, and dMRI â€” within a unified analytical framework, asking which modality, or which combination, provides the most reliable identification of cognitive phenotypes. This comparative analysis is in preparation for &lt;em&gt;GeroScience&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Throughout this work, I have mentored two Ph.D. students and multiple undergraduate researchers, producing publications, poster awards at AAIC, IISE, and INFORMS conferences, and an invited podcast for the Alzheimer&amp;rsquo;s Association&amp;rsquo;s ISTAART.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1412,6 +1652,18 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/team/yuehai-yu/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Knowledge Proofs for Clinical Research</title>
+      <link>https://academic-demo.netlify.app/project/methodology/zero-knowledge-proofs-for-clinical-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/methodology/zero-knowledge-proofs-for-clinical-research/</guid>
+      <description>&lt;p&gt;Multi-institutional health research â€” the kind of large-scale, collaborative science needed to advance precision medicine â€” is fundamentally bottlenecked by data sharing. Patient records are sensitive, regulatory frameworks are strict, and institutions are understandably reluctant to share raw clinical data, even for legitimate research purposes. The result is that many scientifically important questions go unanswered not because the data doesn&amp;rsquo;t exist, but because it can&amp;rsquo;t be moved.&lt;/p&gt;
+&lt;p&gt;Zero-knowledge proofs offer an elegant solution to this problem. A zero-knowledge proof allows one party to prove to another that a computation was performed correctly â€” that inclusion/exclusion criteria were applied, that a regression was run, that a statistical test yielded a specific result â€” without revealing any of the underlying data. The verifier learns that the statement is true, but learns nothing else. Applied to clinical research, this means that institutions could verify each other&amp;rsquo;s analyses without ever exchanging patient records.&lt;/p&gt;
+&lt;p&gt;In collaboration with researchers in security and cryptography, I am co-designing zero-knowledge proof systems tailored specifically to clinical research workflows. The first system, CoSMeTIC (Computational Sparse Merkle Trees with Inclusion-Exclusion proofs), enables verifiable computation of cohort selection criteria on sensitive datasets. The second extends this framework to membership verification in linear regression analysis â€” proving that specific data points were included in a regression without revealing the data itself.&lt;/p&gt;
+&lt;p&gt;CoSMeTIC is under review at &lt;em&gt;ACM CCS&lt;/em&gt;, and the regression extension targets &lt;em&gt;USENIX Security Symposium&lt;/em&gt;. This line of work addresses a growing and increasingly urgent need: as multi-institutional research consortia become the norm in precision medicine, the ability to conduct verifiable, privacy-preserving computation on clinical data will be essential infrastructure.&lt;/p&gt;
+</description>
     </item>
     
     <item>
