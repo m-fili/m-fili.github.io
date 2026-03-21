@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animal Science | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/project/animal-science/</link>
+      <atom:link href="https://academic-demo.netlify.app/project/animal-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Animal Science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
+      <title>Animal Science</title>
+      <link>https://academic-demo.netlify.app/project/animal-science/</link>
+    </image>
+    
+    <item>
+      <title>Chicken Gut Microbiome under *Eimeria maxima* Infection</title>
+      <link>https://academic-demo.netlify.app/project/animal-science/chicken-gut-microbiome-under-eimeria-maxima-infection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/animal-science/chicken-gut-microbiome-under-eimeria-maxima-infection/</guid>
+      <description>&lt;p&gt;The gut microbiome of poultry is a complex ecosystem that directly influences health, disease resistance, nutrient absorption, and production performance. When chickens are infected with &lt;em&gt;Eimeria maxima&lt;/em&gt; â€” one of the most economically damaging parasites in poultry production, causing coccidiosis â€” the microbial community in the gut is profoundly disrupted. But disruption is not uniform: some microbial groups collapse, others expand, and some form new co-occurrence patterns that are absent in healthy animals. Understanding which sub-communities of microbes coexist under infection â€” and how these communities differ between gut compartments â€” can reveal the microbial interaction networks that either promote resilience or vulnerability to parasitic challenge.&lt;/p&gt;
+&lt;p&gt;This project, conducted in collaboration with Dr. Glenn Zhang from the Animal and Food Science department at OSU, examines microbiome sub-community structure in the chicken gut under &lt;em&gt;Eimeria maxima&lt;/em&gt; infection. The analytical approach uses abundance trajectories of Amplicon Sequence Variants (ASVs) across ileum and cecum â€” two gut compartments with distinct microbial environments â€” and applies network optimization and unsupervised learning techniques to identify co-occurring sub-communities.&lt;/p&gt;
+&lt;p&gt;The goal is twofold: to characterize how infection reorganizes microbial community structure in a compartment-specific manner, and to identify microbial consortia that could serve as biomarkers of disease status or targets for probiotic intervention. The findings were presented at the INFORMS Conference on Service Science (ICSS, 2025).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
