@@ -351,6 +351,28 @@ fig.show()
     </item>
     
     <item>
+      <title>Decoding Alzheimer&#39;s: Using Algorithms to Predict Cognitive Decline</title>
+      <link>https://academic-demo.netlify.app/post/decoding-alzheimers-podcast/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/post/decoding-alzheimers-podcast/</guid>
+      <description>&lt;h2 id=&#34;-istaart-voices-podcast&#34;&gt;🎙️ ISTAART Voices Podcast&lt;/h2&gt;
+&lt;p&gt;I had the pleasure of joining &lt;strong&gt;Dr. Willette&lt;/strong&gt; on the &lt;strong&gt;ISTAART Voices&lt;/strong&gt; podcast to discuss our work on using algorithms to predict cognitive decline in Alzheimer&amp;rsquo;s disease.&lt;/p&gt;
+&lt;p&gt;In this episode, we explore:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How &lt;strong&gt;machine learning and predictive algorithms&lt;/strong&gt; can identify early markers of cognitive decline&lt;/li&gt;
+&lt;li&gt;The intersection of &lt;strong&gt;data science and neurodegenerative disease research&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Translating algorithmic predictions into &lt;strong&gt;clinically meaningful insights&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Future directions for &lt;strong&gt;AI-driven approaches&lt;/strong&gt; in Alzheimer&amp;rsquo;s research&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;listen-now&#34;&gt;Listen Now&lt;/h3&gt;
+&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/episode/44YB4XoIdO1sUOR8ejEqCu?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;📎 &lt;a href=&#34;https://open.spotify.com/episode/44YB4XoIdO1sUOR8ejEqCu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen on Spotify&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;This episode is part of the &lt;a href=&#34;https://open.spotify.com/show/16aooATozPzDPqS2zxjJmh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISTAART Voices&lt;/a&gt; podcast series by the International Society to Advance Alzheimer&amp;rsquo;s Research and Treatment.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Decoding cognitive aging: how white matter tracts and demographics distinguish potential Super-Agers</title>
       <link>https://academic-demo.netlify.app/publication/journal-article/superagers_whitematter_2025/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -798,7 +820,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-967284513&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-127863945&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -808,7 +830,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-967284513&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-127863945&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
