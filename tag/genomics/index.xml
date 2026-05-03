@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genomics | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/tag/genomics/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/genomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genomics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>Genomics</title>
+      <link>https://academic-demo.netlify.app/tag/genomics/</link>
+    </image>
+    
+    <item>
+      <title>Identifying Transcriptomic Signatures of Methotrexate Resistance in Early RA</title>
+      <link>https://academic-demo.netlify.app/project/rheumatoid-arthritis/study-2/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/rheumatoid-arthritis/study-2/</guid>
+      <description>&lt;p&gt;Overview
+Utilizing genomic data and high-dimensional clustering to identify patients inherently resistant to first-line RA therapies.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+Methotrexate is the gold-standard first-line therapy for RA, yet 30-40% of patients fail to achieve an adequate response.&lt;/p&gt;
+&lt;p&gt;Methodology
+Applied consensus clustering to whole-blood RNA-sequencing data paired with clinical response phenotypes.&lt;/p&gt;
+&lt;p&gt;Key Findings
+Identified a 14-gene transcriptomic signature highly predictive of non-response, enabling earlier switching to biologic therapies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genomic Prediction Models for Feed Efficiency in Commercial Swine Populations</title>
+      <link>https://academic-demo.netlify.app/project/animal-science/study-1/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/animal-science/study-1/</guid>
+      <description>&lt;p&gt;Overview
+Deploying ultra-large-scale genomic associative models to identify specific single nucleotide polymorphisms (SNPs) responsible for feed conversion efficiency.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+Feed costs constitute up to 70% of total swine production expenditures; identifying efficient phenotypes early is critical for sustainable agriculture.&lt;/p&gt;
+&lt;p&gt;Methodology
+Trained a robust Bayesian Ridge Regression model utilizing over 60,000 specific genetic markers across 10,000 distinct specimens.&lt;/p&gt;
+&lt;p&gt;Key Findings
+The resulting pipeline improved genomic estimated breeding values (GEBVs) accuracy by 15% compared to legacy linear methods.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

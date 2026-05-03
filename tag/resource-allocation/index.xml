@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resource Allocation | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/tag/resource-allocation/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/resource-allocation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Resource Allocation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>Resource Allocation</title>
+      <link>https://academic-demo.netlify.app/tag/resource-allocation/</link>
+    </image>
+    
+    <item>
+      <title>Ensemble Forecasting of ICU Resource Demand and Capacity Planning During the Delta Wave</title>
+      <link>https://academic-demo.netlify.app/project/sars-cov-2/study-1/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/sars-cov-2/study-1/</guid>
+      <description>&lt;p&gt;Overview
+A dynamic ensemble model aggregating various compartmental and statistical forecasts to accurately predict ICU bed utilization.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+During the height of pandemic surges, hospitals lacked reliable 14-day forecasts for critical care resource planning.&lt;/p&gt;
+&lt;p&gt;Methodology
+Developed a dynamic weighting algorithm that evaluated historical forecast errors of constituent models and dynamically adjusted their weights in a meta-ensemble.&lt;/p&gt;
+&lt;p&gt;Key Findings
+Reduced the Mean Absolute Percentage Error (MAPE) of 14-day ICU census forecasts by 18% during peak surge periods.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

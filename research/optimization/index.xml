@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/research/optimization/</link>
+      <atom:link href="https://academic-demo.netlify.app/research/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>Optimization</title>
+      <link>https://academic-demo.netlify.app/research/optimization/</link>
+    </image>
+    
+    <item>
+      <title>Mixed-Integer Linear Programming Models for Healthcare Staffing and Shift Scheduling</title>
+      <link>https://academic-demo.netlify.app/research/optimization/study-1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/research/optimization/study-1/</guid>
+      <description>&lt;p&gt;Overview
+Formulating advanced mixed-integer programming algorithms to solve NP-hard hospital nurse and physician scheduling problems.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+Traditional heuristic scheduling often results in suboptimal coverage, increased fatigue, and higher operational costs.&lt;/p&gt;
+&lt;p&gt;Methodology
+Developed a novel branch-and-price framework that efficiently solves the large-scale MILP formulation of the staffing problem.&lt;/p&gt;
+&lt;p&gt;Key Findings
+The algorithm produces near-optimal schedules that reduce operational costs by 8% while strictly satisfying all union and clinical constraints.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stochastic Optimization for Personalized Screening Policies in Chronic Diseases</title>
+      <link>https://academic-demo.netlify.app/research/optimization/study-2/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/research/optimization/study-2/</guid>
+      <description>&lt;p&gt;Overview
+A stochastic optimization approach to designing individualized breast cancer screening schedules based on patient-specific risk profiles.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+One-size-fits-all screening policies result in over-screening for low-risk individuals and delayed detection for high-risk individuals.&lt;/p&gt;
+&lt;p&gt;Methodology
+Formulated the screening problem as a Partially Observable Markov Decision Process (POMDP) incorporating uncertain disease progression.&lt;/p&gt;
+&lt;p&gt;Key Findings
+The optimal policy derived from the POMDP significantly improved the quality-adjusted life years (QALYs) while reducing total screening costs.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

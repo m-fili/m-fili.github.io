@@ -1,75 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Optimization | Mohammad Fili</title>
-    <link>https://academic-demo.netlify.app/tag/optimization/</link>
-      <atom:link href="https://academic-demo.netlify.app/tag/optimization/index.xml" rel="self" type="application/rss+xml" />
-    <description>Optimization</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
-      <title>Optimization</title>
-      <link>https://academic-demo.netlify.app/tag/optimization/</link>
-    </image>
-    
-    <item>
-      <title>A Mathematical Model for an Efficient Two-tiered Delivery System with Truck-Robot Combination</title>
-      <link>https://academic-demo.netlify.app/talk/a-mathematical-model-for-an-efficient-two-tiered-delivery-system-with-truck-robot-combination/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/a-mathematical-model-for-an-efficient-two-tiered-delivery-system-with-truck-robot-combination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A mathematical model for an efficient two-tiered delivery system with truck-robot combination</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/truckrobot_soli_2024/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/truckrobot_soli_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Tempered Fractional Stable Noise Perturbed Gradient Descent Optimization Algorithm</title>
-      <link>https://academic-demo.netlify.app/talk/a-tempered-fractional-stable-noise-perturbed-gradient-descent-optimization-algorithm/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/a-tempered-fractional-stable-noise-perturbed-gradient-descent-optimization-algorithm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Fractional Brownian Motion and SGD</title>
-      <link>https://academic-demo.netlify.app/project/optimization/multi-fractional-brownian-motion-and-sgd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/optimization/multi-fractional-brownian-motion-and-sgd/</guid>
-      <description>&lt;p&gt;Understanding why deep learning optimization works â€” not just that it works â€” is one of the fundamental open questions in machine learning theory. A promising theoretical approach models Stochastic Gradient Descent not as a deterministic algorithm with random perturbations, but as the discretization of a continuous stochastic process. Previous work proposed that SGD can be viewed as a stochastic differential equation driven by fractional Brownian motion (FBM), a process characterized by a single Hurst parameter that governs its memory structure â€” how strongly past behavior influences the future.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Optimization | Mohammad Fili</title><link>https://academic-demo.netlify.app/tag/optimization/</link><atom:link href="https://academic-demo.netlify.app/tag/optimization/index.xml" rel="self" type="application/rss+xml"/><description>Optimization</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><image><url>https://academic-demo.netlify.app/media/icon_hu_a5e407e18fd79fab.png</url><title>Optimization</title><link>https://academic-demo.netlify.app/tag/optimization/</link></image><item><title>A mathematical model for an efficient two-tiered delivery system with truck-robot combination</title><link>https://academic-demo.netlify.app/publication/conference-paper/truckrobot_soli_2024/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/conference-paper/truckrobot_soli_2024/</guid><description/></item><item><title>A Mathematical Model for an Efficient Two-tiered Delivery System with Truck-Robot Combination</title><link>https://academic-demo.netlify.app/talk/a-mathematical-model-for-an-efficient-two-tiered-delivery-system-with-truck-robot-combination/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/a-mathematical-model-for-an-efficient-two-tiered-delivery-system-with-truck-robot-combination/</guid><description/></item><item><title>A Tempered Fractional Stable Noise Perturbed Gradient Descent Optimization Algorithm</title><link>https://academic-demo.netlify.app/talk/a-tempered-fractional-stable-noise-perturbed-gradient-descent-optimization-algorithm/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/a-tempered-fractional-stable-noise-perturbed-gradient-descent-optimization-algorithm/</guid><description/></item><item><title>Multi-Fractional Brownian Motion and SGD</title><link>https://academic-demo.netlify.app/project/optimization/multi-fractional-brownian-motion-and-sgd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/optimization/multi-fractional-brownian-motion-and-sgd/</guid><description>&lt;p&gt;Understanding why deep learning optimization works â€” not just that it works â€” is one of the fundamental open questions in machine learning theory. A promising theoretical approach models Stochastic Gradient Descent not as a deterministic algorithm with random perturbations, but as the discretization of a continuous stochastic process. Previous work proposed that SGD can be viewed as a stochastic differential equation driven by fractional Brownian motion (FBM), a process characterized by a single Hurst parameter that governs its memory structure â€” how strongly past behavior influences the future.&lt;/p&gt;
 &lt;p&gt;Our investigation revealed that this model is incomplete. When we fit FBM to SGD trajectories, the Hurst parameter is not constant â€” it changes over the course of training. Early in optimization, the dynamics exhibit one type of memory structure; later, as the algorithm approaches a solution, the structure shifts. This means that FBM, which assumes a fixed Hurst parameter, is an inadequate model for the full training process.&lt;/p&gt;
 &lt;p&gt;The natural generalization is multi-fractional Brownian motion (mFBM), in which the Hurst parameter is itself a function of time. Our finding â€” that the Hurst parameter is time-dependent in SGD â€” suggests that mFBM may serve as a more suitable theoretical framework for understanding the dynamics of deep learning optimization. This has implications for algorithm design: if we understand how the memory structure of optimization evolves during training, we can potentially design algorithms that adapt their exploration strategy to match.&lt;/p&gt;
-&lt;p&gt;We plan to prepare a proposal to investigate this line of research in depth.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Multi-Modal Delivery Planning</title>
-      <link>https://academic-demo.netlify.app/project/optimization/multi-modal-delivery-planning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/optimization/multi-modal-delivery-planning/</guid>
-      <description>&lt;p&gt;Last-mile delivery â€” the final leg of a package&amp;rsquo;s journey from warehouse to doorstep â€” accounts for a disproportionate share of logistics costs and environmental impact. Emerging technologies are reshaping this landscape: autonomous delivery robots can handle short-range deliveries at low cost, crowdsourced delivery networks offer flexible capacity, and traditional trucks provide reliable backbone coverage. The optimization challenge is to combine these heterogeneous resources â€” each with different range, capacity, speed, cost, and energy constraints â€” into an integrated system that minimizes cost while meeting service requirements.&lt;/p&gt;
+&lt;p&gt;We plan to prepare a proposal to investigate this line of research in depth.&lt;/p&gt;</description></item><item><title>Multi-Modal Delivery Planning</title><link>https://academic-demo.netlify.app/project/optimization/multi-modal-delivery-planning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/optimization/multi-modal-delivery-planning/</guid><description>&lt;p&gt;Last-mile delivery â€” the final leg of a package&amp;rsquo;s journey from warehouse to doorstep â€” accounts for a disproportionate share of logistics costs and environmental impact. Emerging technologies are reshaping this landscape: autonomous delivery robots can handle short-range deliveries at low cost, crowdsourced delivery networks offer flexible capacity, and traditional trucks provide reliable backbone coverage. The optimization challenge is to combine these heterogeneous resources â€” each with different range, capacity, speed, cost, and energy constraints â€” into an integrated system that minimizes cost while meeting service requirements.&lt;/p&gt;
 &lt;p&gt;This project develops mixed-integer linear programming (MILP) models for multi-modal delivery planning using combinations of trucks, robots, and crowdsourced delivery. A particular focus is the practical constraints that make these problems hard: battery limitations for robots (including the logistics of battery swapping), transshipment points where packages transfer between vehicle types, and the multi-objective nature of the problem (minimizing cost, time, and environmental impact simultaneously).&lt;/p&gt;
-&lt;p&gt;We developed a mathematical model for an efficient two-tiered truck-robot delivery system, presented at the IEEE Conference on Service Operations and Logistics and Informatics (SOLI, 2024). A follow-up study compared different MILP formulations for handling transshipments and battery swapping, presented at the IISE Annual Conference (2025). While the primary application domain is commercial logistics, the modeling framework has potential applications in healthcare delivery â€” medication distribution, sample transport, and equipment logistics â€” where similar multi-modal coordination challenges arise.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stochastic Optimization</title>
-      <link>https://academic-demo.netlify.app/project/optimization/stochastic-optimization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/optimization/stochastic-optimization/</guid>
-      <description>&lt;p&gt;At the heart of nearly every modern AI system is an optimization algorithm trying to find the best parameters in a vast, complex landscape full of ridges, valleys, and deceptive local minima. Stochastic Gradient Descent (SGD) and its variants have become the workhorses of deep learning, but they remain fundamentally limited: in high-dimensional, non-convex loss landscapes, these algorithms frequently converge to local minima that are far from the global optimum. Escaping these traps requires some form of perturbation â€” but not all perturbations are created equal.&lt;/p&gt;
+&lt;p&gt;We developed a mathematical model for an efficient two-tiered truck-robot delivery system, presented at the IEEE Conference on Service Operations and Logistics and Informatics (SOLI, 2024). A follow-up study compared different MILP formulations for handling transshipments and battery swapping, presented at the IISE Annual Conference (2025). While the primary application domain is commercial logistics, the modeling framework has potential applications in healthcare delivery â€” medication distribution, sample transport, and equipment logistics â€” where similar multi-modal coordination challenges arise.&lt;/p&gt;</description></item><item><title>Stochastic Optimization</title><link>https://academic-demo.netlify.app/project/optimization/stochastic-optimization/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/optimization/stochastic-optimization/</guid><description>&lt;p&gt;At the heart of nearly every modern AI system is an optimization algorithm trying to find the best parameters in a vast, complex landscape full of ridges, valleys, and deceptive local minima. Stochastic Gradient Descent (SGD) and its variants have become the workhorses of deep learning, but they remain fundamentally limited: in high-dimensional, non-convex loss landscapes, these algorithms frequently converge to local minima that are far from the global optimum. Escaping these traps requires some form of perturbation â€” but not all perturbations are created equal.&lt;/p&gt;
 &lt;p&gt;This project, conducted in collaboration with Dr. Farzad Sabzikar from the Statistics department at Iowa State University, introduces a noise-injection optimization framework based on correlated heavy-tailed tempered fractional noise. The key insight is that the statistical properties of the injected noise â€” its heaviness of tail, its temporal correlation structure, and its tempering â€” should be matched to the structure of the optimization landscape. Heavy tails allow occasional large jumps that can escape deep local minima. Temporal correlation ensures that the perturbations are not simply random shocks but have directional persistence. Tempering controls the tail behavior to maintain mathematical tractability.&lt;/p&gt;
 &lt;p&gt;Preliminary experiments demonstrate that this framework effectively escapes local minima in cases where other advanced algorithms â€” including fractional perturbed gradient descent â€” become trapped. We have submitted a proposal to NSF&amp;rsquo;s Mathematical Foundations of Artificial Intelligence (MFAI) program to pursue this work, and the manuscript is in preparation for &lt;em&gt;JMLR&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Any improvement in optimization convergence that yields better solutions with fewer computational resources has implications far beyond the specific application: it benefits the entire community of researchers and practitioners working in deep learning, machine learning, generative AI, and any field that relies on efficient and scalable optimization.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;Any improvement in optimization convergence that yields better solutions with fewer computational resources has implications far beyond the specific application: it benefits the entire community of researchers and practitioners working in deep learning, machine learning, generative AI, and any field that relies on efficient and scalable optimization.&lt;/p&gt;</description></item></channel></rss>

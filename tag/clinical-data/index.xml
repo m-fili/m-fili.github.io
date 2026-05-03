@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clinical Data | Mohammad Fili</title>
+    <link>http://localhost:1314/tag/clinical-data/</link>
+      <atom:link href="http://localhost:1314/tag/clinical-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clinical Data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1314/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>Clinical Data</title>
+      <link>http://localhost:1314/tag/clinical-data/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Mild Cognitive Impairment Progression via Multi-Modal EHR Data</title>
+      <link>http://localhost:1314/project/cognitive-aging/study-1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/project/cognitive-aging/study-1/</guid>
+      <description>&lt;p&gt;Overview
+We developed a novel machine learning pipeline leveraging electronic health records to identify early biomarkers of Alzheimer&amp;rsquo;s disease.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+Current diagnostic criteria rely on late-stage symptomatic observation. There is a need for pre-symptomatic detection using universally available clinical data.&lt;/p&gt;
+&lt;p&gt;Methodology
+Our approach integrates longitudinal patient data with ensemble methods, predicting future cognitive decline.&lt;/p&gt;
+&lt;p&gt;Key Findings
+Achieved state-of-the-art sensitivity in pre-symptomatic detection across a cohort of 15,000+ patients.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

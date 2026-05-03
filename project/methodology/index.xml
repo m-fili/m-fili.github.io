@@ -1,39 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Methodology | Mohammad Fili</title>
-    <link>https://academic-demo.netlify.app/project/methodology/</link>
-      <atom:link href="https://academic-demo.netlify.app/project/methodology/index.xml" rel="self" type="application/rss+xml" />
-    <description>Methodology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
-      <title>Methodology</title>
-      <link>https://academic-demo.netlify.app/project/methodology/</link>
-    </image>
-    
-    <item>
-      <title>Ensemble Learning with Dynamic Weight Adjustment</title>
-      <link>https://academic-demo.netlify.app/project/methodology/ensemble-learning-with-dynamic-weight-adjustment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/methodology/ensemble-learning-with-dynamic-weight-adjustment/</guid>
-      <description>&lt;p&gt;Ensemble methods â€” combining the predictions of multiple models â€” are among the most reliable techniques in machine learning. But standard approaches to ensemble aggregation assume that the relative performance of individual models is constant across the entire input space. This assumption is almost always false: a model that excels in one region of the feature space may perform poorly in another. A linear regression model might outperform a neural network for certain patient profiles while the reverse is true for others. If we knew where each model was strong, we could weight their contributions accordingly â€” giving more influence to the models that are locally most accurate.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Methodology | Mohammad Fili</title><link>https://academic-demo.netlify.app/project/methodology/</link><atom:link href="https://academic-demo.netlify.app/project/methodology/index.xml" rel="self" type="application/rss+xml"/><description>Methodology</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://academic-demo.netlify.app/media/icon_hu_a5e407e18fd79fab.png</url><title>Methodology</title><link>https://academic-demo.netlify.app/project/methodology/</link></image><item><title>Ensemble Learning with Dynamic Weight Adjustment</title><link>https://academic-demo.netlify.app/project/methodology/ensemble-learning-with-dynamic-weight-adjustment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/methodology/ensemble-learning-with-dynamic-weight-adjustment/</guid><description>&lt;p&gt;Ensemble methods â€” combining the predictions of multiple models â€” are among the most reliable techniques in machine learning. But standard approaches to ensemble aggregation assume that the relative performance of individual models is constant across the entire input space. This assumption is almost always false: a model that excels in one region of the feature space may perform poorly in another. A linear regression model might outperform a neural network for certain patient profiles while the reverse is true for others. If we knew where each model was strong, we could weight their contributions accordingly â€” giving more influence to the models that are locally most accurate.&lt;/p&gt;
 &lt;p&gt;This project develops exactly that capability. I designed a dynamic weighting procedure for ensemble models that links aggregation weights to each observation&amp;rsquo;s location within the feature space. Rather than assigning fixed global weights, the algorithm optimizes a linking function that adjusts the weights based on feature-space position. The premise is simple but powerful: by recognizing that models have local strengths, we can construct ensembles that outperform any individual member and any fixed-weight combination.&lt;/p&gt;
-&lt;p&gt;The algorithm has been implemented, benchmarked against leading methods, and is under review at &lt;em&gt;Pattern Recognition&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Zero-Knowledge Proofs for Clinical Research</title>
-      <link>https://academic-demo.netlify.app/project/methodology/zero-knowledge-proofs-for-clinical-research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/methodology/zero-knowledge-proofs-for-clinical-research/</guid>
-      <description>&lt;p&gt;Multi-institutional health research â€” the kind of large-scale, collaborative science needed to advance precision medicine â€” is fundamentally bottlenecked by data sharing. Patient records are sensitive, regulatory frameworks are strict, and institutions are understandably reluctant to share raw clinical data, even for legitimate research purposes. The result is that many scientifically important questions go unanswered not because the data doesn&amp;rsquo;t exist, but because it can&amp;rsquo;t be moved.&lt;/p&gt;
+&lt;p&gt;The algorithm has been implemented, benchmarked against leading methods, and is under review at &lt;em&gt;Pattern Recognition&lt;/em&gt;.&lt;/p&gt;</description></item><item><title>Zero-Knowledge Proofs for Clinical Research</title><link>https://academic-demo.netlify.app/project/methodology/zero-knowledge-proofs-for-clinical-research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/methodology/zero-knowledge-proofs-for-clinical-research/</guid><description>&lt;p&gt;Multi-institutional health research â€” the kind of large-scale, collaborative science needed to advance precision medicine â€” is fundamentally bottlenecked by data sharing. Patient records are sensitive, regulatory frameworks are strict, and institutions are understandably reluctant to share raw clinical data, even for legitimate research purposes. The result is that many scientifically important questions go unanswered not because the data doesn&amp;rsquo;t exist, but because it can&amp;rsquo;t be moved.&lt;/p&gt;
 &lt;p&gt;Zero-knowledge proofs offer an elegant solution to this problem. A zero-knowledge proof allows one party to prove to another that a computation was performed correctly â€” that inclusion/exclusion criteria were applied, that a regression was run, that a statistical test yielded a specific result â€” without revealing any of the underlying data. The verifier learns that the statement is true, but learns nothing else. Applied to clinical research, this means that institutions could verify each other&amp;rsquo;s analyses without ever exchanging patient records.&lt;/p&gt;
 &lt;p&gt;In collaboration with researchers in security and cryptography, I am co-designing zero-knowledge proof systems tailored specifically to clinical research workflows. The first system, CoSMeTIC (Computational Sparse Merkle Trees with Inclusion-Exclusion proofs), enables verifiable computation of cohort selection criteria on sensitive datasets. The second extends this framework to membership verification in linear regression analysis â€” proving that specific data points were included in a regression without revealing the data itself.&lt;/p&gt;
-&lt;p&gt;CoSMeTIC is under review at &lt;em&gt;ACM CCS&lt;/em&gt;, and the regression extension targets &lt;em&gt;USENIX Security Symposium&lt;/em&gt;. This line of work addresses a growing and increasingly urgent need: as multi-institutional research consortia become the norm in precision medicine, the ability to conduct verifiable, privacy-preserving computation on clinical data will be essential infrastructure.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;CoSMeTIC is under review at &lt;em&gt;ACM CCS&lt;/em&gt;, and the regression extension targets &lt;em&gt;USENIX Security Symposium&lt;/em&gt;. This line of work addresses a growing and increasingly urgent need: as multi-institutional research consortia become the norm in precision medicine, the ability to conduct verifiable, privacy-preserving computation on clinical data will be essential infrastructure.&lt;/p&gt;</description></item></channel></rss>

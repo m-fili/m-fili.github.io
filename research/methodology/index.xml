@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methodology | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/research/methodology/</link>
+      <atom:link href="https://academic-demo.netlify.app/research/methodology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Methodology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>Methodology</title>
+      <link>https://academic-demo.netlify.app/research/methodology/</link>
+    </image>
+    
+    <item>
+      <title>A Novel Framework for Addressing Selection Bias in Observational EHR Studies</title>
+      <link>https://academic-demo.netlify.app/research/methodology/study-1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/research/methodology/study-1/</guid>
+      <description>&lt;p&gt;Overview
+Developing a robust causal inference pipeline specifically designed to construct unbiased cohorts from unstructured, missing-not-at-random (MNAR) electronic health record data.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+Observational healthcare datasets are inherently biased by clinic visitation patterns, leading to severely skewed predictive models.&lt;/p&gt;
+&lt;p&gt;Methodology
+Integrated inverse probability weighting (IPW) with deep generative imputation models to synthesize balanced counterfactual data.&lt;/p&gt;
+&lt;p&gt;Key Findings
+Reduced selection-induced mortality prediction error by 25% when tested on external, out-of-distribution hospital systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SHAP-based Feature Importance Aggregation Across High-Dimensional Multimodal Datasets</title>
+      <link>https://academic-demo.netlify.app/research/methodology/study-2/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/research/methodology/study-2/</guid>
+      <description>&lt;p&gt;Overview
+A computational methodology designed to aggregate and normalize SHAP (SHapley Additive exPlanations) values when combining tabular EHR data with high-dimensional medical imaging.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+Existing XAI tools struggle to provide unified interpretability metrics across vastly different data modalities (e.g., genetic code vs. pixel maps).&lt;/p&gt;
+&lt;p&gt;Methodology
+Developed a tensor-based normalization algorithm that maps localized neural network attributions to a global feature space.&lt;/p&gt;
+&lt;p&gt;Key Findings
+Enabled clinicians to cross-reference image-based anomalies directly against specific genomic markers within a unified interface.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

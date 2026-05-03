@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MILP | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/tag/milp/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/milp/index.xml" rel="self" type="application/rss+xml" />
+    <description>MILP</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>MILP</title>
+      <link>https://academic-demo.netlify.app/tag/milp/</link>
+    </image>
+    
+    <item>
+      <title>Mixed-Integer Linear Programming Models for Healthcare Staffing and Shift Scheduling</title>
+      <link>https://academic-demo.netlify.app/project/optimization/study-1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/optimization/study-1/</guid>
+      <description>&lt;p&gt;Overview
+Formulating advanced mixed-integer programming algorithms to solve NP-hard hospital nurse and physician scheduling problems.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+Traditional heuristic scheduling often results in suboptimal coverage, increased fatigue, and higher operational costs.&lt;/p&gt;
+&lt;p&gt;Methodology
+Developed a novel branch-and-price framework that efficiently solves the large-scale MILP formulation of the staffing problem.&lt;/p&gt;
+&lt;p&gt;Key Findings
+The algorithm produces near-optimal schedules that reduce operational costs by 8% while strictly satisfying all union and clinical constraints.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

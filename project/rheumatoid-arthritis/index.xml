@@ -1,37 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Rheumatoid Arthritis | Mohammad Fili</title>
-    <link>https://academic-demo.netlify.app/project/rheumatoid-arthritis/</link>
-      <atom:link href="https://academic-demo.netlify.app/project/rheumatoid-arthritis/index.xml" rel="self" type="application/rss+xml" />
-    <description>Rheumatoid Arthritis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
-      <title>Rheumatoid Arthritis</title>
-      <link>https://academic-demo.netlify.app/project/rheumatoid-arthritis/</link>
-    </image>
-    
-    <item>
-      <title>Juvenile Idiopathic Arthritis</title>
-      <link>https://academic-demo.netlify.app/project/rheumatoid-arthritis/juvenile-idiopathic-arthritis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/rheumatoid-arthritis/juvenile-idiopathic-arthritis/</guid>
-      <description>&lt;p&gt;Juvenile idiopathic arthritis (JIA) is the most common chronic rheumatic disease in children, affecting roughly 1 in 1,000 children worldwide. Beyond the joint inflammation that defines the disease, JIA patients face an elevated risk of developing a range of comorbid conditions â€” from uveitis to growth disturbances to cardiovascular complications. However, the temporal patterns of comorbidity development are not well characterized in large populations. Do certain comorbidities emerge predominantly before diagnosis (suggesting shared etiology or early systemic effects), or do they accumulate primarily after diagnosis (suggesting consequences of the disease or its treatment)? Do patterns differ between systemic and non-systemic subtypes?&lt;/p&gt;
-&lt;p&gt;This project used electronic health record data to analyze comorbidity patterns before and after diagnosis in children with non-systemic RF-negative JIA â€” the most common subtype. By examining the timing and frequency of comorbid conditions relative to the date of JIA diagnosis, we can identify which conditions warrant heightened clinical surveillance at different stages of the disease course. The findings were presented at the IISE Annual Conference.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Predicting Rheumatoid Arthritis Onset from EHR Data</title>
-      <link>https://academic-demo.netlify.app/project/rheumatoid-arthritis/predicting-rheumatoid-arthritis-onset-from-ehr-data/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/rheumatoid-arthritis/predicting-rheumatoid-arthritis-onset-from-ehr-data/</guid>
-      <description>&lt;p&gt;Rheumatoid arthritis (RA) affects approximately 1% of the global population and causes progressive, irreversible joint destruction if not treated early. The challenge is that early RA can be difficult to diagnose â€” symptoms are nonspecific, serological markers are not always present, and patients may cycle through primary care visits for months or years before receiving a definitive diagnosis. By the time treatment begins, significant joint damage may have already occurred.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rheumatoid Arthritis | Mohammad Fili</title><link>https://academic-demo.netlify.app/project/rheumatoid-arthritis/</link><atom:link href="https://academic-demo.netlify.app/project/rheumatoid-arthritis/index.xml" rel="self" type="application/rss+xml"/><description>Rheumatoid Arthritis</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://academic-demo.netlify.app/media/icon_hu_a5e407e18fd79fab.png</url><title>Rheumatoid Arthritis</title><link>https://academic-demo.netlify.app/project/rheumatoid-arthritis/</link></image><item><title>Juvenile Idiopathic Arthritis</title><link>https://academic-demo.netlify.app/project/rheumatoid-arthritis/juvenile-idiopathic-arthritis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/rheumatoid-arthritis/juvenile-idiopathic-arthritis/</guid><description>&lt;p&gt;Juvenile idiopathic arthritis (JIA) is the most common chronic rheumatic disease in children, affecting roughly 1 in 1,000 children worldwide. Beyond the joint inflammation that defines the disease, JIA patients face an elevated risk of developing a range of comorbid conditions â€” from uveitis to growth disturbances to cardiovascular complications. However, the temporal patterns of comorbidity development are not well characterized in large populations. Do certain comorbidities emerge predominantly before diagnosis (suggesting shared etiology or early systemic effects), or do they accumulate primarily after diagnosis (suggesting consequences of the disease or its treatment)? Do patterns differ between systemic and non-systemic subtypes?&lt;/p&gt;
+&lt;p&gt;This project used electronic health record data to analyze comorbidity patterns before and after diagnosis in children with non-systemic RF-negative JIA â€” the most common subtype. By examining the timing and frequency of comorbid conditions relative to the date of JIA diagnosis, we can identify which conditions warrant heightened clinical surveillance at different stages of the disease course. The findings were presented at the IISE Annual Conference.&lt;/p&gt;</description></item><item><title>Predicting Rheumatoid Arthritis Onset from EHR Data</title><link>https://academic-demo.netlify.app/project/rheumatoid-arthritis/predicting-rheumatoid-arthritis-onset-from-ehr-data/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/rheumatoid-arthritis/predicting-rheumatoid-arthritis-onset-from-ehr-data/</guid><description>&lt;p&gt;Rheumatoid arthritis (RA) affects approximately 1% of the global population and causes progressive, irreversible joint destruction if not treated early. The challenge is that early RA can be difficult to diagnose â€” symptoms are nonspecific, serological markers are not always present, and patients may cycle through primary care visits for months or years before receiving a definitive diagnosis. By the time treatment begins, significant joint damage may have already occurred.&lt;/p&gt;
 &lt;p&gt;An EHR-based predictive model for RA onset would address this problem by identifying high-risk individuals from the pattern of their clinical encounters â€” laboratory values, visit frequencies, prescribed medications, diagnostic codes â€” before a rheumatologist makes the diagnosis. Such a model could function as a scalable, low-cost screening tool integrated into existing clinical workflows, flagging patients for targeted evaluation and potentially accelerating the time to treatment.&lt;/p&gt;
-&lt;p&gt;[Additional details on study design, dataset, features, and modeling approach to be added.]&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;[Additional details on study design, dataset, features, and modeling approach to be added.]&lt;/p&gt;</description></item></channel></rss>

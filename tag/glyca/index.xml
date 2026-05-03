@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GlycA | Mohammad Fili</title>
+    <link>http://localhost:1314/tag/glyca/</link>
+      <atom:link href="http://localhost:1314/tag/glyca/index.xml" rel="self" type="application/rss+xml" />
+    <description>GlycA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1314/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>GlycA</title>
+      <link>http://localhost:1314/tag/glyca/</link>
+    </image>
+    
+    <item>
+      <title>GlycA Inflammatory Subtyping for Alzheimer&#39;s Risk Stratification</title>
+      <link>http://localhost:1314/project/paper-5/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/project/paper-5/</guid>
+      <description>&lt;p&gt;Using glycoprotein acetyls (GlycA) as a composite inflammatory biomarker, we identified distinct inflammatory subtypes within a large biobank cohort and demonstrated differential Alzheimer&amp;rsquo;s disease risk profiles across subtypes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

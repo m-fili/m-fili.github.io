@@ -1,18 +1,1 @@
-{
-  "name": "Mohammad Fili",
-  "short_name": "Mohammad Fili",
-  "lang": "en-us",
-  "theme_color": "#1565c0",
-  "background_color": "#1565c0",
-  "icons": [{
-    "src": "/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_192x192_fill_lanczos_center_3.png",
-    "sizes": "192x192",
-    "type": "image/png"
-    }, {
-    "src": "/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png",
-    "sizes": "512x512",
-    "type": "image/png"
-     }],
-  "display": "standalone",
-  "start_url": "/?utm_source=web_app_manifest"
-}
+{"name":"Mohammad Fili","short_name":"Mohammad Fili","lang":"en-us","theme_color":"#1565c0","background_color":"#1565c0","icons":[{"src":"/media/icon_hu_37bfacf8a29c6f8.png","sizes":"192x192","type":"image/png"},{"src":"/media/icon_hu_a5e407e18fd79fab.png","sizes":"512x512","type":"image/png"}],"display":"standalone","start_url":"/?utm_source=web_app_manifest"}

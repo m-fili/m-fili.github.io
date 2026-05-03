@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biobank | Mohammad Fili</title>
+    <link>http://localhost:1314/tag/biobank/</link>
+      <atom:link href="http://localhost:1314/tag/biobank/index.xml" rel="self" type="application/rss+xml" />
+    <description>Biobank</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1314/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>Biobank</title>
+      <link>http://localhost:1314/tag/biobank/</link>
+    </image>
+    
+    <item>
+      <title>MetaboAge Delta: NMR Metabolomics Signatures of Biological Aging</title>
+      <link>http://localhost:1314/project/paper-3/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/project/paper-3/</guid>
+      <description>&lt;p&gt;Leveraging Nightingale Health NMR metabolomics (~249 biomarkers) from the MGB Biobank, we constructed a biological age acceleration metric and demonstrated its predictive value for Alzheimer&amp;rsquo;s disease onset, independent of traditional risk factors.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

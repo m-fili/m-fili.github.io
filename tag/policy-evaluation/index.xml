@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policy Evaluation | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/tag/policy-evaluation/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/policy-evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Policy Evaluation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>Policy Evaluation</title>
+      <link>https://academic-demo.netlify.app/tag/policy-evaluation/</link>
+    </image>
+    
+    <item>
+      <title>Estimating the Impact of Non-Pharmaceutical Interventions on Viral Reproductive Rates</title>
+      <link>https://academic-demo.netlify.app/project/sars-cov-2/study-2/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/sars-cov-2/study-2/</guid>
+      <description>&lt;p&gt;Overview
+A rigorous causal evaluation of how various government-mandated lockdowns and mask mandates suppressed COVID-19 transmission dynamics.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+Policymakers required empirical evidence to balance the economic cost of NPIs against the public health benefits.&lt;/p&gt;
+&lt;p&gt;Methodology
+Applied a Bayesian structural time-series approach to estimate the counterfactual scenarios of disease spread absent specific interventions.&lt;/p&gt;
+&lt;p&gt;Key Findings
+Quantified the precise reduction in the effective reproduction number ($R_t$) attributable to specific non-pharmaceutical interventions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

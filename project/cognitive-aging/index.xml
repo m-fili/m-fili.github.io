@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cognitive Aging | Mohammad Fili</title>
+    <link>http://localhost:1314/project/cognitive-aging/</link>
+      <atom:link href="http://localhost:1314/project/cognitive-aging/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cognitive Aging</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1314/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>Cognitive Aging</title>
+      <link>http://localhost:1314/project/cognitive-aging/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Mild Cognitive Impairment Progression via Multi-Modal EHR Data</title>
+      <link>http://localhost:1314/project/cognitive-aging/study-1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/project/cognitive-aging/study-1/</guid>
+      <description>&lt;p&gt;Overview
+We developed a novel machine learning pipeline leveraging electronic health records to identify early biomarkers of Alzheimer&amp;rsquo;s disease.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+Current diagnostic criteria rely on late-stage symptomatic observation. There is a need for pre-symptomatic detection using universally available clinical data.&lt;/p&gt;
+&lt;p&gt;Methodology
+Our approach integrates longitudinal patient data with ensemble methods, predicting future cognitive decline.&lt;/p&gt;
+&lt;p&gt;Key Findings
+Achieved state-of-the-art sensitivity in pre-symptomatic detection across a cohort of 15,000+ patients.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Trajectories of Amyloid-Beta and Cognitive Decline in Aging Populations</title>
+      <link>http://localhost:1314/project/cognitive-aging/study-2/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/project/cognitive-aging/study-2/</guid>
+      <description>&lt;p&gt;Overview
+A comprehensive survival analysis investigating the long-term impact of Amyloid-Beta accumulation on cognitive function.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+The precise temporal relationship between biomarker accumulation and clinical decline remains highly variable and poorly understood at an individualized level.&lt;/p&gt;
+&lt;p&gt;Methodology
+Utilized deep survival models and landmark analysis to map individualized risk trajectories.&lt;/p&gt;
+&lt;p&gt;Key Findings
+Demonstrated that specific baseline biomarker thresholding can predict severe decline 5-7 years prior to clinical symptoms.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

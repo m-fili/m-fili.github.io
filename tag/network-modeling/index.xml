@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Modeling | Mohammad Fili</title>
+    <link>http://localhost:1314/tag/network-modeling/</link>
+      <atom:link href="http://localhost:1314/tag/network-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Network Modeling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1314/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>Network Modeling</title>
+      <link>http://localhost:1314/tag/network-modeling/</link>
+    </image>
+    
+    <item>
+      <title>Network Simulation of HIV-1 Transmission Dynamics in High-Risk Urban Populations</title>
+      <link>http://localhost:1314/project/hiv-1/study-1/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/project/hiv-1/study-1/</guid>
+      <description>&lt;p&gt;Overview
+A vast, agent-based epidemiological simulation modeling the transmission of drug-resistant HIV-1 strains.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+Understanding how specific behavioral networks and non-adherence patterns fuel the propagation of multi-drug resistant strains.&lt;/p&gt;
+&lt;p&gt;Methodology
+Built a stochastic agent-based model (ABM) calibrated with sociodemographic and clinical parameters from high-risk urban centers.&lt;/p&gt;
+&lt;p&gt;Key Findings
+Preliminary results indicate that targeted PrEP interventions in highly connected sub-networks drastically reduces population-level resistance prevalence.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

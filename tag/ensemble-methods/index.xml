@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ensemble Methods | Mohammad Fili</title>
+    <link>http://localhost:1314/tag/ensemble-methods/</link>
+      <atom:link href="http://localhost:1314/tag/ensemble-methods/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ensemble Methods</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1314/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>Ensemble Methods</title>
+      <link>http://localhost:1314/tag/ensemble-methods/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Ensemble Aggregation for COVID-19 Forecasting</title>
+      <link>http://localhost:1314/project/paper-6/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/project/paper-6/</guid>
+      <description>&lt;p&gt;We developed a dynamic ensemble aggregation framework that adaptively weights multiple forecasting models based on recent performance, achieving superior accuracy in COVID-19 case and mortality prediction across multiple geographic regions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

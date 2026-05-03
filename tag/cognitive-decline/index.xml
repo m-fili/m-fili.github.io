@@ -1,31 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Cognitive Decline | Mohammad Fili</title>
-    <link>https://academic-demo.netlify.app/tag/cognitive-decline/</link>
-      <atom:link href="https://academic-demo.netlify.app/tag/cognitive-decline/index.xml" rel="self" type="application/rss+xml" />
-    <description>Cognitive Decline</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
-      <title>Cognitive Decline</title>
-      <link>https://academic-demo.netlify.app/tag/cognitive-decline/</link>
-    </image>
-    
-    <item>
-      <title>Decoding Alzheimer&#39;s: Using Algorithms To Predict Cognitive Decline</title>
-      <link>https://academic-demo.netlify.app/talk/decoding-alzheimers-using-algorithms-to-predict-cognitive-decline/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/decoding-alzheimers-using-algorithms-to-predict-cognitive-decline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decoding Alzheimer&#39;s: Using Algorithms to Predict Cognitive Decline</title>
-      <link>https://academic-demo.netlify.app/post/decoding-alzheimers-podcast/</link>
-      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/post/decoding-alzheimers-podcast/</guid>
-      <description>&lt;h2 id=&#34;-istaart-voices-podcast&#34;&gt;🎙️ ISTAART Voices Podcast&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cognitive Decline | Mohammad Fili</title><link>https://academic-demo.netlify.app/tag/cognitive-decline/</link><atom:link href="https://academic-demo.netlify.app/tag/cognitive-decline/index.xml" rel="self" type="application/rss+xml"/><description>Cognitive Decline</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://academic-demo.netlify.app/media/icon_hu_a5e407e18fd79fab.png</url><title>Cognitive Decline</title><link>https://academic-demo.netlify.app/tag/cognitive-decline/</link></image><item><title>Decoding Alzheimer's: Using Algorithms To Predict Cognitive Decline</title><link>https://academic-demo.netlify.app/talk/decoding-alzheimers-using-algorithms-to-predict-cognitive-decline/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/decoding-alzheimers-using-algorithms-to-predict-cognitive-decline/</guid><description/></item><item><title>Decoding Alzheimer's: Using Algorithms to Predict Cognitive Decline</title><link>https://academic-demo.netlify.app/post/decoding-alzheimers-podcast/</link><pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/post/decoding-alzheimers-podcast/</guid><description>&lt;h2 id="-istaart-voices-podcast"&gt;🎙️ ISTAART Voices Podcast&lt;/h2&gt;
 &lt;p&gt;I had the pleasure of joining &lt;strong&gt;Dr. Auriel Willette&lt;/strong&gt; (Rutgers University) on the &lt;strong&gt;ISTAART Voices&lt;/strong&gt; podcast to discuss our work on using algorithms to predict cognitive decline in Alzheimer&amp;rsquo;s disease.&lt;/p&gt;
 &lt;p&gt;In this episode, we explore:&lt;/p&gt;
 &lt;ul&gt;
@@ -34,29 +7,8 @@
 &lt;li&gt;Translating algorithmic predictions into &lt;strong&gt;clinically meaningful insights&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Future directions for &lt;strong&gt;AI-driven approaches&lt;/strong&gt; in Alzheimer&amp;rsquo;s research&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;listen-now&#34;&gt;Listen Now&lt;/h3&gt;
-&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/episode/44YB4XoIdO1sUOR8ejEqCu?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;📎 &lt;a href=&#34;https://open.spotify.com/episode/44YB4XoIdO1sUOR8ejEqCu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen on Spotify&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="listen-now"&gt;Listen Now&lt;/h3&gt;
+&lt;iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/44YB4XoIdO1sUOR8ejEqCu?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"&gt;&lt;/iframe&gt;
+&lt;p&gt;📎 &lt;a href="https://open.spotify.com/episode/44YB4XoIdO1sUOR8ejEqCu" target="_blank" rel="noopener"&gt;Listen on Spotify&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;This episode is part of the &lt;a href=&#34;https://open.spotify.com/show/16aooATozPzDPqS2zxjJmh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISTAART Voices&lt;/a&gt; podcast series by the International Society to Advance Alzheimer&amp;rsquo;s Research and Treatment.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A hybrid feature selection method to improve classification of Super-Ager and Cognitive Decliner using structural brain MRI data - A UK Biobank study</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/superagers_featureselection_2024/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/superagers_featureselection_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identification of Cognitive Decliners using resting-state functional MRI</title>
-      <link>https://academic-demo.netlify.app/talk/identification-of-cognitive-decliners-using-resting-state-functional-mri/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/identification-of-cognitive-decliners-using-resting-state-functional-mri/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;&lt;em&gt;This episode is part of the &lt;a href="https://open.spotify.com/show/16aooATozPzDPqS2zxjJmh" target="_blank" rel="noopener"&gt;ISTAART Voices&lt;/a&gt; podcast series by the International Society to Advance Alzheimer&amp;rsquo;s Research and Treatment.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>A hybrid feature selection method to improve classification of Super-Ager and Cognitive Decliner using structural brain MRI data - A UK Biobank study</title><link>https://academic-demo.netlify.app/publication/journal-article/superagers_featureselection_2024/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/journal-article/superagers_featureselection_2024/</guid><description/></item><item><title>Identification of Cognitive Decliners using resting-state functional MRI</title><link>https://academic-demo.netlify.app/talk/identification-of-cognitive-decliners-using-resting-state-functional-mri/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/identification-of-cognitive-decliners-using-resting-state-functional-mri/</guid><description/></item></channel></rss>

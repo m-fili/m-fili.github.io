@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sensor Data | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/tag/sensor-data/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/sensor-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sensor Data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>Sensor Data</title>
+      <link>https://academic-demo.netlify.app/tag/sensor-data/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning Approaches to Early Detection of Bovine Respiratory Disease</title>
+      <link>https://academic-demo.netlify.app/project/animal-science/study-2/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/animal-science/study-2/</guid>
+      <description>&lt;p&gt;Overview
+An internet-of-things (IoT) methodology that ingests real-time biometric telemetry to catch the onset of BRD in livestock populations.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+BRD is the leading cause of morbidity in commercial feedlots; subjective visual observation chronically misses early-stage infections.&lt;/p&gt;
+&lt;p&gt;Methodology
+Deployed an ensemble Random Forest utilizing continuous stream data (rumination activity, core temperature, and movement velocity) gathered from wearable sensors.&lt;/p&gt;
+&lt;p&gt;Key Findings
+The model accurately triggered preemptive quarantine protocol 48 hours prior to the onset of severe, visually observable symptoms with 92% specificity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

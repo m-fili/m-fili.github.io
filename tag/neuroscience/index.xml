@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neuroscience | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/tag/neuroscience/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neuroscience</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>Neuroscience</title>
+      <link>https://academic-demo.netlify.app/tag/neuroscience/</link>
+    </image>
+    
+    <item>
+      <title>Alzheimer&#39;s Prediction via Deep Learning</title>
+      <link>https://academic-demo.netlify.app/project/alzheimers-prediction/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/alzheimers-prediction/</guid>
+      <description>&lt;p&gt;This project leverages cutting-edge deep learning architectures to process complex, multi-modal neurological and behavioral data. The primary objective is to build predictive models capable of identifying early onset indicators of Alzheimer&amp;rsquo;s Disease before clinical symptoms become apparent.&lt;/p&gt;
+&lt;h3 id=&#34;the-problem&#34;&gt;The Problem&lt;/h3&gt;
+&lt;p&gt;Traditional diagnostic methods often detect Alzheimer&amp;rsquo;s only after significant cognitive decline has occurred. By integrating diverse datasets—including fMRI scans, cognitive assessments, and behavioral tracking—we can uncover hidden patterns that suggest early pathological changes.&lt;/p&gt;
+&lt;h3 id=&#34;the-approach&#34;&gt;The Approach&lt;/h3&gt;
+&lt;p&gt;We implemented a multi-stream neural network that independently processes spatial data (imaging) and temporal data (longitudinal behavioral assessments) before fusing them for a final predictive output.&lt;/p&gt;
+&lt;h3 id=&#34;the-results&#34;&gt;The Results&lt;/h3&gt;
+&lt;p&gt;Our model achieved a 15% improvement in predictive accuracy over baseline clinical models, demonstrating the profound potential of multimodal AI in early neurodegenerative disease detection.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic fMRI Functional Connectivity</title>
+      <link>https://academic-demo.netlify.app/project/fmri-connectivity/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/fmri-connectivity/</guid>
+      <description>&lt;p&gt;Understanding how different regions of the brain communicate over time—known as dynamic functional connectivity—is crucial to unraveling the mysteries of cognitive aging.&lt;/p&gt;
+&lt;h3 id=&#34;focus&#34;&gt;Focus&lt;/h3&gt;
+&lt;p&gt;This research analyzes resting-state fMRI data from &amp;ldquo;SuperAgers&amp;rdquo; (older adults whose memory abilities rival those of young adults). We mapped complex brain networks to identify resilient connectivity patterns that may protect against age-related cognitive decline.&lt;/p&gt;
+&lt;h3 id=&#34;techniques&#34;&gt;Techniques&lt;/h3&gt;
+&lt;p&gt;We utilized sliding-window correlation techniques alongside graph theory to quantify network integration and segregation, providing new insights into the neural mechanisms of exceptional cognitive preservation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,361 +1,155 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mohammad Fili</title>
-    <link>https://academic-demo.netlify.app/</link>
-      <atom:link href="https://academic-demo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mohammad Fili</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://academic-demo.netlify.app/media/icon_hubee73d70c451290dfb42da9753fb47ff_12762_512x512_fill_lanczos_center_3.png</url>
-      <title>Mohammad Fili</title>
-      <link>https://academic-demo.netlify.app/</link>
-    </image>
-    
-    <item>
-      <title>Grid Search</title>
-      <link>https://academic-demo.netlify.app/courses/supervised-learning/model-tuning/grid-search/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/courses/supervised-learning/model-tuning/grid-search/</guid>
-      <description>&lt;h2 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h2&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mohammad Fili</title><link>https://academic-demo.netlify.app/</link><atom:link href="https://academic-demo.netlify.app/index.xml" rel="self" type="application/rss+xml"/><description>Mohammad Fili</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://academic-demo.netlify.app/media/icon_hu_a5e407e18fd79fab.png</url><title>Mohammad Fili</title><link>https://academic-demo.netlify.app/</link></image><item><title>Grid Search</title><link>https://academic-demo.netlify.app/courses/supervised-learning/model-tuning/grid-search/</link><pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/courses/supervised-learning/model-tuning/grid-search/</guid><description>&lt;h2 id="r-markdown"&gt;R Markdown&lt;/h2&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href="http://rmarkdown.rstudio.com" target="_blank" rel="noopener"&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;When you click the &lt;strong&gt;Knit&lt;/strong&gt; button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;summary(cars)
+&lt;pre&gt;&lt;code class="language-r"&gt;summary(cars)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
+&lt;pre&gt;&lt;code&gt;## speed dist
+## Min. : 4.0 Min. : 2.00
+## 1st Qu.:12.0 1st Qu.: 26.00
+## Median :15.0 Median : 36.00
+## Mean :15.4 Mean : 42.98
+## 3rd Qu.:19.0 3rd Qu.: 56.00
+## Max. :25.0 Max. :120.00
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;including-plots&#34;&gt;Including Plots&lt;/h2&gt;
+&lt;h2 id="including-plots"&gt;Including Plots&lt;/h2&gt;
 &lt;p&gt;You can also embed plots, for example:&lt;/p&gt;
-&lt;img src=&#34;https://academic-demo.netlify.app/courses/Supervised Learning/Model Tuning/Grid Search_files/figure-html/pressure-1.png&#34; width=&#34;672&#34; /&gt;
-&lt;p&gt;Note that the &lt;code&gt;echo = FALSE&lt;/code&gt; parameter was added to the code chunk to prevent printing of the R code that generated the plot.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Preprocessing</title>
-      <link>https://academic-demo.netlify.app/courses/supervised-learning/preprocessing/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/courses/supervised-learning/preprocessing/</guid>
-      <description>&lt;p&gt;Learn about different preprocessing techniques, and apply them to prepare your data for modelling.&lt;/p&gt;
+&lt;img src="https://academic-demo.netlify.app/courses/Supervised Learning/Model Tuning/Grid Search_files/figure-html/pressure-1.png" width="672" /&gt;
+&lt;p&gt;Note that the &lt;code&gt;echo = FALSE&lt;/code&gt; parameter was added to the code chunk to prevent printing of the R code that generated the plot.&lt;/p&gt;</description></item><item><title>Preprocessing</title><link>https://academic-demo.netlify.app/courses/supervised-learning/preprocessing/</link><pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/courses/supervised-learning/preprocessing/</guid><description>&lt;p&gt;Learn about different preprocessing techniques, and apply them to prepare your data for modelling.&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Tuesday &amp;amp; Thursday (9:00 - 10:15 am)&lt;/p&gt;
-&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/rfscVS0vtbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;i class="fas fa-clock pr-1 fa-fw"&gt;&lt;/i&gt; Tuesday &amp;amp; Thursday (9:00 - 10:15 am)&lt;/p&gt;
+&lt;h2 id="learn"&gt;Learn&lt;/h2&gt;
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/rfscVS0vtbw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
-  &lt;summary&gt;What is the difference between lists and tuples?&lt;/summary&gt;
-  &lt;p&gt;&lt;p&gt;Lists&lt;/p&gt;
+&lt;h2 id="quiz"&gt;Quiz&lt;/h2&gt;
+&lt;details class="spoiler " id="spoiler-2"&gt;
+&lt;summary&gt;What is the difference between lists and tuples?&lt;/summary&gt;
+&lt;p&gt;&lt;p&gt;Lists&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Lists are mutable - they can be changed&lt;/li&gt;
 &lt;li&gt;Slower than tuples&lt;/li&gt;
-&lt;li&gt;Syntax: &lt;code&gt;a_list = [1, 2.0, &#39;Hello world&#39;]&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_list = [1, 2.0, 'Hello world']&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Tuples&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Tuples are immutable - they can&amp;rsquo;t be changed&lt;/li&gt;
 &lt;li&gt;Tuples are faster than lists&lt;/li&gt;
-&lt;li&gt;Syntax: &lt;code&gt;a_tuple = (1, 2.0, &#39;Hello world&#39;)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_tuple = (1, 2.0, 'Hello world')&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
-  &lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
-  &lt;p&gt;Yes&lt;/p&gt;
-&lt;/details&gt;</description>
-    </item>
-    
-    <item>
-      <title>Bayesian Optimization</title>
-      <link>https://academic-demo.netlify.app/courses/supervised-learning/model-tuning/bayesian-optimization/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/courses/supervised-learning/model-tuning/bayesian-optimization/</guid>
-      <description>&lt;h2 id=&#34;bayesian-optimization&#34;&gt;Bayesian Optimization&lt;/h2&gt;
-&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;str(mtcars)
+&lt;details class="spoiler " id="spoiler-3"&gt;
+&lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
+&lt;p&gt;Yes&lt;/p&gt;
+&lt;/details&gt;</description></item><item><title>Bayesian Optimization</title><link>https://academic-demo.netlify.app/courses/supervised-learning/model-tuning/bayesian-optimization/</link><pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/courses/supervised-learning/model-tuning/bayesian-optimization/</guid><description>&lt;h2 id="bayesian-optimization"&gt;Bayesian Optimization&lt;/h2&gt;
+&lt;pre&gt;&lt;code class="language-r"&gt;str(mtcars)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## &#39;data.frame&#39;:	32 obs. of  11 variables:
-##  $ mpg : num  21 21 22.8 21.4 18.7 18.1 14.3 24.4 22.8 19.2 ...
-##  $ cyl : num  6 6 4 6 8 6 8 4 4 6 ...
-##  $ disp: num  160 160 108 258 360 ...
-##  $ hp  : num  110 110 93 110 175 105 245 62 95 123 ...
-##  $ drat: num  3.9 3.9 3.85 3.08 3.15 2.76 3.21 3.69 3.92 3.92 ...
-##  $ wt  : num  2.62 2.88 2.32 3.21 3.44 ...
-##  $ qsec: num  16.5 17 18.6 19.4 17 ...
-##  $ vs  : num  0 0 1 1 0 1 0 1 1 1 ...
-##  $ am  : num  1 1 1 0 0 0 0 0 0 0 ...
-##  $ gear: num  4 4 4 3 3 3 3 4 4 4 ...
-##  $ carb: num  4 4 1 1 2 1 4 2 2 4 ...
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Regression Models</title>
-      <link>https://academic-demo.netlify.app/courses/supervised-learning/regression-models/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/courses/supervised-learning/regression-models/</guid>
-      <description>&lt;p&gt;Learn about regression models, how they work, and how to apply them.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;## 'data.frame': 32 obs. of 11 variables:
+## $ mpg : num 21 21 22.8 21.4 18.7 18.1 14.3 24.4 22.8 19.2 ...
+## $ cyl : num 6 6 4 6 8 6 8 4 4 6 ...
+## $ disp: num 160 160 108 258 360 ...
+## $ hp : num 110 110 93 110 175 105 245 62 95 123 ...
+## $ drat: num 3.9 3.9 3.85 3.08 3.15 2.76 3.21 3.69 3.92 3.92 ...
+## $ wt : num 2.62 2.88 2.32 3.21 3.44 ...
+## $ qsec: num 16.5 17 18.6 19.4 17 ...
+## $ vs : num 0 0 1 1 0 1 0 1 1 1 ...
+## $ am : num 1 1 1 0 0 0 0 0 0 0 ...
+## $ gear: num 4 4 4 3 3 3 3 4 4 4 ...
+## $ carb: num 4 4 1 1 2 1 4 2 2 4 ...
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Regression Models</title><link>https://academic-demo.netlify.app/courses/supervised-learning/regression-models/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/courses/supervised-learning/regression-models/</guid><description>&lt;p&gt;Learn about regression models, how they work, and how to apply them.&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
-&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+&lt;i class="fas fa-clock pr-1 fa-fw"&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id="learn"&gt;Learn&lt;/h2&gt;
 &lt;p&gt;The general form of the &lt;strong&gt;normal&lt;/strong&gt; probability density function is:&lt;/p&gt;
 &lt;p&gt;$$
 f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
 $$&lt;/p&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    The parameter $\mu$ is the mean or expectation of the distribution.
+&lt;div class="alert alert-note"&gt;
+&lt;div&gt;
+The parameter $\mu$ is the mean or expectation of the distribution.
 $\sigma$ is its standard deviation.
 The variance of the distribution is $\sigma^{2}$.
-  &lt;/div&gt;
 &lt;/div&gt;
-
-&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
-  &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
-  &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
-&lt;/details&gt;</description>
-    </item>
-    
-    <item>
-      <title>Classification Models</title>
-      <link>https://academic-demo.netlify.app/courses/supervised-learning/classification-models/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/courses/supervised-learning/classification-models/</guid>
-      <description>&lt;p&gt;Learn about different classification models, how they work, and how to apply them.&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id="quiz"&gt;Quiz&lt;/h2&gt;
+&lt;details class="spoiler " id="spoiler-2"&gt;
+&lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
+&lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
+&lt;/details&gt;</description></item><item><title>Classification Models</title><link>https://academic-demo.netlify.app/courses/supervised-learning/classification-models/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/courses/supervised-learning/classification-models/</guid><description>&lt;p&gt;Learn about different classification models, how they work, and how to apply them.&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
-&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/hSPmj7mK6ng&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;i class="fas fa-clock pr-1 fa-fw"&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id="learn"&gt;Learn&lt;/h2&gt;
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/hSPmj7mK6ng?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
-  &lt;summary&gt;When is a heatmap useful?&lt;/summary&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;h2 id="quiz"&gt;Quiz&lt;/h2&gt;
+&lt;details class="spoiler " id="spoiler-2"&gt;
+&lt;summary&gt;When is a heatmap useful?&lt;/summary&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
 &lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
-  &lt;summary&gt;Write Plotly code to render a bar chart&lt;/summary&gt;
-  &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import plotly.express as px
-data_canada = px.data.gapminder().query(&amp;quot;country == &#39;Canada&#39;&amp;quot;)
-fig = px.bar(data_canada, x=&#39;year&#39;, y=&#39;pop&#39;)
+&lt;details class="spoiler " id="spoiler-3"&gt;
+&lt;summary&gt;Write Plotly code to render a bar chart&lt;/summary&gt;
+&lt;p&gt;&lt;pre&gt;&lt;code class="language-python"&gt;import plotly.express as px
+data_canada = px.data.gapminder().query(&amp;quot;country == 'Canada'&amp;quot;)
+fig = px.bar(data_canada, x='year', y='pop')
 fig.show()
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/p&gt;
-&lt;/details&gt;</description>
-    </item>
-    
-    <item>
-      <title>Model Tuning</title>
-      <link>https://academic-demo.netlify.app/courses/supervised-learning/hyperparameter-tuning/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/courses/supervised-learning/hyperparameter-tuning/</guid>
-      <description>&lt;p&gt;Learn about how to get the most out of your model by tuning the hyperparameters of it.&lt;/p&gt;
+&lt;/details&gt;</description></item><item><title>Model Tuning</title><link>https://academic-demo.netlify.app/courses/supervised-learning/hyperparameter-tuning/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/courses/supervised-learning/hyperparameter-tuning/</guid><description>&lt;p&gt;Learn about how to get the most out of your model by tuning the hyperparameters of it.&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Tuesday &amp;amp; Thursday (9:00 - 10:15 am)&lt;/p&gt;
-&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/rfscVS0vtbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;i class="fas fa-clock pr-1 fa-fw"&gt;&lt;/i&gt; Tuesday &amp;amp; Thursday (9:00 - 10:15 am)&lt;/p&gt;
+&lt;h2 id="learn"&gt;Learn&lt;/h2&gt;
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/rfscVS0vtbw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
-  &lt;summary&gt;What is the difference between lists and tuples?&lt;/summary&gt;
-  &lt;p&gt;&lt;p&gt;Lists&lt;/p&gt;
+&lt;h2 id="quiz"&gt;Quiz&lt;/h2&gt;
+&lt;details class="spoiler " id="spoiler-2"&gt;
+&lt;summary&gt;What is the difference between lists and tuples?&lt;/summary&gt;
+&lt;p&gt;&lt;p&gt;Lists&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Lists are mutable - they can be changed&lt;/li&gt;
 &lt;li&gt;Slower than tuples&lt;/li&gt;
-&lt;li&gt;Syntax: &lt;code&gt;a_list = [1, 2.0, &#39;Hello world&#39;]&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_list = [1, 2.0, 'Hello world']&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Tuples&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Tuples are immutable - they can&amp;rsquo;t be changed&lt;/li&gt;
 &lt;li&gt;Tuples are faster than lists&lt;/li&gt;
-&lt;li&gt;Syntax: &lt;code&gt;a_tuple = (1, 2.0, &#39;Hello world&#39;)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_tuple = (1, 2.0, 'Hello world')&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
-  &lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
-  &lt;p&gt;Yes&lt;/p&gt;
-&lt;/details&gt;</description>
-    </item>
-    
-    <item>
-      <title>Model Evaluation</title>
-      <link>https://academic-demo.netlify.app/courses/supervised-learning/model-evaluation/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/courses/supervised-learning/model-evaluation/</guid>
-      <description>&lt;p&gt;Learn about how to evaluate your model and compare its performance against other models.&lt;/p&gt;
+&lt;details class="spoiler " id="spoiler-3"&gt;
+&lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
+&lt;p&gt;Yes&lt;/p&gt;
+&lt;/details&gt;</description></item><item><title>Model Evaluation</title><link>https://academic-demo.netlify.app/courses/supervised-learning/model-evaluation/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/courses/supervised-learning/model-evaluation/</guid><description>&lt;p&gt;Learn about how to evaluate your model and compare its performance against other models.&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Tuesday &amp;amp; Thursday (9:00 - 10:15 am)&lt;/p&gt;
-&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/rfscVS0vtbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;i class="fas fa-clock pr-1 fa-fw"&gt;&lt;/i&gt; Tuesday &amp;amp; Thursday (9:00 - 10:15 am)&lt;/p&gt;
+&lt;h2 id="learn"&gt;Learn&lt;/h2&gt;
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/rfscVS0vtbw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
-  &lt;summary&gt;What is the difference between lists and tuples?&lt;/summary&gt;
-  &lt;p&gt;&lt;p&gt;Lists&lt;/p&gt;
+&lt;h2 id="quiz"&gt;Quiz&lt;/h2&gt;
+&lt;details class="spoiler " id="spoiler-2"&gt;
+&lt;summary&gt;What is the difference between lists and tuples?&lt;/summary&gt;
+&lt;p&gt;&lt;p&gt;Lists&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Lists are mutable - they can be changed&lt;/li&gt;
 &lt;li&gt;Slower than tuples&lt;/li&gt;
-&lt;li&gt;Syntax: &lt;code&gt;a_list = [1, 2.0, &#39;Hello world&#39;]&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_list = [1, 2.0, 'Hello world']&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Tuples&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Tuples are immutable - they can&amp;rsquo;t be changed&lt;/li&gt;
 &lt;li&gt;Tuples are faster than lists&lt;/li&gt;
-&lt;li&gt;Syntax: &lt;code&gt;a_tuple = (1, 2.0, &#39;Hello world&#39;)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_tuple = (1, 2.0, 'Hello world')&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
-  &lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
-  &lt;p&gt;Yes&lt;/p&gt;
-&lt;/details&gt;</description>
-    </item>
-    
-    <item>
-      <title>Decoding Alzheimer&#39;s: Using Algorithms To Predict Cognitive Decline</title>
-      <link>https://academic-demo.netlify.app/talk/decoding-alzheimers-using-algorithms-to-predict-cognitive-decline/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/decoding-alzheimers-using-algorithms-to-predict-cognitive-decline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decoding Cognitive Aging with Diffusion MRI</title>
-      <link>https://academic-demo.netlify.app/talk/decoding-cognitive-aging-with-diffusion-mri/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/decoding-cognitive-aging-with-diffusion-mri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning Solutions for Healthcare Problem</title>
-      <link>https://academic-demo.netlify.app/talk/machine-learning-solutions-for-healthcare-problem/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/machine-learning-solutions-for-healthcare-problem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analysis of changes in grey-white matter contrast in healthy older adults</title>
-      <link>https://academic-demo.netlify.app/talk/analysis-of-changes-in-grey-white-matter-contrast-in-healthy-older-adults/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/analysis-of-changes-in-grey-white-matter-contrast-in-healthy-older-adults/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analysis of changes in grey-white matter contrast in healthy older adults</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/greywhitematter_icss_2025/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/greywhitematter_icss_2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Association between subcortical volume changes and longitudinal cognitive measures in older adults</title>
-      <link>https://academic-demo.netlify.app/talk/association-between-subcortical-volume-changes-and-longitudinal-cognitive-measures-in-older-adults/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/association-between-subcortical-volume-changes-and-longitudinal-cognitive-measures-in-older-adults/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Association between subcortical volume changes and longitudinal cognitive measures in older adults</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/subcorticalvolume_iise_2025/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/subcorticalvolume_iise_2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clustering analysis of cecal microbiota dynamics in Eimeria maxima-infected chickens</title>
-      <link>https://academic-demo.netlify.app/talk/clustering-analysis-of-cecal-microbiota-dynamics-in-eimeria-maxima-infected-chickens/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/clustering-analysis-of-cecal-microbiota-dynamics-in-eimeria-maxima-infected-chickens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clustering analysis of cecal microbiota dynamics in Eimeria maxima-infected chickens</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/cecalmicrobiota_icss_2025/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/cecalmicrobiota_icss_2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comorbidity patterns before and after juvenile idiopathic arthritis diagnosis</title>
-      <link>https://academic-demo.netlify.app/talk/comorbidity-patterns-before-and-after-juvenile-idiopathic-arthritis-diagnosis/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/comorbidity-patterns-before-and-after-juvenile-idiopathic-arthritis-diagnosis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comorbidity patterns before and after juvenile idiopathic arthritis diagnosis</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/jia_comorbidity_icss_2025/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/jia_comorbidity_icss_2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparison of mixed-integer linear programming models for delivery problem with transshipments and battery swapping</title>
-      <link>https://academic-demo.netlify.app/talk/comparison-of-mixed-integer-linear-programming-models-for-delivery-problem-with-transshipments-and-battery-swapping/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/comparison-of-mixed-integer-linear-programming-models-for-delivery-problem-with-transshipments-and-battery-swapping/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparison of mixed-integer linear programming models for delivery problem with transshipments and battery swapping</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/deliveryproblem_iise_2025/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/deliveryproblem_iise_2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring the association between changes in neural connectivity and cognitive function in older adults: A UK Biobank study</title>
-      <link>https://academic-demo.netlify.app/talk/exploring-the-association-between-changes-in-neural-connectivity-and-cognitive-function-in-older-adults-a-uk-biobank-study/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/exploring-the-association-between-changes-in-neural-connectivity-and-cognitive-function-in-older-adults-a-uk-biobank-study/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring the association between changes in neural connectivity and cognitive function in older adults: A UK Biobank study</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/neuralconnectivity_iise_2025/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/neuralconnectivity_iise_2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decoding Alzheimer&#39;s: Using Algorithms to Predict Cognitive Decline</title>
-      <link>https://academic-demo.netlify.app/post/decoding-alzheimers-podcast/</link>
-      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/post/decoding-alzheimers-podcast/</guid>
-      <description>&lt;h2 id=&#34;-istaart-voices-podcast&#34;&gt;🎙️ ISTAART Voices Podcast&lt;/h2&gt;
+&lt;details class="spoiler " id="spoiler-3"&gt;
+&lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
+&lt;p&gt;Yes&lt;/p&gt;
+&lt;/details&gt;</description></item><item><title>Decoding Alzheimer's: Using Algorithms To Predict Cognitive Decline</title><link>https://academic-demo.netlify.app/talk/decoding-alzheimers-using-algorithms-to-predict-cognitive-decline/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/decoding-alzheimers-using-algorithms-to-predict-cognitive-decline/</guid><description/></item><item><title>Decoding Cognitive Aging with Diffusion MRI</title><link>https://academic-demo.netlify.app/talk/decoding-cognitive-aging-with-diffusion-mri/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/decoding-cognitive-aging-with-diffusion-mri/</guid><description/></item><item><title>Machine Learning Solutions for Healthcare Problem</title><link>https://academic-demo.netlify.app/talk/machine-learning-solutions-for-healthcare-problem/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/machine-learning-solutions-for-healthcare-problem/</guid><description/></item><item><title>Analysis of changes in grey-white matter contrast in healthy older adults</title><link>https://academic-demo.netlify.app/talk/analysis-of-changes-in-grey-white-matter-contrast-in-healthy-older-adults/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/analysis-of-changes-in-grey-white-matter-contrast-in-healthy-older-adults/</guid><description/></item><item><title>Analysis of changes in grey-white matter contrast in healthy older adults</title><link>https://academic-demo.netlify.app/publication/conference-paper/greywhitematter_icss_2025/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/conference-paper/greywhitematter_icss_2025/</guid><description/></item><item><title>Association between subcortical volume changes and longitudinal cognitive measures in older adults</title><link>https://academic-demo.netlify.app/talk/association-between-subcortical-volume-changes-and-longitudinal-cognitive-measures-in-older-adults/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/association-between-subcortical-volume-changes-and-longitudinal-cognitive-measures-in-older-adults/</guid><description/></item><item><title>Association between subcortical volume changes and longitudinal cognitive measures in older adults</title><link>https://academic-demo.netlify.app/publication/conference-paper/subcorticalvolume_iise_2025/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/conference-paper/subcorticalvolume_iise_2025/</guid><description/></item><item><title>Clustering analysis of cecal microbiota dynamics in Eimeria maxima-infected chickens</title><link>https://academic-demo.netlify.app/talk/clustering-analysis-of-cecal-microbiota-dynamics-in-eimeria-maxima-infected-chickens/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/clustering-analysis-of-cecal-microbiota-dynamics-in-eimeria-maxima-infected-chickens/</guid><description/></item><item><title>Clustering analysis of cecal microbiota dynamics in Eimeria maxima-infected chickens</title><link>https://academic-demo.netlify.app/publication/conference-paper/cecalmicrobiota_icss_2025/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/conference-paper/cecalmicrobiota_icss_2025/</guid><description/></item><item><title>Comorbidity patterns before and after juvenile idiopathic arthritis diagnosis</title><link>https://academic-demo.netlify.app/talk/comorbidity-patterns-before-and-after-juvenile-idiopathic-arthritis-diagnosis/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/comorbidity-patterns-before-and-after-juvenile-idiopathic-arthritis-diagnosis/</guid><description/></item><item><title>Comorbidity patterns before and after juvenile idiopathic arthritis diagnosis</title><link>https://academic-demo.netlify.app/publication/conference-paper/jia_comorbidity_icss_2025/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/conference-paper/jia_comorbidity_icss_2025/</guid><description/></item><item><title>Comparison of mixed-integer linear programming models for delivery problem with transshipments and battery swapping</title><link>https://academic-demo.netlify.app/talk/comparison-of-mixed-integer-linear-programming-models-for-delivery-problem-with-transshipments-and-battery-swapping/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/comparison-of-mixed-integer-linear-programming-models-for-delivery-problem-with-transshipments-and-battery-swapping/</guid><description/></item><item><title>Comparison of mixed-integer linear programming models for delivery problem with transshipments and battery swapping</title><link>https://academic-demo.netlify.app/publication/conference-paper/deliveryproblem_iise_2025/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/conference-paper/deliveryproblem_iise_2025/</guid><description/></item><item><title>Exploring the association between changes in neural connectivity and cognitive function in older adults: A UK Biobank study</title><link>https://academic-demo.netlify.app/talk/exploring-the-association-between-changes-in-neural-connectivity-and-cognitive-function-in-older-adults-a-uk-biobank-study/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/exploring-the-association-between-changes-in-neural-connectivity-and-cognitive-function-in-older-adults-a-uk-biobank-study/</guid><description/></item><item><title>Exploring the association between changes in neural connectivity and cognitive function in older adults: A UK Biobank study</title><link>https://academic-demo.netlify.app/publication/conference-paper/neuralconnectivity_iise_2025/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/conference-paper/neuralconnectivity_iise_2025/</guid><description/></item><item><title>Decoding Alzheimer's: Using Algorithms to Predict Cognitive Decline</title><link>https://academic-demo.netlify.app/post/decoding-alzheimers-podcast/</link><pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/post/decoding-alzheimers-podcast/</guid><description>&lt;h2 id="-istaart-voices-podcast"&gt;🎙️ ISTAART Voices Podcast&lt;/h2&gt;
 &lt;p&gt;I had the pleasure of joining &lt;strong&gt;Dr. Auriel Willette&lt;/strong&gt; (Rutgers University) on the &lt;strong&gt;ISTAART Voices&lt;/strong&gt; podcast to discuss our work on using algorithms to predict cognitive decline in Alzheimer&amp;rsquo;s disease.&lt;/p&gt;
 &lt;p&gt;In this episode, we explore:&lt;/p&gt;
 &lt;ul&gt;
@@ -364,349 +158,19 @@ fig.show()
 &lt;li&gt;Translating algorithmic predictions into &lt;strong&gt;clinically meaningful insights&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Future directions for &lt;strong&gt;AI-driven approaches&lt;/strong&gt; in Alzheimer&amp;rsquo;s research&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;listen-now&#34;&gt;Listen Now&lt;/h3&gt;
-&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/episode/44YB4XoIdO1sUOR8ejEqCu?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;📎 &lt;a href=&#34;https://open.spotify.com/episode/44YB4XoIdO1sUOR8ejEqCu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen on Spotify&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="listen-now"&gt;Listen Now&lt;/h3&gt;
+&lt;iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/44YB4XoIdO1sUOR8ejEqCu?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"&gt;&lt;/iframe&gt;
+&lt;p&gt;📎 &lt;a href="https://open.spotify.com/episode/44YB4XoIdO1sUOR8ejEqCu" target="_blank" rel="noopener"&gt;Listen on Spotify&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;This episode is part of the &lt;a href=&#34;https://open.spotify.com/show/16aooATozPzDPqS2zxjJmh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISTAART Voices&lt;/a&gt; podcast series by the International Society to Advance Alzheimer&amp;rsquo;s Research and Treatment.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Decoding cognitive aging: how white matter tracts and demographics distinguish potential Super-Agers</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/superagers_whitematter_2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/superagers_whitematter_2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Obesity and Insulin Resistance Alter Neural Processing of Unpleasant, but Not Pleasant, Visual Stimuli in Young Adults</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/obesity_neuralprocessing_2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/obesity_neuralprocessing_2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Associations of coffee and tea consumption on neural network connectivity: Unveiling the role of genetic factors in Alzheimer&#39;s disease risk</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/coffeetea_neuralconnectivity_2024/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/coffeetea_neuralconnectivity_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A hybrid feature selection method to improve classification of Super-Ager and Cognitive Decliner using structural brain MRI data - A UK Biobank study</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/superagers_featureselection_2024/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/superagers_featureselection_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Mathematical Model for an Efficient Two-tiered Delivery System with Truck-Robot Combination</title>
-      <link>https://academic-demo.netlify.app/talk/a-mathematical-model-for-an-efficient-two-tiered-delivery-system-with-truck-robot-combination/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/a-mathematical-model-for-an-efficient-two-tiered-delivery-system-with-truck-robot-combination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A mathematical model for an efficient two-tiered delivery system with truck-robot combination</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/truckrobot_soli_2024/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/truckrobot_soli_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Tempered Fractional Stable Noise Perturbed Gradient Descent Optimization Algorithm</title>
-      <link>https://academic-demo.netlify.app/talk/a-tempered-fractional-stable-noise-perturbed-gradient-descent-optimization-algorithm/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/a-tempered-fractional-stable-noise-perturbed-gradient-descent-optimization-algorithm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Exploration of Demographic and Psychosocial Indicators of Centenarian Survivorship</title>
-      <link>https://academic-demo.netlify.app/talk/an-exploration-of-demographic-and-psychosocial-indicators-of-centenarian-survivorship/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/an-exploration-of-demographic-and-psychosocial-indicators-of-centenarian-survivorship/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Exploration of demographic and psychosocial indicators of centenarian survivorship</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/centenarian_soli_2024/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/centenarian_soli_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identification of Cognitive Decliners using resting-state functional MRI</title>
-      <link>https://academic-demo.netlify.app/talk/identification-of-cognitive-decliners-using-resting-state-functional-mri/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/identification-of-cognitive-decliners-using-resting-state-functional-mri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identification of Sub-communities in Chicken’s Gut Microbiome</title>
-      <link>https://academic-demo.netlify.app/talk/identification-of-sub-communities-in-chickens-gut-microbiome/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/identification-of-sub-communities-in-chickens-gut-microbiome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A machine learning approach for potential Super-Agers identification using neuronal functional connectivity networks</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/superagers_functionalconnectivity_2024/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/superagers_functionalconnectivity_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mapping the evolutionary space of SARS-CoV-2 variants to anticipate emergence of subvariants resistant to COVID-19 therapeutics</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/sarscov2_evolutionaryspace_2024/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/sarscov2_evolutionaryspace_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cognitive Classification using MRI and Blood Biomarkers</title>
-      <link>https://academic-demo.netlify.app/talk/cognitive-classification-using-mri-and-blood-biomarkers/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/cognitive-classification-using-mri-and-blood-biomarkers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cognitive classification using MRI and blood biomarkers</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/cognitiveclassification_iise_2024/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/cognitiveclassification_iise_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Industry Superstars: Unmasking Key Features that Drive Firm-Level Performance in Chinese Markets using Ensemble Learning with Genetic Algorithm</title>
-      <link>https://academic-demo.netlify.app/talk/industry-superstars-unmasking-key-features-that-drive-firm-level-performance-in-chinese-markets-using-ensemble-learning-with-genetic-algorithm/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/industry-superstars-unmasking-key-features-that-drive-firm-level-performance-in-chinese-markets-using-ensemble-learning-with-genetic-algorithm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Industry superstars: Unmasking key features that drive firm-level performance in Chinese markets using ensemble learning with genetic algorithm</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/industrysuperstars_iise_2024/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/industrysuperstars_iise_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adiposity and insulin resistance moderate the links between neuroelectrophysiology and working and episodic memory functions in young adult males but not females</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/adiposity_memory_2023/</link>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/adiposity_memory_2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cognitive Grouping using Diffusion MRI and Cognitive Assessments.</title>
-      <link>https://academic-demo.netlify.app/talk/cognitive-grouping-using-diffusion-mri-and-cognitive-assessments./</link>
-      <pubDate>Mon, 16 Oct 2023 13:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/cognitive-grouping-using-diffusion-mri-and-cognitive-assessments./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alzheimer&#39;s Disease Genetic Influences Impact the Associations between Diet and Resting-State Functional Connectivity: A Study from the UK Biobank</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/ad_genetic_diet_2023/</link>
-      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/ad_genetic_diet_2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Super-Agers identification using rsfMRI data</title>
-      <link>https://academic-demo.netlify.app/talk/super-agers-identification-using-rsfmri-data/</link>
-      <pubDate>Sun, 16 Jul 2023 13:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/super-agers-identification-using-rsfmri-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A classification algorithm based on dynamic ensemble selection to predict mutational patterns of the envelope protein in HIV-infected patients</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/hiv_dynamicensemble_2023/</link>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/hiv_dynamicensemble_2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Machine Learning Approach to Estimate the Effectiveness of COVID-19 Policies</title>
-      <link>https://academic-demo.netlify.app/talk/a-machine-learning-approach-to-estimate-the-effectiveness-of-covid-19-policies/</link>
-      <pubDate>Sun, 21 May 2023 13:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/a-machine-learning-approach-to-estimate-the-effectiveness-of-covid-19-policies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regional Demand Forecasting using Clearance Deals Data</title>
-      <link>https://academic-demo.netlify.app/talk/regional-demand-forecasting-using-clearance-deals-data/</link>
-      <pubDate>Sun, 21 May 2023 13:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/regional-demand-forecasting-using-clearance-deals-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A machine learning approach to estimate the effectiveness of COVID-19 policies</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/covidpolicies_iise_2023/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/covidpolicies_iise_2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regional demand forecasting using clearance deals data for an online retailer company</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/demandforecasting_iise_2023/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/demandforecasting_iise_2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring the secrets of super-aging: a UK Biobank study on brain health and cognitive function</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/superaging_secrets_2023/</link>
-      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/superaging_secrets_2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prediction of New COVID-19 Cases Considering Mitigation Policies and Weather Data for European Countries</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/covid19_prediction_europe/</link>
-      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/covid19_prediction_europe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning Solutions for Healthcare Problems</title>
-      <link>https://academic-demo.netlify.app/talk/machine-learning-solutions-for-healthcare-problems/</link>
-      <pubDate>Wed, 30 Nov 2022 13:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/machine-learning-solutions-for-healthcare-problems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Super-Agers vs Cognitive Decliners</title>
-      <link>https://academic-demo.netlify.app/talk/super-agers-vs-cognitive-decliners/</link>
-      <pubDate>Sun, 16 Oct 2022 13:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/super-agers-vs-cognitive-decliners/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AN LSTM Model to predict the COVID-19 New Cases for European Countries</title>
-      <link>https://academic-demo.netlify.app/talk/an-lstm-model-to-predict-the-covid-19-new-cases-for-european-countries/</link>
-      <pubDate>Sat, 02 Jul 2022 13:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/an-lstm-model-to-predict-the-covid-19-new-cases-for-european-countries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experiences</title>
-      <link>https://academic-demo.netlify.app/experience/teaching/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/experience/teaching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching Experiences</title>
-      <link>https://academic-demo.netlify.app/experience/research/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/experience/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>COVID-19 forecasting and intervention planning using gated recurrent unit and evolutionary algorithm</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/mitigationpolicies_gru/</link>
-      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/mitigationpolicies_gru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Limited Variation between SARS-CoV-2-Infected Individuals in Domain Specificity and Relative Potency of the Antibody Response against the Spike Glycoprotein</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/covid19_antibodyresponse/</link>
-      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/covid19_antibodyresponse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Stacking-Based Classification Approach (Case Study in Volatility Prediction of HIV-1)</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/hiv1_stacking/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/hiv1_stacking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Covid-19 Intervention Policy Optimization Using a Multi-population Evolutionary Algorithm</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/covid19_evolutionary/</link>
-      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/covid19_evolutionary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>COVID-19 Policy Prescription for US</title>
-      <link>https://academic-demo.netlify.app/talk/covid-19-policy-prescription-for-us/</link>
-      <pubDate>Fri, 08 Oct 2021 13:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/covid-19-policy-prescription-for-us/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Town trip forecasting based on data mining techniques</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/nyc_yellowtaxi/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/nyc_yellowtaxi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://academic-demo.netlify.app/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
+&lt;p&gt;&lt;em&gt;This episode is part of the &lt;a href="https://open.spotify.com/show/16aooATozPzDPqS2zxjJmh" target="_blank" rel="noopener"&gt;ISTAART Voices&lt;/a&gt; podcast series by the International Society to Advance Alzheimer&amp;rsquo;s Research and Treatment.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Decoding cognitive aging: how white matter tracts and demographics distinguish potential Super-Agers</title><link>https://academic-demo.netlify.app/publication/journal-article/superagers_whitematter_2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/journal-article/superagers_whitematter_2025/</guid><description/></item><item><title>Obesity and Insulin Resistance Alter Neural Processing of Unpleasant, but Not Pleasant, Visual Stimuli in Young Adults</title><link>https://academic-demo.netlify.app/publication/journal-article/obesity_neuralprocessing_2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/journal-article/obesity_neuralprocessing_2025/</guid><description/></item><item><title>Associations of coffee and tea consumption on neural network connectivity: Unveiling the role of genetic factors in Alzheimer's disease risk</title><link>https://academic-demo.netlify.app/publication/journal-article/coffeetea_neuralconnectivity_2024/</link><pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/journal-article/coffeetea_neuralconnectivity_2024/</guid><description/></item><item><title>A hybrid feature selection method to improve classification of Super-Ager and Cognitive Decliner using structural brain MRI data - A UK Biobank study</title><link>https://academic-demo.netlify.app/publication/journal-article/superagers_featureselection_2024/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/journal-article/superagers_featureselection_2024/</guid><description/></item><item><title>A mathematical model for an efficient two-tiered delivery system with truck-robot combination</title><link>https://academic-demo.netlify.app/publication/conference-paper/truckrobot_soli_2024/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/conference-paper/truckrobot_soli_2024/</guid><description/></item><item><title>A Mathematical Model for an Efficient Two-tiered Delivery System with Truck-Robot Combination</title><link>https://academic-demo.netlify.app/talk/a-mathematical-model-for-an-efficient-two-tiered-delivery-system-with-truck-robot-combination/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/a-mathematical-model-for-an-efficient-two-tiered-delivery-system-with-truck-robot-combination/</guid><description/></item><item><title>A Tempered Fractional Stable Noise Perturbed Gradient Descent Optimization Algorithm</title><link>https://academic-demo.netlify.app/talk/a-tempered-fractional-stable-noise-perturbed-gradient-descent-optimization-algorithm/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/a-tempered-fractional-stable-noise-perturbed-gradient-descent-optimization-algorithm/</guid><description/></item><item><title>An Exploration of demographic and psychosocial indicators of centenarian survivorship</title><link>https://academic-demo.netlify.app/publication/conference-paper/centenarian_soli_2024/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/conference-paper/centenarian_soli_2024/</guid><description/></item><item><title>An Exploration of Demographic and Psychosocial Indicators of Centenarian Survivorship</title><link>https://academic-demo.netlify.app/talk/an-exploration-of-demographic-and-psychosocial-indicators-of-centenarian-survivorship/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/an-exploration-of-demographic-and-psychosocial-indicators-of-centenarian-survivorship/</guid><description/></item><item><title>Identification of Cognitive Decliners using resting-state functional MRI</title><link>https://academic-demo.netlify.app/talk/identification-of-cognitive-decliners-using-resting-state-functional-mri/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/identification-of-cognitive-decliners-using-resting-state-functional-mri/</guid><description/></item><item><title>Identification of Sub-communities in Chicken’s Gut Microbiome</title><link>https://academic-demo.netlify.app/talk/identification-of-sub-communities-in-chickens-gut-microbiome/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/identification-of-sub-communities-in-chickens-gut-microbiome/</guid><description/></item><item><title>A machine learning approach for potential Super-Agers identification using neuronal functional connectivity networks</title><link>https://academic-demo.netlify.app/publication/journal-article/superagers_functionalconnectivity_2024/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/journal-article/superagers_functionalconnectivity_2024/</guid><description/></item><item><title>Mapping the evolutionary space of SARS-CoV-2 variants to anticipate emergence of subvariants resistant to COVID-19 therapeutics</title><link>https://academic-demo.netlify.app/publication/journal-article/sarscov2_evolutionaryspace_2024/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/journal-article/sarscov2_evolutionaryspace_2024/</guid><description/></item><item><title>Cognitive classification using MRI and blood biomarkers</title><link>https://academic-demo.netlify.app/publication/conference-paper/cognitiveclassification_iise_2024/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/conference-paper/cognitiveclassification_iise_2024/</guid><description/></item><item><title>Cognitive Classification using MRI and Blood Biomarkers</title><link>https://academic-demo.netlify.app/talk/cognitive-classification-using-mri-and-blood-biomarkers/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/cognitive-classification-using-mri-and-blood-biomarkers/</guid><description/></item><item><title>Industry superstars: Unmasking key features that drive firm-level performance in Chinese markets using ensemble learning with genetic algorithm</title><link>https://academic-demo.netlify.app/publication/conference-paper/industrysuperstars_iise_2024/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/conference-paper/industrysuperstars_iise_2024/</guid><description/></item><item><title>Industry Superstars: Unmasking Key Features that Drive Firm-Level Performance in Chinese Markets using Ensemble Learning with Genetic Algorithm</title><link>https://academic-demo.netlify.app/talk/industry-superstars-unmasking-key-features-that-drive-firm-level-performance-in-chinese-markets-using-ensemble-learning-with-genetic-algorithm/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/industry-superstars-unmasking-key-features-that-drive-firm-level-performance-in-chinese-markets-using-ensemble-learning-with-genetic-algorithm/</guid><description/></item><item><title>Adiposity and insulin resistance moderate the links between neuroelectrophysiology and working and episodic memory functions in young adult males but not females</title><link>https://academic-demo.netlify.app/publication/journal-article/adiposity_memory_2023/</link><pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/journal-article/adiposity_memory_2023/</guid><description/></item><item><title>Cognitive Grouping using Diffusion MRI and Cognitive Assessments.</title><link>https://academic-demo.netlify.app/talk/cognitive-grouping-using-diffusion-mri-and-cognitive-assessments./</link><pubDate>Mon, 16 Oct 2023 13:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/cognitive-grouping-using-diffusion-mri-and-cognitive-assessments./</guid><description/></item><item><title>Alzheimer's Disease Genetic Influences Impact the Associations between Diet and Resting-State Functional Connectivity: A Study from the UK Biobank</title><link>https://academic-demo.netlify.app/publication/journal-article/ad_genetic_diet_2023/</link><pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/journal-article/ad_genetic_diet_2023/</guid><description/></item><item><title>Super-Agers identification using rsfMRI data</title><link>https://academic-demo.netlify.app/talk/super-agers-identification-using-rsfmri-data/</link><pubDate>Sun, 16 Jul 2023 13:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/super-agers-identification-using-rsfmri-data/</guid><description/></item><item><title>A classification algorithm based on dynamic ensemble selection to predict mutational patterns of the envelope protein in HIV-infected patients</title><link>https://academic-demo.netlify.app/publication/journal-article/hiv_dynamicensemble_2023/</link><pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/journal-article/hiv_dynamicensemble_2023/</guid><description/></item><item><title>A Machine Learning Approach to Estimate the Effectiveness of COVID-19 Policies</title><link>https://academic-demo.netlify.app/talk/a-machine-learning-approach-to-estimate-the-effectiveness-of-covid-19-policies/</link><pubDate>Sun, 21 May 2023 13:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/a-machine-learning-approach-to-estimate-the-effectiveness-of-covid-19-policies/</guid><description/></item><item><title>Regional Demand Forecasting using Clearance Deals Data</title><link>https://academic-demo.netlify.app/talk/regional-demand-forecasting-using-clearance-deals-data/</link><pubDate>Sun, 21 May 2023 13:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/regional-demand-forecasting-using-clearance-deals-data/</guid><description/></item><item><title>A machine learning approach to estimate the effectiveness of COVID-19 policies</title><link>https://academic-demo.netlify.app/publication/conference-paper/covidpolicies_iise_2023/</link><pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/conference-paper/covidpolicies_iise_2023/</guid><description/></item><item><title>Regional demand forecasting using clearance deals data for an online retailer company</title><link>https://academic-demo.netlify.app/publication/conference-paper/demandforecasting_iise_2023/</link><pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/conference-paper/demandforecasting_iise_2023/</guid><description/></item><item><title>Exploring the secrets of super-aging: a UK Biobank study on brain health and cognitive function</title><link>https://academic-demo.netlify.app/publication/journal-article/superaging_secrets_2023/</link><pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/journal-article/superaging_secrets_2023/</guid><description/></item><item><title>Prediction of New COVID-19 Cases Considering Mitigation Policies and Weather Data for European Countries</title><link>https://academic-demo.netlify.app/publication/conference-paper/covid19_prediction_europe/</link><pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/conference-paper/covid19_prediction_europe/</guid><description/></item><item><title>Machine Learning Solutions for Healthcare Problems</title><link>https://academic-demo.netlify.app/talk/machine-learning-solutions-for-healthcare-problems/</link><pubDate>Wed, 30 Nov 2022 13:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/machine-learning-solutions-for-healthcare-problems/</guid><description/></item><item><title>Super-Agers vs Cognitive Decliners</title><link>https://academic-demo.netlify.app/talk/super-agers-vs-cognitive-decliners/</link><pubDate>Sun, 16 Oct 2022 13:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/super-agers-vs-cognitive-decliners/</guid><description/></item><item><title>AN LSTM Model to predict the COVID-19 New Cases for European Countries</title><link>https://academic-demo.netlify.app/talk/an-lstm-model-to-predict-the-covid-19-new-cases-for-european-countries/</link><pubDate>Sat, 02 Jul 2022 13:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/an-lstm-model-to-predict-the-covid-19-new-cases-for-european-countries/</guid><description/></item><item><title>Experiences</title><link>https://academic-demo.netlify.app/experience/teaching/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/experience/teaching/</guid><description/></item><item><title>Teaching Experiences</title><link>https://academic-demo.netlify.app/experience/research/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/experience/research/</guid><description/></item><item><title>COVID-19 forecasting and intervention planning using gated recurrent unit and evolutionary algorithm</title><link>https://academic-demo.netlify.app/publication/journal-article/mitigationpolicies_gru/</link><pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/journal-article/mitigationpolicies_gru/</guid><description/></item><item><title>Limited Variation between SARS-CoV-2-Infected Individuals in Domain Specificity and Relative Potency of the Antibody Response against the Spike Glycoprotein</title><link>https://academic-demo.netlify.app/publication/journal-article/covid19_antibodyresponse/</link><pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/journal-article/covid19_antibodyresponse/</guid><description/></item><item><title>A Stacking-Based Classification Approach (Case Study in Volatility Prediction of HIV-1)</title><link>https://academic-demo.netlify.app/publication/conference-paper/hiv1_stacking/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/conference-paper/hiv1_stacking/</guid><description/></item><item><title>Covid-19 Intervention Policy Optimization Using a Multi-population Evolutionary Algorithm</title><link>https://academic-demo.netlify.app/publication/conference-paper/covid19_evolutionary/</link><pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/conference-paper/covid19_evolutionary/</guid><description/></item><item><title>COVID-19 Policy Prescription for US</title><link>https://academic-demo.netlify.app/talk/covid-19-policy-prescription-for-us/</link><pubDate>Fri, 08 Oct 2021 13:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/talk/covid-19-policy-prescription-for-us/</guid><description/></item><item><title>Town trip forecasting based on data mining techniques</title><link>https://academic-demo.netlify.app/publication/journal-article/nyc_yellowtaxi/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/journal-article/nyc_yellowtaxi/</guid><description/></item><item><title>An example preprint / working paper</title><link>https://academic-demo.netlify.app/publication/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/publication/preprint/</guid><description>&lt;div class="alert alert-note"&gt;
+&lt;div&gt;
+Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://academic-demo.netlify.app/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/slides/example/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener"&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Slides</title><link>https://academic-demo.netlify.app/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy"&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener"&gt;Wowchemy&lt;/a&gt; | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener"&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;h2 id="features"&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
 &lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
@@ -714,7 +178,7 @@ fig.show()
 &lt;li&gt;Mobile friendly slides&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;h2 id="controls"&gt;Controls&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
@@ -724,39 +188,39 @@ fig.show()
 &lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/hakimel/reveal.js#pdf-export" target="_blank" rel="noopener"&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;h2 id="code-highlighting"&gt;Code Highlighting&lt;/h2&gt;
 &lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+&lt;pre&gt;&lt;code class="language-python"&gt;porridge = &amp;quot;blueberry&amp;quot;
 if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
+print(&amp;quot;Eating...&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;h2 id="math"&gt;Math&lt;/h2&gt;
 &lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
 &lt;p&gt;Block math:&lt;/p&gt;
 &lt;p&gt;$$
 f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
 $$&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;h2 id="fragments"&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
 {{% fragment %}} **Two** {{% /fragment %}}
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   One 
+&lt;span class="fragment " &gt;
+One
 &lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   **Two** 
+&lt;span class="fragment " &gt;
+**Two**
 &lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   Three 
+&lt;span class="fragment " &gt;
+Three
 &lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
@@ -765,23 +229,22 @@ $$&lt;/p&gt;
 &lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;h2 id="speaker-notes"&gt;Speaker Notes&lt;/h2&gt;
 &lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+&lt;pre&gt;&lt;code class="language-markdown"&gt;{{% speaker_note %}}
 - Only the speaker can read these notes
 - Press `S` key to view
 {{% /speaker_note %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
+&lt;aside class="notes"&gt;
+&lt;ul&gt;
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
 &lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;/aside&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;h2 id="themes"&gt;Themes&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
 &lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
@@ -797,468 +260,88 @@ $$&lt;/p&gt;
 &lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-
 &lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/media/boards.jpg&#34;
-  &gt;
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+data-background-image="/media/boards.jpg"
+&gt;
+&lt;h2 id="custom-slide"&gt;Custom Slide&lt;/h2&gt;
 &lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+&lt;pre&gt;&lt;code class="language-markdown"&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
 {{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
 {{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;h2 id="custom-css-example"&gt;Custom CSS Example&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
 &lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+&lt;pre&gt;&lt;code class="language-css"&gt;.reveal section h1,
 .reveal section h2,
 .reveal section h3 {
-  color: navy;
+color: navy;
 }
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://academic-demo.netlify.app/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/admin/config.yml</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>6. Body-Focused Repetitive Behaviors</title>
-      <link>https://academic-demo.netlify.app/project/body-focused-repetitive-behaviors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/body-focused-repetitive-behaviors/</guid>
-      <description>&lt;p&gt;Body-focused repetitive behaviors (BFRBs) â€” including hair-pulling (trichotillomania), skin-picking (excoriation disorder), and nail-biting â€” are surprisingly common, affecting an estimated 2â€“5% of the population. Despite their prevalence, BFRBs are among the least well-monitored conditions in behavioral health. The primary reason is measurement: BFRBs are episodic, often automatic, and frequently occur outside of clinical settings. Self-report is unreliable (many patients are unaware of their behaviors in real time), and observational assessment is impractical for continuous monitoring. The result is that clinicians have almost no objective data on when, where, and how often these behaviors occur in daily life.&lt;/p&gt;
-&lt;p&gt;Wearable sensor technologies offer a potential solution. Modern wristbands and smartwatches contain accelerometers, gyroscopes, and physiological sensors (heart rate, electrodermal activity) that can capture the hand movements and autonomic signatures associated with BFRBs. The challenge is computational: extracting a reliable behavioral signal from noisy, multimodal sensor data in uncontrolled environments, where the target behaviors must be distinguished from the thousands of ordinary hand movements a person makes each day.&lt;/p&gt;
-&lt;p&gt;This project develops methods for automated BFRB detection using multimodal sensor fusion from wearable devices. The approach combines accelerometer, gyroscope, and physiological signals using multimodal learning techniques to identify BFRB episodes in naturalistic settings.&lt;/p&gt;
-&lt;p&gt;[Additional details on the specific sensor suite, dataset characteristics, and classification architecture to be added.]&lt;/p&gt;
-&lt;p&gt;The manuscript is in preparation for &lt;em&gt;IEEE Journal of Biomedical and Health Informatics&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Brain Changes: Volume, Connectivity, and Gray-White Matter Contrast</title>
-      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/brain-changes-volume-connectivity-and-gray-white-matter-contrast/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/brain-changes-volume-connectivity-and-gray-white-matter-contrast/</guid>
-      <description>&lt;p&gt;The aging brain undergoes a cascade of structural changes â€” subcortical volumes shrink, functional connectivity networks reorganize, and the boundary between gray and white matter becomes less distinct. These changes are measurable on MRI and are often assumed to track with cognitive decline, but the relationship is more complex than it appears. Not all structural changes predict functional impairment equally, and some individuals show substantial anatomical change with little cognitive consequence, while others decline cognitively with relatively preserved structure. Understanding which specific brain changes are most predictive of future cognitive outcomes â€” and in whom â€” is essential for developing neuroimaging-based screening tools.&lt;/p&gt;
+&lt;h1 id="questions"&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener"&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener"&gt;Documentation&lt;/a&gt;&lt;/p&gt;</description></item><item><title/><link>https://academic-demo.netlify.app/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/admin/config.yml</guid><description/></item><item><title>Brain Changes: Volume, Connectivity, and Gray-White Matter Contrast</title><link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/brain-changes-volume-connectivity-and-gray-white-matter-contrast/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/brain-changes-volume-connectivity-and-gray-white-matter-contrast/</guid><description>&lt;p&gt;The aging brain undergoes a cascade of structural changes â€” subcortical volumes shrink, functional connectivity networks reorganize, and the boundary between gray and white matter becomes less distinct. These changes are measurable on MRI and are often assumed to track with cognitive decline, but the relationship is more complex than it appears. Not all structural changes predict functional impairment equally, and some individuals show substantial anatomical change with little cognitive consequence, while others decline cognitively with relatively preserved structure. Understanding which specific brain changes are most predictive of future cognitive outcomes â€” and in whom â€” is essential for developing neuroimaging-based screening tools.&lt;/p&gt;
 &lt;p&gt;This project focuses on three complementary dimensions of brain structure in healthy older adults, using longitudinal data from the UK Biobank. First, we examined the association between changes in subcortical volume and longitudinal cognitive measures, asking whether volume loss in specific subcortical structures (hippocampus, amygdala, thalamus, caudate) predicts cognitive trajectories more reliably than global atrophy measures. Second, we investigated how changes in functional connectivity relate to cognitive function over time, testing whether network-level reorganization carries prognostic information beyond what structural measures provide.&lt;/p&gt;
 &lt;p&gt;Third, and perhaps most novel, we are analyzing gray-white matter contrast (GWC) â€” a metric that captures the sharpness of the boundary between cortical gray matter and underlying white matter. GWC is sensitive to subtle changes in myelination and cortical microstructure that volumetric measures may miss entirely. We are characterizing GWC changes in healthy adults over time, identifying predictors and patterns that differentiate individuals whose GWC increases (potentially reflecting compensatory myelination) from those in whom it declines (potentially reflecting early degeneration). This study is in preparation for &lt;em&gt;GeroScience&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Together, these studies aim to build a multi-dimensional picture of how the aging brain changes and which dimensions of change matter most for predicting who will remain cognitively healthy and who will not.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bryce Bullard</title>
-      <link>https://academic-demo.netlify.app/team/bryce-bullard/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/bryce-bullard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chicken Gut Microbiome under *Eimeria maxima* Infection</title>
-      <link>https://academic-demo.netlify.app/project/animal-science/chicken-gut-microbiome-under-eimeria-maxima-infection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/animal-science/chicken-gut-microbiome-under-eimeria-maxima-infection/</guid>
-      <description>&lt;p&gt;The gut microbiome of poultry is a complex ecosystem that directly influences health, disease resistance, nutrient absorption, and production performance. When chickens are infected with &lt;em&gt;Eimeria maxima&lt;/em&gt; â€” one of the most economically damaging parasites in poultry production, causing coccidiosis â€” the microbial community in the gut is profoundly disrupted. But disruption is not uniform: some microbial groups collapse, others expand, and some form new co-occurrence patterns that are absent in healthy animals. Understanding which sub-communities of microbes coexist under infection â€” and how these communities differ between gut compartments â€” can reveal the microbial interaction networks that either promote resilience or vulnerability to parasitic challenge.&lt;/p&gt;
+&lt;p&gt;Together, these studies aim to build a multi-dimensional picture of how the aging brain changes and which dimensions of change matter most for predicting who will remain cognitively healthy and who will not.&lt;/p&gt;</description></item><item><title>Bryce Bullard</title><link>https://academic-demo.netlify.app/team/bryce-bullard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/bryce-bullard/</guid><description/></item><item><title>Chicken Gut Microbiome under *Eimeria maxima* Infection</title><link>https://academic-demo.netlify.app/project/animal-science/chicken-gut-microbiome-under-eimeria-maxima-infection/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/animal-science/chicken-gut-microbiome-under-eimeria-maxima-infection/</guid><description>&lt;p&gt;The gut microbiome of poultry is a complex ecosystem that directly influences health, disease resistance, nutrient absorption, and production performance. When chickens are infected with &lt;em&gt;Eimeria maxima&lt;/em&gt; â€” one of the most economically damaging parasites in poultry production, causing coccidiosis â€” the microbial community in the gut is profoundly disrupted. But disruption is not uniform: some microbial groups collapse, others expand, and some form new co-occurrence patterns that are absent in healthy animals. Understanding which sub-communities of microbes coexist under infection â€” and how these communities differ between gut compartments â€” can reveal the microbial interaction networks that either promote resilience or vulnerability to parasitic challenge.&lt;/p&gt;
 &lt;p&gt;This project, conducted in collaboration with Dr. Glenn Zhang from the Animal and Food Science department at OSU, examines microbiome sub-community structure in the chicken gut under &lt;em&gt;Eimeria maxima&lt;/em&gt; infection. The analytical approach uses abundance trajectories of Amplicon Sequence Variants (ASVs) across ileum and cecum â€” two gut compartments with distinct microbial environments â€” and applies network optimization and unsupervised learning techniques to identify co-occurring sub-communities.&lt;/p&gt;
-&lt;p&gt;The goal is twofold: to characterize how infection reorganizes microbial community structure in a compartment-specific manner, and to identify microbial consortia that could serve as biomarkers of disease status or targets for probiotic intervention. The findings were presented at the INFORMS Conference on Service Science (ICSS, 2025).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cognitive Trajectory Modeling</title>
-      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/cognitive-trajectory-modeling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/cognitive-trajectory-modeling/</guid>
-      <description>&lt;p&gt;Most research on cognitive aging relies on either cross-sectional comparisons â€” snapshots of cognition at a single time point â€” or pre-defined clinical categories such as mild cognitive impairment (MCI) and Alzheimer&amp;rsquo;s disease. Both approaches have limitations. Cross-sectional designs cannot capture within-person change, and clinical categories impose hard boundaries on what is fundamentally a continuous process. An alternative is to let the data reveal the natural trajectories of cognitive change over time, without presupposing how many distinct trajectories exist or where the boundaries between them fall.&lt;/p&gt;
+&lt;p&gt;The goal is twofold: to characterize how infection reorganizes microbial community structure in a compartment-specific manner, and to identify microbial consortia that could serve as biomarkers of disease status or targets for probiotic intervention. The findings were presented at the INFORMS Conference on Service Science (ICSS, 2025).&lt;/p&gt;</description></item><item><title>Cognitive Trajectory Modeling</title><link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/cognitive-trajectory-modeling/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/cognitive-trajectory-modeling/</guid><description>&lt;p&gt;Most research on cognitive aging relies on either cross-sectional comparisons â€” snapshots of cognition at a single time point â€” or pre-defined clinical categories such as mild cognitive impairment (MCI) and Alzheimer&amp;rsquo;s disease. Both approaches have limitations. Cross-sectional designs cannot capture within-person change, and clinical categories impose hard boundaries on what is fundamentally a continuous process. An alternative is to let the data reveal the natural trajectories of cognitive change over time, without presupposing how many distinct trajectories exist or where the boundaries between them fall.&lt;/p&gt;
 &lt;p&gt;This project takes that data-driven approach. Using longitudinal cognitive assessments from cognitively normal older adults, we developed a methodology to identify natural cognitive trajectories â€” groupings that emerge from the temporal patterns of change themselves rather than from diagnostic labels applied after the fact. The analysis distinguishes Cognitive Decliners, Positive-Agers, and Normal-Agers as distinct trajectory classes, each with characteristic rates and patterns of change.&lt;/p&gt;
 &lt;p&gt;A particularly notable outcome of this work is a proposed procedure that, despite the study&amp;rsquo;s longitudinal design, can identify individuals likely to experience severe future cognitive decline based on baseline assessments alone. This is clinically significant because it means the trajectory model could function as a practical screening tool: a single assessment session could flag individuals who are on a declining path years before their cognition crosses a clinical threshold. If validated in independent cohorts, this approach could be integrated into routine health evaluations for older adults, enabling targeted monitoring and early intervention for those at highest risk.&lt;/p&gt;
-&lt;p&gt;The manuscript describing this methodology and its findings is currently in review at &lt;em&gt;IISE Transactions on Healthcare Systems Engineering&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>COVID-19 Intervention Planning</title>
-      <link>https://academic-demo.netlify.app/project/sars-cov-2-pandemic/covid-19-intervention-planning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/sars-cov-2-pandemic/covid-19-intervention-planning/</guid>
-      <description>&lt;p&gt;During the COVID-19 pandemic, every government faced the same impossible optimization problem: how to reduce viral transmission without destroying the economy. Closures, gathering restrictions, transportation limits, and healthcare mandates all reduce case counts â€” but each comes with economic costs, and the most stringent measures are often the most expensive. Simply applying maximum restrictions everywhere is unrealistic. Decision-makers need to know the optimal stringency level for each policy type, given their specific budget and resource constraints.&lt;/p&gt;
+&lt;p&gt;The manuscript describing this methodology and its findings is currently in review at &lt;em&gt;IISE Transactions on Healthcare Systems Engineering&lt;/em&gt;.&lt;/p&gt;</description></item><item><title>COVID-19 Intervention Planning</title><link>https://academic-demo.netlify.app/project/sars-cov-2-pandemic/covid-19-intervention-planning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/sars-cov-2-pandemic/covid-19-intervention-planning/</guid><description>&lt;p&gt;During the COVID-19 pandemic, every government faced the same impossible optimization problem: how to reduce viral transmission without destroying the economy. Closures, gathering restrictions, transportation limits, and healthcare mandates all reduce case counts â€” but each comes with economic costs, and the most stringent measures are often the most expensive. Simply applying maximum restrictions everywhere is unrealistic. Decision-makers need to know the optimal stringency level for each policy type, given their specific budget and resource constraints.&lt;/p&gt;
 &lt;p&gt;This is a multi-objective optimization problem, and we treated it as one. We developed a computational framework that combines Gated Recurrent Units (GRU) for case forecasting with an evolutionary-based meta-heuristic method for intervention prescription. The GRU model predicts the number of new cases given a set of intervention policies at specified stringency levels, and the evolutionary algorithm searches the policy space for configurations that are Pareto-optimal â€” meaning that no policy mix can reduce cases without increasing cost, or reduce cost without increasing cases. The result is not a single recommendation but a set of trade-off solutions, allowing decision-makers to choose the balance that fits their context.&lt;/p&gt;
 &lt;p&gt;This framework was published in &lt;em&gt;Neural Computing and Applications&lt;/em&gt; (2022) and demonstrated the ability to identify policy configurations that outperform single-objective approaches. Our team was also selected as a finalist in the XPRIZE Pandemic Response Challenge, a global competition for pandemic intervention strategies.&lt;/p&gt;
-&lt;p&gt;Additional studies in this line analyzed the impact of various intervention policies across European countries, incorporating weather data and policy stringency levels. A related project, mentored with an undergraduate student, resulted in a conference paper at the IISE Annual Conference and earned the third-best undergraduate poster award at the IMSE Research Symposium.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Diet and Brain Health</title>
-      <link>https://academic-demo.netlify.app/project/diet-brain-health/diet-and-brain-health/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/diet-brain-health/diet-and-brain-health/</guid>
-      <description>&lt;p&gt;What we eat shapes not only our metabolic health but, increasingly, appears to influence brain structure and function across the lifespan. Dietary patterns and specific nutritional exposures are among the most readily modifiable risk factors for cognitive decline, yet the neural mechanisms through which diet affects the brain remain incompletely understood. A further complication is that genetic risk for Alzheimer&amp;rsquo;s disease may modify these relationships: the same dietary pattern might be neuroprotective in one genetic background and neutral in another. Disentangling these interactions requires large-scale datasets that combine dietary data, neuroimaging, genetic information, and longitudinal cognitive outcomes.&lt;/p&gt;
+&lt;p&gt;Additional studies in this line analyzed the impact of various intervention policies across European countries, incorporating weather data and policy stringency levels. A related project, mentored with an undergraduate student, resulted in a conference paper at the IISE Annual Conference and earned the third-best undergraduate poster award at the IMSE Research Symposium.&lt;/p&gt;</description></item><item><title>Diet and Brain Health</title><link>https://academic-demo.netlify.app/project/diet-brain-health/diet-and-brain-health/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/diet-brain-health/diet-and-brain-health/</guid><description>&lt;p&gt;What we eat shapes not only our metabolic health but, increasingly, appears to influence brain structure and function across the lifespan. Dietary patterns and specific nutritional exposures are among the most readily modifiable risk factors for cognitive decline, yet the neural mechanisms through which diet affects the brain remain incompletely understood. A further complication is that genetic risk for Alzheimer&amp;rsquo;s disease may modify these relationships: the same dietary pattern might be neuroprotective in one genetic background and neutral in another. Disentangling these interactions requires large-scale datasets that combine dietary data, neuroimaging, genetic information, and longitudinal cognitive outcomes.&lt;/p&gt;
 &lt;p&gt;Using UK Biobank data, this research program investigates the relationships between dietary factors and brain health through multiple complementary studies. Two published studies focused on the associations between specific dietary exposures and neural connectivity. The first examined coffee and tea consumption and found that their associations with neural network connectivity patterns were modulated by genetic risk factors for Alzheimer&amp;rsquo;s disease â€” suggesting that the neuroprotective or neutral effects of these common beverages depend in part on an individual&amp;rsquo;s genetic background (&lt;em&gt;Nutrients&lt;/em&gt;, 2024). The second study took a broader view, examining how overall dietary patterns associate with resting-state functional connectivity and demonstrating that AD genetic influences significantly impact these dietâ€“brain relationships (&lt;em&gt;Nutrients&lt;/em&gt;, 2023).&lt;/p&gt;
-&lt;p&gt;An ongoing study extends this work from functional connectivity to structural outcomes, exploring the relationship between nutrition and brain volumetrics, cortical thickness, and gray-white matter contrast. A methodological innovation in this study is the use of large language model (LLM)-based embeddings to learn a representative space that captures dietary pattern structure from high-dimensional nutritional data. Traditional approaches to dietary pattern analysis (principal components, clustering on nutrient intakes) impose strong assumptions about how foods relate to one another. LLM-based embeddings offer a more flexible alternative, learning dietary representations directly from the data in a way that can capture complex, nonlinear relationships between foods and eating behaviors. This approach has the potential to reveal dietary patterns that conventional methods miss, and to link them more precisely to neuroimaging outcomes.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Digital Twins for Personalized Cognitive Intervention</title>
-      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/digital-twins-for-personalized-cognitive-intervention/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/digital-twins-for-personalized-cognitive-intervention/</guid>
-      <description>&lt;p&gt;Identifying individuals at risk of cognitive decline is only half the problem. The other half â€” and arguably the harder half â€” is determining what to do about it. Cognitive training programs exist, but they are overwhelmingly designed as one-size-fits-all protocols: every participant receives the same type of training, at the same intensity and frequency, regardless of their individual cognitive profile, risk factors, or response trajectory. This is analogous to prescribing the same medication at the same dose to every patient, and it is almost certainly suboptimal.&lt;/p&gt;
+&lt;p&gt;An ongoing study extends this work from functional connectivity to structural outcomes, exploring the relationship between nutrition and brain volumetrics, cortical thickness, and gray-white matter contrast. A methodological innovation in this study is the use of large language model (LLM)-based embeddings to learn a representative space that captures dietary pattern structure from high-dimensional nutritional data. Traditional approaches to dietary pattern analysis (principal components, clustering on nutrient intakes) impose strong assumptions about how foods relate to one another. LLM-based embeddings offer a more flexible alternative, learning dietary representations directly from the data in a way that can capture complex, nonlinear relationships between foods and eating behaviors. This approach has the potential to reveal dietary patterns that conventional methods miss, and to link them more precisely to neuroimaging outcomes.&lt;/p&gt;</description></item><item><title>Digital Twins for Personalized Cognitive Intervention</title><link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/digital-twins-for-personalized-cognitive-intervention/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/digital-twins-for-personalized-cognitive-intervention/</guid><description>&lt;p&gt;Identifying individuals at risk of cognitive decline is only half the problem. The other half â€” and arguably the harder half â€” is determining what to do about it. Cognitive training programs exist, but they are overwhelmingly designed as one-size-fits-all protocols: every participant receives the same type of training, at the same intensity and frequency, regardless of their individual cognitive profile, risk factors, or response trajectory. This is analogous to prescribing the same medication at the same dose to every patient, and it is almost certainly suboptimal.&lt;/p&gt;
 &lt;p&gt;This project aims to change that by developing a mathematical &amp;ldquo;digital twin&amp;rdquo; framework for personalized cognitive intervention. The concept is borrowed from engineering, where digital twins â€” computational replicas of physical systems â€” are used to simulate and optimize performance before making changes to the real system. Applied to cognitive health, a digital twin of a patient&amp;rsquo;s cognitive trajectory would allow researchers and clinicians to simulate the expected impact of different intervention strategies in silico: What happens if we increase training frequency? Switch modalities? Adjust intensity as the patient responds? The answers to these questions, explored computationally rather than through trial-and-error on real patients, could dramatically improve intervention design.&lt;/p&gt;
 &lt;p&gt;The framework couples a dynamical systems model of cognitive trajectory with reinforcement-learning-based optimization of intervention parameters â€” including training intensity, frequency, and modality. The reinforcement learning agent learns to select intervention configurations that maximize projected cognitive outcomes for a given individual, adapting as new data on the patient&amp;rsquo;s response becomes available. The project also includes developing novel approaches for estimating cognitive function that integrate behavioral and neuropsychological measures, providing the outcome signal that the optimization system requires.&lt;/p&gt;
 &lt;p&gt;This work is funded by the CEAT Engineering Research and Seed Funding Program ($25,000; Co-PI) and represents the first stage of what I envision as a multi-phase program. The current stage produces the mathematical framework and proof-of-concept results needed for a larger NIH/NIA proposal, which would integrate real-world sensor data and robot-assisted training platforms to close the loop between simulation and physical intervention.&lt;/p&gt;
-&lt;p&gt;The manuscript is in preparation for &lt;em&gt;PLOS Computational Biology&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Elanor Mehen</title>
-      <link>https://academic-demo.netlify.app/team/elanor-mehen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/elanor-mehen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ensemble Learning with Dynamic Weight Adjustment</title>
-      <link>https://academic-demo.netlify.app/project/methodology/ensemble-learning-with-dynamic-weight-adjustment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/methodology/ensemble-learning-with-dynamic-weight-adjustment/</guid>
-      <description>&lt;p&gt;Ensemble methods â€” combining the predictions of multiple models â€” are among the most reliable techniques in machine learning. But standard approaches to ensemble aggregation assume that the relative performance of individual models is constant across the entire input space. This assumption is almost always false: a model that excels in one region of the feature space may perform poorly in another. A linear regression model might outperform a neural network for certain patient profiles while the reverse is true for others. If we knew where each model was strong, we could weight their contributions accordingly â€” giving more influence to the models that are locally most accurate.&lt;/p&gt;
+&lt;p&gt;The manuscript is in preparation for &lt;em&gt;PLOS Computational Biology&lt;/em&gt;.&lt;/p&gt;</description></item><item><title>Elanor Mehen</title><link>https://academic-demo.netlify.app/team/elanor-mehen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/elanor-mehen/</guid><description/></item><item><title>Ensemble Learning with Dynamic Weight Adjustment</title><link>https://academic-demo.netlify.app/project/methodology/ensemble-learning-with-dynamic-weight-adjustment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/methodology/ensemble-learning-with-dynamic-weight-adjustment/</guid><description>&lt;p&gt;Ensemble methods â€” combining the predictions of multiple models â€” are among the most reliable techniques in machine learning. But standard approaches to ensemble aggregation assume that the relative performance of individual models is constant across the entire input space. This assumption is almost always false: a model that excels in one region of the feature space may perform poorly in another. A linear regression model might outperform a neural network for certain patient profiles while the reverse is true for others. If we knew where each model was strong, we could weight their contributions accordingly â€” giving more influence to the models that are locally most accurate.&lt;/p&gt;
 &lt;p&gt;This project develops exactly that capability. I designed a dynamic weighting procedure for ensemble models that links aggregation weights to each observation&amp;rsquo;s location within the feature space. Rather than assigning fixed global weights, the algorithm optimizes a linking function that adjusts the weights based on feature-space position. The premise is simple but powerful: by recognizing that models have local strengths, we can construct ensembles that outperform any individual member and any fixed-weight combination.&lt;/p&gt;
-&lt;p&gt;The algorithm has been implemented, benchmarked against leading methods, and is under review at &lt;em&gt;Pattern Recognition&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Farzana Sultana</title>
-      <link>https://academic-demo.netlify.app/team/farzana-sultana/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/farzana-sultana/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HIV-1 Mutational Patterns</title>
-      <link>https://academic-demo.netlify.app/project/hiv-1-dynamics/hiv-1-mutational-patterns/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/hiv-1-dynamics/hiv-1-mutational-patterns/</guid>
-      <description>&lt;p&gt;HIV-1 is one of the most rapidly evolving pathogens known, and its survival strategy is built on mutation. Changes in the envelope glycoproteins (Envs) â€” the proteins that stud the viral surface and mediate entry into host cells â€” drive immune evasion and resistance to therapeutics. The CD4-binding site and the high-mannose patch on the Env are among the most critical targets for broadly neutralizing antibodies and other treatments. When mutations accumulate at these sites, therapeutics lose efficacy. The question is whether these mutational patterns can be predicted â€” and if so, whether therapeutic design can get ahead of the virus rather than perpetually chasing it.&lt;/p&gt;
+&lt;p&gt;The algorithm has been implemented, benchmarked against leading methods, and is under review at &lt;em&gt;Pattern Recognition&lt;/em&gt;.&lt;/p&gt;</description></item><item><title>Farzana Sultana</title><link>https://academic-demo.netlify.app/team/farzana-sultana/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/farzana-sultana/</guid><description/></item><item><title>HIV-1 Mutational Patterns</title><link>https://academic-demo.netlify.app/project/hiv-1-dynamics/hiv-1-mutational-patterns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/hiv-1-dynamics/hiv-1-mutational-patterns/</guid><description>&lt;p&gt;HIV-1 is one of the most rapidly evolving pathogens known, and its survival strategy is built on mutation. Changes in the envelope glycoproteins (Envs) â€” the proteins that stud the viral surface and mediate entry into host cells â€” drive immune evasion and resistance to therapeutics. The CD4-binding site and the high-mannose patch on the Env are among the most critical targets for broadly neutralizing antibodies and other treatments. When mutations accumulate at these sites, therapeutics lose efficacy. The question is whether these mutational patterns can be predicted â€” and if so, whether therapeutic design can get ahead of the virus rather than perpetually chasing it.&lt;/p&gt;
 &lt;p&gt;This research program, conducted in collaboration with Dr. Hillel Haim at the University of Iowa and with ViiV Healthcare, has pursued that predictive goal across several studies. The foundational hypothesis was that variance at a given Env position could be predicted from the variance at adjacent positions â€” that mutational change has spatial structure rather than being random. To test this, I developed a novel classification model using dynamic ensemble selection techniques, which we applied to the CD4-binding site and high-mannose patch. The model demonstrated superior performance in predicting variance patterns compared to existing approaches, confirming that spatial mutational structure exists and can be exploited computationally. This work was published in &lt;em&gt;Algorithms for Molecular Biology&lt;/em&gt; (2023).&lt;/p&gt;
 &lt;p&gt;Building on this foundation, we developed a broader framework for comprehensive profiling of the escape paths by which HIV-1 evolves resistance to specific therapeutics. Focusing on the antiretroviral Temsavir, I designed a statistical procedure to rank rare but potentially high-impact positions on the molecule and developed an AI-based predictive framework to estimate the Half-maximal Inhibitory Concentration (IC50) â€” a key measure of drug efficacy. The study identified the set of positions contributing toward Temsavir resistance in treated patients, providing a roadmap of the virus&amp;rsquo;s most likely evolutionary escape routes. This manuscript is under review at &lt;em&gt;Cell Reports&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;The earliest study in this line used a stacking-based classification approach to predict HIV-1 Env volatility, presented at the INFORMS International Conference on Service Science (2020).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Impact of Physical Load on Cognitive Performance</title>
-      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/impact-of-physical-load-on-cognitive-performance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/impact-of-physical-load-on-cognitive-performance/</guid>
-      <description>&lt;p&gt;Physical activity is widely recognized as one of the most robust modifiable protective factors against cognitive decline. But the relationship between physical load and cognition is more nuanced than &amp;ldquo;more exercise is better.&amp;rdquo; Occupational physical demands differ from recreational exercise in intensity, duration, voluntariness, and physiological stress profile. Whether different types and magnitudes of physical load â€” particularly sustained occupational load â€” interact with neurodegeneration markers in the same way as structured exercise remains an open question.&lt;/p&gt;
+&lt;p&gt;The earliest study in this line used a stacking-based classification approach to predict HIV-1 Env volatility, presented at the INFORMS International Conference on Service Science (2020).&lt;/p&gt;</description></item><item><title>Impact of Physical Load on Cognitive Performance</title><link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/impact-of-physical-load-on-cognitive-performance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/impact-of-physical-load-on-cognitive-performance/</guid><description>&lt;p&gt;Physical activity is widely recognized as one of the most robust modifiable protective factors against cognitive decline. But the relationship between physical load and cognition is more nuanced than &amp;ldquo;more exercise is better.&amp;rdquo; Occupational physical demands differ from recreational exercise in intensity, duration, voluntariness, and physiological stress profile. Whether different types and magnitudes of physical load â€” particularly sustained occupational load â€” interact with neurodegeneration markers in the same way as structured exercise remains an open question.&lt;/p&gt;
 &lt;p&gt;This project examines how physical load â€” broadly defined to include both occupational and recreational demands â€” relates to cognitive performance and its neural substrates over time.&lt;/p&gt;
-&lt;p&gt;[Additional details on study design, data source, and specific hypotheses to be added.]&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Isaac Grindinger</title>
-      <link>https://academic-demo.netlify.app/team/isaac-grindinger/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/isaac-grindinger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>John Trettin</title>
-      <link>https://academic-demo.netlify.app/team/john-trettin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/john-trettin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jonas Swope</title>
-      <link>https://academic-demo.netlify.app/team/jonas-swope/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/jonas-swope/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Juvenile Idiopathic Arthritis</title>
-      <link>https://academic-demo.netlify.app/project/rheumatoid-arthritis/juvenile-idiopathic-arthritis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/rheumatoid-arthritis/juvenile-idiopathic-arthritis/</guid>
-      <description>&lt;p&gt;Juvenile idiopathic arthritis (JIA) is the most common chronic rheumatic disease in children, affecting roughly 1 in 1,000 children worldwide. Beyond the joint inflammation that defines the disease, JIA patients face an elevated risk of developing a range of comorbid conditions â€” from uveitis to growth disturbances to cardiovascular complications. However, the temporal patterns of comorbidity development are not well characterized in large populations. Do certain comorbidities emerge predominantly before diagnosis (suggesting shared etiology or early systemic effects), or do they accumulate primarily after diagnosis (suggesting consequences of the disease or its treatment)? Do patterns differ between systemic and non-systemic subtypes?&lt;/p&gt;
-&lt;p&gt;This project used electronic health record data to analyze comorbidity patterns before and after diagnosis in children with non-systemic RF-negative JIA â€” the most common subtype. By examining the timing and frequency of comorbid conditions relative to the date of JIA diagnosis, we can identify which conditions warrant heightened clinical surveillance at different stages of the disease course. The findings were presented at the IISE Annual Conference.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kazi Arman Ahmad</title>
-      <link>https://academic-demo.netlify.app/team/kazi-arman-ahmad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/kazi-arman-ahmad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Landri Moydell</title>
-      <link>https://academic-demo.netlify.app/team/landri-moydell/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/landri-moydell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lithium Level and AD/MCI Onset</title>
-      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/lithium-level-and-ad-mci-onset/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/lithium-level-and-ad-mci-onset/</guid>
-      <description>&lt;p&gt;Lithium has been used for decades as a mood stabilizer in bipolar disorder, but a growing body of epidemiological evidence suggests it may also confer neuroprotection â€” with some studies linking lithium exposure to reduced risk of dementia. The therapeutic implications are significant: lithium is inexpensive, widely available, and well-characterized pharmacologically. If a neuroprotective dose range could be established, it could be repurposed for cognitive protection in at-risk populations.&lt;/p&gt;
+&lt;p&gt;[Additional details on study design, data source, and specific hypotheses to be added.]&lt;/p&gt;</description></item><item><title>Isaac Grindinger</title><link>https://academic-demo.netlify.app/team/isaac-grindinger/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/isaac-grindinger/</guid><description/></item><item><title>John Trettin</title><link>https://academic-demo.netlify.app/team/john-trettin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/john-trettin/</guid><description/></item><item><title>Jonas Swope</title><link>https://academic-demo.netlify.app/team/jonas-swope/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/jonas-swope/</guid><description/></item><item><title>Juvenile Idiopathic Arthritis</title><link>https://academic-demo.netlify.app/project/rheumatoid-arthritis/juvenile-idiopathic-arthritis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/rheumatoid-arthritis/juvenile-idiopathic-arthritis/</guid><description>&lt;p&gt;Juvenile idiopathic arthritis (JIA) is the most common chronic rheumatic disease in children, affecting roughly 1 in 1,000 children worldwide. Beyond the joint inflammation that defines the disease, JIA patients face an elevated risk of developing a range of comorbid conditions â€” from uveitis to growth disturbances to cardiovascular complications. However, the temporal patterns of comorbidity development are not well characterized in large populations. Do certain comorbidities emerge predominantly before diagnosis (suggesting shared etiology or early systemic effects), or do they accumulate primarily after diagnosis (suggesting consequences of the disease or its treatment)? Do patterns differ between systemic and non-systemic subtypes?&lt;/p&gt;
+&lt;p&gt;This project used electronic health record data to analyze comorbidity patterns before and after diagnosis in children with non-systemic RF-negative JIA â€” the most common subtype. By examining the timing and frequency of comorbid conditions relative to the date of JIA diagnosis, we can identify which conditions warrant heightened clinical surveillance at different stages of the disease course. The findings were presented at the IISE Annual Conference.&lt;/p&gt;</description></item><item><title>Kazi Arman Ahmad</title><link>https://academic-demo.netlify.app/team/kazi-arman-ahmad/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/kazi-arman-ahmad/</guid><description/></item><item><title>Landri Moydell</title><link>https://academic-demo.netlify.app/team/landri-moydell/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/landri-moydell/</guid><description/></item><item><title>Lithium Level and AD/MCI Onset</title><link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/lithium-level-and-ad-mci-onset/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/lithium-level-and-ad-mci-onset/</guid><description>&lt;p&gt;Lithium has been used for decades as a mood stabilizer in bipolar disorder, but a growing body of epidemiological evidence suggests it may also confer neuroprotection â€” with some studies linking lithium exposure to reduced risk of dementia. The therapeutic implications are significant: lithium is inexpensive, widely available, and well-characterized pharmacologically. If a neuroprotective dose range could be established, it could be repurposed for cognitive protection in at-risk populations.&lt;/p&gt;
 &lt;p&gt;However, the existing evidence is far from conclusive. Most studies use binary exposure classifications (lithium yes/no), ignore doseâ€“response dynamics, and fail to account for a critical confounder: reverse causation. Patients in the prodromal phase of cognitive decline may have their medications adjusted â€” including lithium dose changes â€” creating spurious associations between lithium levels and subsequent dementia diagnosis. Without accounting for this, any observed lithiumâ€“dementia relationship may be an artifact of clinical practice rather than a biological effect.&lt;/p&gt;
 &lt;p&gt;This study, conducted at Harvard Medical School and Brigham and Women&amp;rsquo;s Hospital, was designed to address these limitations head-on. Using the Mass General Brigham (MGB) Biobank&amp;rsquo;s longitudinal electronic health records, we built a complete analytical pipeline â€” from cohort construction (~15,000â€“20,000 patients) through data linkage, preprocessing, and survival modeling â€” with rigorous attention to the methodological pitfalls that have plagued earlier work. We modeled lithium as a time-varying continuous exposure rather than a binary variable, applied landmark analysis to mitigate reverse causation bias, and included appropriate confounders (age, sex, bipolar disorder status) from the start of the modeling process rather than deferring them to later stages. The pipeline also addressed multiple data quality challenges including EMPI missingness, post-diagnosis flag leakage, same-day test filtering, and appropriate gender column selection.&lt;/p&gt;
-&lt;p&gt;Preliminary findings reveal a U-shaped lithiumâ€“hazard relationship â€” suggesting that both very low and very high lithium levels may be associated with elevated risk, with an intermediate range conferring the greatest protection. The detailed results and their clinical implications are being prepared for publication.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Longevity and Centenarian Survivorship</title>
-      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/longevity-and-centenarian-survivorship/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/longevity-and-centenarian-survivorship/</guid>
-      <description>&lt;p&gt;Centenarians are statistical outliers â€” individuals who have survived to the extreme tail of the human lifespan. While genetics undoubtedly plays a role, it cannot explain the full picture: the heritability of longevity is estimated at roughly 25%, leaving substantial room for environmental, behavioral, and psychosocial contributions. Understanding what distinguishes centenarians from the general population â€” particularly factors that are potentially modifiable â€” can inform strategies for promoting healthy longevity at the population level.&lt;/p&gt;
+&lt;p&gt;Preliminary findings reveal a U-shaped lithiumâ€“hazard relationship â€” suggesting that both very low and very high lithium levels may be associated with elevated risk, with an intermediate range conferring the greatest protection. The detailed results and their clinical implications are being prepared for publication.&lt;/p&gt;</description></item><item><title>Longevity and Centenarian Survivorship</title><link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/longevity-and-centenarian-survivorship/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/longevity-and-centenarian-survivorship/</guid><description>&lt;p&gt;Centenarians are statistical outliers â€” individuals who have survived to the extreme tail of the human lifespan. While genetics undoubtedly plays a role, it cannot explain the full picture: the heritability of longevity is estimated at roughly 25%, leaving substantial room for environmental, behavioral, and psychosocial contributions. Understanding what distinguishes centenarians from the general population â€” particularly factors that are potentially modifiable â€” can inform strategies for promoting healthy longevity at the population level.&lt;/p&gt;
 &lt;p&gt;This project, conducted in collaboration with Dr. Alex Bishop from the Human Development and Family Science department at Oklahoma State University, focused on Oklahoma centenarians as a study population. The goal was to investigate the demographic and psychosocial identifiers of extreme longevity â€” factors such as social engagement, personality traits, coping strategies, and life satisfaction â€” that may contribute to survivorship beyond 100 years.&lt;/p&gt;
-&lt;p&gt;The study identified demographic and psychosocial indicators associated with centenarian survivorship, with findings presented at the IEEE Conference on Service Operations and Logistics and Informatics (SOLI) / INFORMS Conference on Service Science (ICSS), where it received the Best Paper Award, First Place. The results contribute to a growing literature suggesting that psychosocial resilience â€” not merely the absence of disease â€” is a meaningful predictor of extreme longevity.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Luke Dyer</title>
-      <link>https://academic-demo.netlify.app/team/luke-dyer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/luke-dyer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Metabolomic Signatures of AD in Type-2 Diabetes</title>
-      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/metabolomic-signatures-of-ad-in-type-2-diabetes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/metabolomic-signatures-of-ad-in-type-2-diabetes/</guid>
-      <description>&lt;p&gt;Type-2 diabetes approximately doubles the risk of Alzheimer&amp;rsquo;s disease. This association is well established epidemiologically, but the specific metabolic pathways that mediate the link â€” the molecular &amp;ldquo;why&amp;rdquo; â€” remain poorly characterized. Insulin resistance, chronic inflammation, lipid dysregulation, and altered amino acid metabolism have all been proposed as candidate mechanisms, but disentangling their individual contributions in observational data is challenging, particularly when the patients in question are taking medications (metformin, statins) that directly alter the very metabolites under investigation.&lt;/p&gt;
+&lt;p&gt;The study identified demographic and psychosocial indicators associated with centenarian survivorship, with findings presented at the IEEE Conference on Service Operations and Logistics and Informatics (SOLI) / INFORMS Conference on Service Science (ICSS), where it received the Best Paper Award, First Place. The results contribute to a growing literature suggesting that psychosocial resilience â€” not merely the absence of disease â€” is a meaningful predictor of extreme longevity.&lt;/p&gt;</description></item><item><title>Luke Dyer</title><link>https://academic-demo.netlify.app/team/luke-dyer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/luke-dyer/</guid><description/></item><item><title>Metabolomic Signatures of AD in Type-2 Diabetes</title><link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/metabolomic-signatures-of-ad-in-type-2-diabetes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/metabolomic-signatures-of-ad-in-type-2-diabetes/</guid><description>&lt;p&gt;Type-2 diabetes approximately doubles the risk of Alzheimer&amp;rsquo;s disease. This association is well established epidemiologically, but the specific metabolic pathways that mediate the link â€” the molecular &amp;ldquo;why&amp;rdquo; â€” remain poorly characterized. Insulin resistance, chronic inflammation, lipid dysregulation, and altered amino acid metabolism have all been proposed as candidate mechanisms, but disentangling their individual contributions in observational data is challenging, particularly when the patients in question are taking medications (metformin, statins) that directly alter the very metabolites under investigation.&lt;/p&gt;
 &lt;p&gt;This study, conducted at Harvard Medical School and Brigham and Women&amp;rsquo;s Hospital, takes advantage of the MGB Biobank&amp;rsquo;s Nightingale Health NMR metabolomics platform â€” which quantifies approximately 249 biomarkers from a single blood sample â€” to identify the metabolomic signatures that differentiate T2D patients who go on to develop AD from those who do not. The study employs a 2Ã—3 factorial observational design that separates the contributions of diabetes status and cognitive outcome, with careful covariate adjustment for age, sex, BMI, and critically, for metformin and statin use. This pharmacological adjustment is essential: without it, any observed metabolomic differences could reflect medication effects rather than disease biology.&lt;/p&gt;
 &lt;p&gt;The analytical pipeline uses a multi-stage approach. Differential analysis (limma) identifies individual metabolites that differ between groups. Multivariate discrimination (PLS-DA) assesses whether the overall metabolomic profile can separate the groups, and pathway analysis maps significant metabolites onto known biological pathways to generate mechanistic hypotheses.&lt;/p&gt;
 &lt;p&gt;The ultimate goal is twofold: to generate mechanistic insight into the T2Dâ€“AD biological axis, and to identify metabolomic features that could serve as biomarkers for risk stratification â€” measurable from a routine blood draw and actionable in a clinical setting. If specific metabolomic signatures reliably flag T2D patients at elevated AD risk, this would enable targeted monitoring and preventive intervention in a large, identifiable population.&lt;/p&gt;
-&lt;p&gt;This study is in progress.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mohsen Behradfar</title>
-      <link>https://academic-demo.netlify.app/team/mohsen-behradfar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/mohsen-behradfar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Fractional Brownian Motion and SGD</title>
-      <link>https://academic-demo.netlify.app/project/optimization/multi-fractional-brownian-motion-and-sgd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/optimization/multi-fractional-brownian-motion-and-sgd/</guid>
-      <description>&lt;p&gt;Understanding why deep learning optimization works â€” not just that it works â€” is one of the fundamental open questions in machine learning theory. A promising theoretical approach models Stochastic Gradient Descent not as a deterministic algorithm with random perturbations, but as the discretization of a continuous stochastic process. Previous work proposed that SGD can be viewed as a stochastic differential equation driven by fractional Brownian motion (FBM), a process characterized by a single Hurst parameter that governs its memory structure â€” how strongly past behavior influences the future.&lt;/p&gt;
+&lt;p&gt;This study is in progress.&lt;/p&gt;</description></item><item><title>Mohsen Behradfar</title><link>https://academic-demo.netlify.app/team/mohsen-behradfar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/mohsen-behradfar/</guid><description/></item><item><title>Multi-Fractional Brownian Motion and SGD</title><link>https://academic-demo.netlify.app/project/optimization/multi-fractional-brownian-motion-and-sgd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/optimization/multi-fractional-brownian-motion-and-sgd/</guid><description>&lt;p&gt;Understanding why deep learning optimization works â€” not just that it works â€” is one of the fundamental open questions in machine learning theory. A promising theoretical approach models Stochastic Gradient Descent not as a deterministic algorithm with random perturbations, but as the discretization of a continuous stochastic process. Previous work proposed that SGD can be viewed as a stochastic differential equation driven by fractional Brownian motion (FBM), a process characterized by a single Hurst parameter that governs its memory structure â€” how strongly past behavior influences the future.&lt;/p&gt;
 &lt;p&gt;Our investigation revealed that this model is incomplete. When we fit FBM to SGD trajectories, the Hurst parameter is not constant â€” it changes over the course of training. Early in optimization, the dynamics exhibit one type of memory structure; later, as the algorithm approaches a solution, the structure shifts. This means that FBM, which assumes a fixed Hurst parameter, is an inadequate model for the full training process.&lt;/p&gt;
 &lt;p&gt;The natural generalization is multi-fractional Brownian motion (mFBM), in which the Hurst parameter is itself a function of time. Our finding â€” that the Hurst parameter is time-dependent in SGD â€” suggests that mFBM may serve as a more suitable theoretical framework for understanding the dynamics of deep learning optimization. This has implications for algorithm design: if we understand how the memory structure of optimization evolves during training, we can potentially design algorithms that adapt their exploration strategy to match.&lt;/p&gt;
-&lt;p&gt;We plan to prepare a proposal to investigate this line of research in depth.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Multi-Modal Delivery Planning</title>
-      <link>https://academic-demo.netlify.app/project/optimization/multi-modal-delivery-planning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/optimization/multi-modal-delivery-planning/</guid>
-      <description>&lt;p&gt;Last-mile delivery â€” the final leg of a package&amp;rsquo;s journey from warehouse to doorstep â€” accounts for a disproportionate share of logistics costs and environmental impact. Emerging technologies are reshaping this landscape: autonomous delivery robots can handle short-range deliveries at low cost, crowdsourced delivery networks offer flexible capacity, and traditional trucks provide reliable backbone coverage. The optimization challenge is to combine these heterogeneous resources â€” each with different range, capacity, speed, cost, and energy constraints â€” into an integrated system that minimizes cost while meeting service requirements.&lt;/p&gt;
+&lt;p&gt;We plan to prepare a proposal to investigate this line of research in depth.&lt;/p&gt;</description></item><item><title>Multi-Modal Delivery Planning</title><link>https://academic-demo.netlify.app/project/optimization/multi-modal-delivery-planning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/optimization/multi-modal-delivery-planning/</guid><description>&lt;p&gt;Last-mile delivery â€” the final leg of a package&amp;rsquo;s journey from warehouse to doorstep â€” accounts for a disproportionate share of logistics costs and environmental impact. Emerging technologies are reshaping this landscape: autonomous delivery robots can handle short-range deliveries at low cost, crowdsourced delivery networks offer flexible capacity, and traditional trucks provide reliable backbone coverage. The optimization challenge is to combine these heterogeneous resources â€” each with different range, capacity, speed, cost, and energy constraints â€” into an integrated system that minimizes cost while meeting service requirements.&lt;/p&gt;
 &lt;p&gt;This project develops mixed-integer linear programming (MILP) models for multi-modal delivery planning using combinations of trucks, robots, and crowdsourced delivery. A particular focus is the practical constraints that make these problems hard: battery limitations for robots (including the logistics of battery swapping), transshipment points where packages transfer between vehicle types, and the multi-objective nature of the problem (minimizing cost, time, and environmental impact simultaneously).&lt;/p&gt;
-&lt;p&gt;We developed a mathematical model for an efficient two-tiered truck-robot delivery system, presented at the IEEE Conference on Service Operations and Logistics and Informatics (SOLI, 2024). A follow-up study compared different MILP formulations for handling transshipments and battery swapping, presented at the IISE Annual Conference (2025). While the primary application domain is commercial logistics, the modeling framework has potential applications in healthcare delivery â€” medication distribution, sample transport, and equipment logistics â€” where similar multi-modal coordination challenges arise.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Obesity, Insulin Resistance, and Neural Processing</title>
-      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/obesity-insulin-resistance-and-neural-processing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/obesity-insulin-resistance-and-neural-processing/</guid>
-      <description>&lt;p&gt;The relationship between metabolic health and brain function is typically studied in older adults, often after cognitive decline has already begun. But what if metabolic dysfunction â€” obesity, insulin resistance â€” is already altering how the brain processes information in young, otherwise healthy adults? If so, the neural consequences of metabolic risk may begin decades before dementia onset, and metabolic interventions in young adulthood could have neuroprotective benefits that compound over a lifetime.&lt;/p&gt;
+&lt;p&gt;We developed a mathematical model for an efficient two-tiered truck-robot delivery system, presented at the IEEE Conference on Service Operations and Logistics and Informatics (SOLI, 2024). A follow-up study compared different MILP formulations for handling transshipments and battery swapping, presented at the IISE Annual Conference (2025). While the primary application domain is commercial logistics, the modeling framework has potential applications in healthcare delivery â€” medication distribution, sample transport, and equipment logistics â€” where similar multi-modal coordination challenges arise.&lt;/p&gt;</description></item><item><title>Obesity, Insulin Resistance, and Neural Processing</title><link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/obesity-insulin-resistance-and-neural-processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/obesity-insulin-resistance-and-neural-processing/</guid><description>&lt;p&gt;The relationship between metabolic health and brain function is typically studied in older adults, often after cognitive decline has already begun. But what if metabolic dysfunction â€” obesity, insulin resistance â€” is already altering how the brain processes information in young, otherwise healthy adults? If so, the neural consequences of metabolic risk may begin decades before dementia onset, and metabolic interventions in young adulthood could have neuroprotective benefits that compound over a lifetime.&lt;/p&gt;
 &lt;p&gt;This project investigated exactly that question, using neuroelectrophysiology and neuroimaging to examine how metabolic factors modulate neural processing and memory function in young adults. Two studies explored complementary aspects of this relationship.&lt;/p&gt;
 &lt;p&gt;The first study examined how obesity and insulin resistance affect the neural processing of emotional visual stimuli. The key finding was that metabolic dysfunction altered neural responses to unpleasant stimuli â€” but not pleasant ones â€” suggesting a valence-specific effect. This means that metabolic risk does not globally impair neural processing; rather, it selectively disrupts how the brain handles negatively valenced information, which has implications for emotional regulation and decision-making. This work was published in &lt;em&gt;Brain Sciences&lt;/em&gt; (2026).&lt;/p&gt;
 &lt;p&gt;The second study asked whether adiposity and insulin resistance moderate the link between neuroelectrophysiology and working and episodic memory. The answer was yes â€” but only in males. In young adult males, metabolic risk factors significantly moderated the associations between neural electrical activity and memory performance, while no such moderation was observed in females. This sex-specific vulnerability suggests that the neural consequences of metabolic dysfunction may follow different pathways in men and women, with implications for personalized risk assessment. This study appeared in &lt;em&gt;Physiology &amp;amp; Behavior&lt;/em&gt; (2023).&lt;/p&gt;
-&lt;p&gt;Together, these findings establish that the neural impact of metabolic dysfunction is not a late-life phenomenon â€” it is already measurable in young adults, it is selective in its effects, and it differs by sex. This reframes the timeline for prevention and opens new questions about whether early metabolic intervention could preserve neural function decades before dementia risk becomes clinically apparent.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Omid Rostami</title>
-      <link>https://academic-demo.netlify.app/team/omid-rostami/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/omid-rostami/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parvin Mohammadiarvejeh</title>
-      <link>https://academic-demo.netlify.app/team/parvin-mohammadiarvejeh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/parvin-mohammadiarvejeh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting Rheumatoid Arthritis Onset from EHR Data</title>
-      <link>https://academic-demo.netlify.app/project/rheumatoid-arthritis/predicting-rheumatoid-arthritis-onset-from-ehr-data/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/rheumatoid-arthritis/predicting-rheumatoid-arthritis-onset-from-ehr-data/</guid>
-      <description>&lt;p&gt;Rheumatoid arthritis (RA) affects approximately 1% of the global population and causes progressive, irreversible joint destruction if not treated early. The challenge is that early RA can be difficult to diagnose â€” symptoms are nonspecific, serological markers are not always present, and patients may cycle through primary care visits for months or years before receiving a definitive diagnosis. By the time treatment begins, significant joint damage may have already occurred.&lt;/p&gt;
+&lt;p&gt;Together, these findings establish that the neural impact of metabolic dysfunction is not a late-life phenomenon â€” it is already measurable in young adults, it is selective in its effects, and it differs by sex. This reframes the timeline for prevention and opens new questions about whether early metabolic intervention could preserve neural function decades before dementia risk becomes clinically apparent.&lt;/p&gt;</description></item><item><title>Omid Rostami</title><link>https://academic-demo.netlify.app/team/omid-rostami/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/omid-rostami/</guid><description/></item><item><title>Parvin Mohammadiarvejeh</title><link>https://academic-demo.netlify.app/team/parvin-mohammadiarvejeh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/parvin-mohammadiarvejeh/</guid><description/></item><item><title>Predicting Rheumatoid Arthritis Onset from EHR Data</title><link>https://academic-demo.netlify.app/project/rheumatoid-arthritis/predicting-rheumatoid-arthritis-onset-from-ehr-data/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/rheumatoid-arthritis/predicting-rheumatoid-arthritis-onset-from-ehr-data/</guid><description>&lt;p&gt;Rheumatoid arthritis (RA) affects approximately 1% of the global population and causes progressive, irreversible joint destruction if not treated early. The challenge is that early RA can be difficult to diagnose â€” symptoms are nonspecific, serological markers are not always present, and patients may cycle through primary care visits for months or years before receiving a definitive diagnosis. By the time treatment begins, significant joint damage may have already occurred.&lt;/p&gt;
 &lt;p&gt;An EHR-based predictive model for RA onset would address this problem by identifying high-risk individuals from the pattern of their clinical encounters â€” laboratory values, visit frequencies, prescribed medications, diagnostic codes â€” before a rheumatologist makes the diagnosis. Such a model could function as a scalable, low-cost screening tool integrated into existing clinical workflows, flagging patients for targeted evaluation and potentially accelerating the time to treatment.&lt;/p&gt;
-&lt;p&gt;[Additional details on study design, dataset, features, and modeling approach to be added.]&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rafat Rahman</title>
-      <link>https://academic-demo.netlify.app/team/rafat-rahman/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/rafat-rahman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Samaneh Rezaeimanesh</title>
-      <link>https://academic-demo.netlify.app/team/samaneh-rezaeimanesh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/samaneh-rezaeimanesh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SARS-CoV-2 Molecular Studies</title>
-      <link>https://academic-demo.netlify.app/project/sars-cov-2-pandemic/sars-cov-2-molecular-studies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/sars-cov-2-pandemic/sars-cov-2-molecular-studies/</guid>
-      <description>&lt;p&gt;When new SARS-CoV-2 variants emerged during the pandemic, the public health response was almost always reactive â€” a variant would be detected, sequenced, characterized, and only then would its implications for therapeutics and vaccines be assessed. The question that motivated this research was whether it is possible to reverse that sequence: Can we predict the mutational profiles of emerging subvariants before they reach clinical significance, based on the evolutionary patterns visible in the viral genome?&lt;/p&gt;
+&lt;p&gt;[Additional details on study design, dataset, features, and modeling approach to be added.]&lt;/p&gt;</description></item><item><title>Rafat Rahman</title><link>https://academic-demo.netlify.app/team/rafat-rahman/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/rafat-rahman/</guid><description/></item><item><title>Samaneh Rezaeimanesh</title><link>https://academic-demo.netlify.app/team/samaneh-rezaeimanesh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/samaneh-rezaeimanesh/</guid><description/></item><item><title>SARS-CoV-2 Molecular Studies</title><link>https://academic-demo.netlify.app/project/sars-cov-2-pandemic/sars-cov-2-molecular-studies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/sars-cov-2-pandemic/sars-cov-2-molecular-studies/</guid><description>&lt;p&gt;When new SARS-CoV-2 variants emerged during the pandemic, the public health response was almost always reactive â€” a variant would be detected, sequenced, characterized, and only then would its implications for therapeutics and vaccines be assessed. The question that motivated this research was whether it is possible to reverse that sequence: Can we predict the mutational profiles of emerging subvariants before they reach clinical significance, based on the evolutionary patterns visible in the viral genome?&lt;/p&gt;
 &lt;p&gt;Our approach was to analyze amino acid variability across the entire spike protein â€” the primary target for antibodies and vaccines â€” using phylogeny-indexed baseline sequences. The first step was to establish that the variability was not random. I designed a statistical procedure using permutation tests to test whether spatial clustering of volatility exists on the spike protein, ruling out the possibility that high-variability positions are arbitrarily distributed. Having confirmed that spatial structure exists, we built a machine learning framework to predict the emergence of lineage-defining mutations â€” the specific changes that characterize new named variants â€” by leveraging the volatility patterns observed in circulating sequences.&lt;/p&gt;
 &lt;p&gt;This systematic approach was published in &lt;em&gt;PLOS Computational Biology&lt;/em&gt; (2024) and demonstrated the ability to map the evolutionary space of SARS-CoV-2 variants in a way that anticipates the emergence of subvariants resistant to COVID-19 therapeutics. The method is general: while applied here to SARS-CoV-2, the same framework for volatility mapping and mutation forecasting could be applied to any rapidly evolving pathogen with sufficient sequence data.&lt;/p&gt;
-&lt;p&gt;In a related study, we characterized the antibody response in COVID-19 convalescent individuals, analyzing the variability in antibody responses against different regions of the spike protein. The finding â€” that domain specificity and relative potency showed limited variation between individuals â€” provided insight into the consistency of the population-level immune response and was published in &lt;em&gt;Microbiology Spectrum&lt;/em&gt; (2022).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SePTeR: Therapeutic Resistance Prediction Software</title>
-      <link>https://academic-demo.netlify.app/project/hiv-1-dynamics/septer-therapeutic-resistance-prediction-software/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/hiv-1-dynamics/septer-therapeutic-resistance-prediction-software/</guid>
-      <description>&lt;p&gt;A predictive model is only as useful as its accessibility. The most accurate resistance prediction algorithm in the world is worthless if it lives exclusively in a researcher&amp;rsquo;s Python notebook and cannot be applied routinely by virologists, clinicians, or pharmaceutical scientists working with new patient samples. Translating computational models into deployable tools is a bottleneck that the field recognizes but rarely addresses.&lt;/p&gt;
+&lt;p&gt;In a related study, we characterized the antibody response in COVID-19 convalescent individuals, analyzing the variability in antibody responses against different regions of the spike protein. The finding â€” that domain specificity and relative potency showed limited variation between individuals â€” provided insight into the consistency of the population-level immune response and was published in &lt;em&gt;Microbiology Spectrum&lt;/em&gt; (2022).&lt;/p&gt;</description></item><item><title>SePTeR: Therapeutic Resistance Prediction Software</title><link>https://academic-demo.netlify.app/project/hiv-1-dynamics/septer-therapeutic-resistance-prediction-software/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/hiv-1-dynamics/septer-therapeutic-resistance-prediction-software/</guid><description>&lt;p&gt;A predictive model is only as useful as its accessibility. The most accurate resistance prediction algorithm in the world is worthless if it lives exclusively in a researcher&amp;rsquo;s Python notebook and cannot be applied routinely by virologists, clinicians, or pharmaceutical scientists working with new patient samples. Translating computational models into deployable tools is a bottleneck that the field recognizes but rarely addresses.&lt;/p&gt;
 &lt;p&gt;SePTeR (Sequence-based Prediction of Temsavir Resistance) was designed to close this gap. It is a software tool that automates the entire resistance estimation process from viral sequences: a user inputs a sequence, and the tool returns a resistance estimate along with statistical analysis, visualization, and comparative analysis against reference sequences. The goal is to make the predictive power of our AI-based resistance models available to anyone working with HIV-1 sequence data, without requiring expertise in machine learning or bioinformatics programming.&lt;/p&gt;
 &lt;p&gt;The first version of SePTeR is functional and in active use within our collaboration with ViiV Healthcare. A planned second version will incorporate additional functionality including sequence alignment, sensitivity analysis, and individualized analysis through SHAP (SHapley Additive exPlanations) values â€” enabling users to understand not just whether a given sequence predicts resistance, but which specific positions and mutations are driving the prediction for that particular patient&amp;rsquo;s virus. This level of interpretability is essential for clinical translation, where treatment decisions must be explainable.&lt;/p&gt;
-&lt;p&gt;We plan to extend the SePTeR framework to the N6 broadly neutralizing antibody, with a proposal to ViiV Healthcare in development.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sina Aghakhani</title>
-      <link>https://academic-demo.netlify.app/team/sina-aghakhani/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/sina-aghakhani/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stochastic Optimization</title>
-      <link>https://academic-demo.netlify.app/project/optimization/stochastic-optimization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/optimization/stochastic-optimization/</guid>
-      <description>&lt;p&gt;At the heart of nearly every modern AI system is an optimization algorithm trying to find the best parameters in a vast, complex landscape full of ridges, valleys, and deceptive local minima. Stochastic Gradient Descent (SGD) and its variants have become the workhorses of deep learning, but they remain fundamentally limited: in high-dimensional, non-convex loss landscapes, these algorithms frequently converge to local minima that are far from the global optimum. Escaping these traps requires some form of perturbation â€” but not all perturbations are created equal.&lt;/p&gt;
+&lt;p&gt;We plan to extend the SePTeR framework to the N6 broadly neutralizing antibody, with a proposal to ViiV Healthcare in development.&lt;/p&gt;</description></item><item><title>Sina Aghakhani</title><link>https://academic-demo.netlify.app/team/sina-aghakhani/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/sina-aghakhani/</guid><description/></item><item><title>Stochastic Optimization</title><link>https://academic-demo.netlify.app/project/optimization/stochastic-optimization/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/optimization/stochastic-optimization/</guid><description>&lt;p&gt;At the heart of nearly every modern AI system is an optimization algorithm trying to find the best parameters in a vast, complex landscape full of ridges, valleys, and deceptive local minima. Stochastic Gradient Descent (SGD) and its variants have become the workhorses of deep learning, but they remain fundamentally limited: in high-dimensional, non-convex loss landscapes, these algorithms frequently converge to local minima that are far from the global optimum. Escaping these traps requires some form of perturbation â€” but not all perturbations are created equal.&lt;/p&gt;
 &lt;p&gt;This project, conducted in collaboration with Dr. Farzad Sabzikar from the Statistics department at Iowa State University, introduces a noise-injection optimization framework based on correlated heavy-tailed tempered fractional noise. The key insight is that the statistical properties of the injected noise â€” its heaviness of tail, its temporal correlation structure, and its tempering â€” should be matched to the structure of the optimization landscape. Heavy tails allow occasional large jumps that can escape deep local minima. Temporal correlation ensures that the perturbations are not simply random shocks but have directional persistence. Tempering controls the tail behavior to maintain mathematical tractability.&lt;/p&gt;
 &lt;p&gt;Preliminary experiments demonstrate that this framework effectively escapes local minima in cases where other advanced algorithms â€” including fractional perturbed gradient descent â€” become trapped. We have submitted a proposal to NSF&amp;rsquo;s Mathematical Foundations of Artificial Intelligence (MFAI) program to pursue this work, and the manuscript is in preparation for &lt;em&gt;JMLR&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Any improvement in optimization convergence that yields better solutions with fewer computational resources has implications far beyond the specific application: it benefits the entire community of researchers and practitioners working in deep learning, machine learning, generative AI, and any field that relies on efficient and scalable optimization.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Super-Agers and Positive-Agers</title>
-      <link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/super-agers-and-positive-agers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/super-agers-and-positive-agers/</guid>
-      <description>&lt;p&gt;Not everyone ages the same way. While cognitive decline is common in older adults, a remarkable subset â€” often called &amp;ldquo;Super-Agers&amp;rdquo; or &amp;ldquo;Positive-Agers&amp;rdquo; â€” maintains cognitive performance well above age-matched norms, sometimes rivaling individuals decades younger. At the other extreme, &amp;ldquo;Cognitive Decliners&amp;rdquo; show accelerated loss of function that may herald progression toward mild cognitive impairment or Alzheimer&amp;rsquo;s disease. Understanding what separates these groups at the level of the brain is one of the most consequential questions in aging research: if we can identify the neural signatures of exceptional cognitive resilience, we gain both a screening tool to flag at-risk individuals and a set of biological targets that interventions could aim to preserve.&lt;/p&gt;
+&lt;p&gt;Any improvement in optimization convergence that yields better solutions with fewer computational resources has implications far beyond the specific application: it benefits the entire community of researchers and practitioners working in deep learning, machine learning, generative AI, and any field that relies on efficient and scalable optimization.&lt;/p&gt;</description></item><item><title>Super-Agers and Positive-Agers</title><link>https://academic-demo.netlify.app/project/longevity-cognitive-aging/super-agers-and-positive-agers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/longevity-cognitive-aging/super-agers-and-positive-agers/</guid><description>&lt;p&gt;Not everyone ages the same way. While cognitive decline is common in older adults, a remarkable subset â€” often called &amp;ldquo;Super-Agers&amp;rdquo; or &amp;ldquo;Positive-Agers&amp;rdquo; â€” maintains cognitive performance well above age-matched norms, sometimes rivaling individuals decades younger. At the other extreme, &amp;ldquo;Cognitive Decliners&amp;rdquo; show accelerated loss of function that may herald progression toward mild cognitive impairment or Alzheimer&amp;rsquo;s disease. Understanding what separates these groups at the level of the brain is one of the most consequential questions in aging research: if we can identify the neural signatures of exceptional cognitive resilience, we gain both a screening tool to flag at-risk individuals and a set of biological targets that interventions could aim to preserve.&lt;/p&gt;
 &lt;p&gt;This line of research, supported by an Alzheimer&amp;rsquo;s Association Research Grant ($148,300), has been a sustained focus of my program. Using multimodal neuroimaging data from the UK Biobank and ADNI cohorts, we have systematically investigated how different imaging modalities capture the distinction between Positive-Agers, Normal-Agers, and Cognitive Decliners.&lt;/p&gt;
 &lt;p&gt;Our first major contribution was the development of OLBO (Optimal Labeling using Bayesian Optimization), a hybrid machine learning and optimization algorithm designed to classify extreme cognitive phenotypes from resting-state functional MRI (rsfMRI) data. OLBO addresses a fundamental challenge in this field: because cognitive aging exists on a continuum, the boundaries between groups are not given by nature â€” they must be learned. OLBO jointly optimizes the labeling of individuals into cognitive classes and the classification model itself, producing more robust and interpretable phenotype assignments than conventional thresholding approaches. Applied to rsfMRI functional connectivity networks from the UK Biobank, OLBO successfully differentiated Positive-Agers from Cognitive Decliners and identified the key neural functional connectivity networks contributing to these differences. This work was published in &lt;em&gt;Alzheimer&amp;rsquo;s &amp;amp; Dementia: Diagnosis, Assessment &amp;amp; Disease Monitoring&lt;/em&gt; (2024).&lt;/p&gt;
 &lt;p&gt;We then extended this investigation to structural MRI and diffusion-weighted MRI, asking whether the same cognitive phenotypes could be distinguished using different aspects of brain anatomy. Using structural MRI, a hybrid feature selection method improved classification accuracy and identified structural brain signatures â€” patterns of cortical thickness, subcortical volumes, and morphological features â€” associated with cognitive resilience. This study was published in &lt;em&gt;GeroScience&lt;/em&gt; (2024). Using diffusion MRI, we examined white-matter tract integrity and found that specific tracts and demographic factors distinguish potential Super-Agers, with diffusion metrics providing complementary information to what functional connectivity alone can capture. This work appeared in &lt;em&gt;GeroScience&lt;/em&gt; (2025). An earlier exploratory study characterized the broader biomarker and neuroimaging profile of super-aging in the UK Biobank (&lt;em&gt;GeroScience&lt;/em&gt;, 2023).&lt;/p&gt;
 &lt;p&gt;An ongoing study brings these threads together by comparing the discriminative power of all three modalities â€” rsfMRI, sMRI, and dMRI â€” within a unified analytical framework, asking which modality, or which combination, provides the most reliable identification of cognitive phenotypes. This comparative analysis is in preparation for &lt;em&gt;GeroScience&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Throughout this work, I have mentored two Ph.D. students and multiple undergraduate researchers, producing publications, poster awards at AAIC, IISE, and INFORMS conferences, and an invited podcast for the Alzheimer&amp;rsquo;s Association&amp;rsquo;s ISTAART.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Thatcher Merrit</title>
-      <link>https://academic-demo.netlify.app/team/thatcher-merrit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/thatcher-merrit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>William VanDyke</title>
-      <link>https://academic-demo.netlify.app/team/william-vandyke/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/william-vandyke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yuehai Yu</title>
-      <link>https://academic-demo.netlify.app/team/yuehai-yu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/yuehai-yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zero-Knowledge Proofs for Clinical Research</title>
-      <link>https://academic-demo.netlify.app/project/methodology/zero-knowledge-proofs-for-clinical-research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/methodology/zero-knowledge-proofs-for-clinical-research/</guid>
-      <description>&lt;p&gt;Multi-institutional health research â€” the kind of large-scale, collaborative science needed to advance precision medicine â€” is fundamentally bottlenecked by data sharing. Patient records are sensitive, regulatory frameworks are strict, and institutions are understandably reluctant to share raw clinical data, even for legitimate research purposes. The result is that many scientifically important questions go unanswered not because the data doesn&amp;rsquo;t exist, but because it can&amp;rsquo;t be moved.&lt;/p&gt;
+&lt;p&gt;Throughout this work, I have mentored two Ph.D. students and multiple undergraduate researchers, producing publications, poster awards at AAIC, IISE, and INFORMS conferences, and an invited podcast for the Alzheimer&amp;rsquo;s Association&amp;rsquo;s ISTAART.&lt;/p&gt;</description></item><item><title>Thatcher Merrit</title><link>https://academic-demo.netlify.app/team/thatcher-merrit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/thatcher-merrit/</guid><description/></item><item><title>William VanDyke</title><link>https://academic-demo.netlify.app/team/william-vandyke/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/william-vandyke/</guid><description/></item><item><title>Yuehai Yu</title><link>https://academic-demo.netlify.app/team/yuehai-yu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/yuehai-yu/</guid><description/></item><item><title>Zero-Knowledge Proofs for Clinical Research</title><link>https://academic-demo.netlify.app/project/methodology/zero-knowledge-proofs-for-clinical-research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/project/methodology/zero-knowledge-proofs-for-clinical-research/</guid><description>&lt;p&gt;Multi-institutional health research â€” the kind of large-scale, collaborative science needed to advance precision medicine â€” is fundamentally bottlenecked by data sharing. Patient records are sensitive, regulatory frameworks are strict, and institutions are understandably reluctant to share raw clinical data, even for legitimate research purposes. The result is that many scientifically important questions go unanswered not because the data doesn&amp;rsquo;t exist, but because it can&amp;rsquo;t be moved.&lt;/p&gt;
 &lt;p&gt;Zero-knowledge proofs offer an elegant solution to this problem. A zero-knowledge proof allows one party to prove to another that a computation was performed correctly â€” that inclusion/exclusion criteria were applied, that a regression was run, that a statistical test yielded a specific result â€” without revealing any of the underlying data. The verifier learns that the statement is true, but learns nothing else. Applied to clinical research, this means that institutions could verify each other&amp;rsquo;s analyses without ever exchanging patient records.&lt;/p&gt;
 &lt;p&gt;In collaboration with researchers in security and cryptography, I am co-designing zero-knowledge proof systems tailored specifically to clinical research workflows. The first system, CoSMeTIC (Computational Sparse Merkle Trees with Inclusion-Exclusion proofs), enables verifiable computation of cohort selection criteria on sensitive datasets. The second extends this framework to membership verification in linear regression analysis â€” proving that specific data points were included in a regression without revealing the data itself.&lt;/p&gt;
-&lt;p&gt;CoSMeTIC is under review at &lt;em&gt;ACM CCS&lt;/em&gt;, and the regression extension targets &lt;em&gt;USENIX Security Symposium&lt;/em&gt;. This line of work addresses a growing and increasingly urgent need: as multi-institutional research consortia become the norm in precision medicine, the ability to conduct verifiable, privacy-preserving computation on clinical data will be essential infrastructure.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Zheyuan Yu</title>
-      <link>https://academic-demo.netlify.app/team/zheyuan-yu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/team/zheyuan-yu/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;CoSMeTIC is under review at &lt;em&gt;ACM CCS&lt;/em&gt;, and the regression extension targets &lt;em&gt;USENIX Security Symposium&lt;/em&gt;. This line of work addresses a growing and increasingly urgent need: as multi-institutional research consortia become the norm in precision medicine, the ability to conduct verifiable, privacy-preserving computation on clinical data will be essential infrastructure.&lt;/p&gt;</description></item><item><title>Zheyuan Yu</title><link>https://academic-demo.netlify.app/team/zheyuan-yu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://academic-demo.netlify.app/team/zheyuan-yu/</guid><description/></item></channel></rss>

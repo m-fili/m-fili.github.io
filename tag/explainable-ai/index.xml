@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Explainable AI | Mohammad Fili</title>
+    <link>http://localhost:1314/tag/explainable-ai/</link>
+      <atom:link href="http://localhost:1314/tag/explainable-ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Explainable AI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1314/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>Explainable AI</title>
+      <link>http://localhost:1314/tag/explainable-ai/</link>
+    </image>
+    
+    <item>
+      <title>SHAP-based Feature Importance Aggregation Across MRI Modalities</title>
+      <link>http://localhost:1314/project/paper-4/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/project/paper-4/</guid>
+      <description>&lt;p&gt;We propose a principled framework for aggregating SHAP-based feature importance scores across rsfMRI, dMRI, and sMRI modalities for group classification. Our method addresses selection bias, double-counting, and uncertainty quantification in multimodal neuroimaging studies.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

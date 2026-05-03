@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HIV-1 Dynamics | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/research/hiv-1/</link>
+      <atom:link href="https://academic-demo.netlify.app/research/hiv-1/index.xml" rel="self" type="application/rss+xml" />
+    <description>HIV-1 Dynamics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>HIV-1 Dynamics</title>
+      <link>https://academic-demo.netlify.app/research/hiv-1/</link>
+    </image>
+    
+    <item>
+      <title>Network Simulation of HIV-1 Transmission Dynamics in High-Risk Urban Populations</title>
+      <link>https://academic-demo.netlify.app/research/hiv-1/study-1/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/research/hiv-1/study-1/</guid>
+      <description>&lt;p&gt;Overview
+A vast, agent-based epidemiological simulation modeling the transmission of drug-resistant HIV-1 strains.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+Understanding how specific behavioral networks and non-adherence patterns fuel the propagation of multi-drug resistant strains.&lt;/p&gt;
+&lt;p&gt;Methodology
+Built a stochastic agent-based model (ABM) calibrated with sociodemographic and clinical parameters from high-risk urban centers.&lt;/p&gt;
+&lt;p&gt;Key Findings
+Preliminary results indicate that targeted PrEP interventions in highly connected sub-networks drastically reduces population-level resistance prevalence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Prediction of Antiretroviral Therapy Switching Due to Viral Rebound</title>
+      <link>https://academic-demo.netlify.app/research/hiv-1/study-2/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/research/hiv-1/study-2/</guid>
+      <description>&lt;p&gt;Overview
+A probabilistic framework predicting the likelihood and timing of virologic failure in patients on long-term ART.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+Late detection of viral rebound leads to irreversible immune system damage and increased transmission risk.&lt;/p&gt;
+&lt;p&gt;Methodology
+Leveraged longitudinal viral load monitoring data to train a hierarchical Bayesian joint model.&lt;/p&gt;
+&lt;p&gt;Key Findings
+The model successfully flagged imminent viral rebound an average of 3 months earlier than standard threshold-based alarms.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

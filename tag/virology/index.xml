@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virology | Mohammad Fili</title>
+    <link>http://localhost:1314/tag/virology/</link>
+      <atom:link href="http://localhost:1314/tag/virology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Virology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1314/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>Virology</title>
+      <link>http://localhost:1314/tag/virology/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Prediction of Antiretroviral Therapy Switching Due to Viral Rebound</title>
+      <link>http://localhost:1314/project/hiv-1/study-2/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/project/hiv-1/study-2/</guid>
+      <description>&lt;p&gt;Overview
+A probabilistic framework predicting the likelihood and timing of virologic failure in patients on long-term ART.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+Late detection of viral rebound leads to irreversible immune system damage and increased transmission risk.&lt;/p&gt;
+&lt;p&gt;Methodology
+Leveraged longitudinal viral load monitoring data to train a hierarchical Bayesian joint model.&lt;/p&gt;
+&lt;p&gt;Key Findings
+The model successfully flagged imminent viral rebound an average of 3 months earlier than standard threshold-based alarms.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

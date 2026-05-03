@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning | Mohammad Fili</title>
+    <link>https://academic-demo.netlify.app/tag/reinforcement-learning/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reinforcement Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu_a5e407e18fd79fab.png</url>
+      <title>Reinforcement Learning</title>
+      <link>https://academic-demo.netlify.app/tag/reinforcement-learning/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Treatment Regimes for RA Patients: A Reinforcement Learning Approach</title>
+      <link>https://academic-demo.netlify.app/project/rheumatoid-arthritis/study-1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/rheumatoid-arthritis/study-1/</guid>
+      <description>&lt;p&gt;Overview
+A novel application of offline reinforcement learning to optimize sequential treatment decisions for Rheumatoid Arthritis patients.&lt;/p&gt;
+&lt;p&gt;Problem Motivation
+Clinicians often rely on a trial-and-error approach to DMARD therapy due to heterogeneous patient responses.&lt;/p&gt;
+&lt;p&gt;Methodology
+Modeled the treatment pathway as a Markov Decision Process (MDP) and applied Q-learning algorithms to retrospective clinical trial data.&lt;/p&gt;
+&lt;p&gt;Key Findings
+The proposed dynamic treatment regime out-performed standard-of-care guidelines in simulated environments by reducing time-to-remission by 22%.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
